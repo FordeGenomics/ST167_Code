@@ -1,0 +1,2134 @@
+Assembly_barcode	year_range	year_range_colour	Disease	Disease_color	Isolate source	isolate_source_colour	Capsule_color	Best match locus	Continent	continent_color
+ESC_AA2067AA_AS	2010-2014	#1f78b4	other	#afafaf	Human	#fdc086	#afafaf	Unassigned	Europe	#a6cee3
+ESC_AA2069AA_AS	1990-1999	white	other	#afafaf	Human	#fdc086	#afafaf	Unassigned	South America	#fb9a99
+ESC_AA2070AA_AS	2005-2009	#abd9e9	other	#afafaf	Animal	#7fc97f	#afafaf	Unassigned	Africa	#b2df8a
+ESC_AA2071AA_AS	2000-2004	#b2df8a	UTI/urine	#ffff33	Human	#fdc086	#afafaf	Unassigned	South America	#fb9a99
+ESC_AA2072AA_AS	1990-1999	white	other	#afafaf	Human	#fdc086	#afafaf	Unassigned	Africa	#b2df8a
+ESC_AA2073AA_AS	2005-2009	#abd9e9	other	#afafaf	Human	#fdc086	#afafaf	Unassigned	South America	#fb9a99
+ESC_AA2074AA_AS	2000-2004	#b2df8a	UTI/urine	#ffff33	Human	#fdc086	#afafaf	Unassigned	Europe	#a6cee3
+ESC_AA2075AA_AS	2000-2004	#b2df8a	UTI/urine	#ffff33	Human	#fdc086	#afafaf	Unassigned	South America	#fb9a99
+ESC_AA2076AA_AS	2005-2009	#abd9e9	other	#afafaf	Human	#fdc086	#afafaf	Unassigned	Asia	#1f78b4
+ESC_AA2077AA_AS	2005-2009	#abd9e9	other	#afafaf	Animal	#7fc97f	#afafaf	Unassigned	Europe	#a6cee3
+ESC_AA2078AA_AS	2005-2009	#abd9e9	UTI/urine	#ffff33	Human	#fdc086	#afafaf	Unassigned	North America	#33a02c
+ESC_AA2079AA_AS	2005-2009	#abd9e9	other	#afafaf			#afafaf	Unassigned	Europe	#a6cee3
+ESC_AA2080AA_AS	1990-1999	white	other	#afafaf	Human	#fdc086	#afafaf	Unassigned	Africa	#b2df8a
+ESC_AA2081AA_AS	2005-2009	#abd9e9	other	#afafaf	Human	#fdc086	#afafaf	Unassigned	Europe	#a6cee3
+ESC_AA2082AA_AS	1990-1999	white	other	#afafaf	Human	#fdc086	#afafaf	Unassigned	Africa	#b2df8a
+ESC_AA2083AA_AS	2000-2004	#b2df8a	other	#afafaf	Human	#fdc086	#afafaf	Unassigned	South America	#fb9a99
+ESC_AA2084AA_AS	NA	white	other	#afafaf	Human	#fdc086	#afafaf	Unassigned	Europe	#a6cee3
+ESC_AA2085AA_AS	2010-2014	#1f78b4	blood	red	Human	#fdc086	#afafaf	Unassigned	Europe	#a6cee3
+ESC_AA2086AA_AS	2005-2009	#abd9e9	other	#afafaf	Human	#fdc086	#afafaf	Unassigned	Europe	#a6cee3
+ESC_AA2087AA_AS	2005-2009	#abd9e9	other	#afafaf	Animal	#7fc97f	#afafaf	Unassigned	Europe	#a6cee3
+ESC_AA2088AA_AS	2000-2004	#b2df8a	UTI/urine	#ffff33	Human	#fdc086	#afafaf	Unassigned	Europe	#a6cee3
+ESC_AA2089AA_AS	2005-2009	#abd9e9	other	#afafaf	Animal	#7fc97f	#afafaf	Unassigned	Europe	#a6cee3
+ESC_AA2090AA_AS	2010-2014	#1f78b4	other	#afafaf			#afafaf	Unassigned	Europe	#a6cee3
+ESC_AA2091AA_AS	2000-2004	#b2df8a	other	#afafaf	Human	#fdc086	#afafaf	Unassigned	Europe	#a6cee3
+ESC_CA3854AA_AS	2010-2014	#1f78b4	other	#afafaf	Human	#fdc086	#6A3D9A	KL20	NA	NA
+ESC_TB5803AA_AS	2010-2014	#1f78b4	other	#afafaf	Human	#fdc086	#6A3D9A	KL20	NA	NA
+ESC_AA9624AA_AS	NA	white	other	#afafaf			#E31A1C	KL57	NA	NA
+ESC_BA2349AA_AS	2010-2014	#1f78b4	other	#afafaf	Human	#fdc086	#afafaf	Unassigned	North America	#33a02c
+ESC_CA6621AA_AS	2005-2009	#abd9e9	blood	red	Human	#fdc086	#CAB2D6	KL123	North America	#33a02c
+ESC_CA4072AA_AS	NA	white	other	#afafaf			#fd088e	KL54	NA	NA
+ESC_BA5078AA_AS	NA	white	other	#afafaf			#afafaf	Unassigned	NA	NA
+ESC_CA1214AA_AS	NA	white	other	#afafaf			#FF7F00	KL35	NA	NA
+ESC_AA8584AA_AS	NA	white	other	#afafaf			#005A9C	KL115	NA	NA
+ESC_AA8584AA_AS	NA	white	other	#afafaf			#005A9C	KL115	NA	NA
+ESC_CA1597AA_AS	NA	white	blood	red	Human	#fdc086	#FF7F00	KL35	Europe	#a6cee3
+ESC_BA1564AA_AS	NA	white	blood	red	Human	#fdc086	#3dfc7d	KL30	Europe	#a6cee3
+ESC_BA1845AA_AS	NA	white	blood	red	Human	#fdc086	#CAB2D6	KL123	Europe	#a6cee3
+ESC_AA9102AA_AS	NA	white	blood	red	Human	#fdc086	#3dfc7d	KL30	Europe	#a6cee3
+ESC_AA9102AA_AS	NA	white	blood	red	Human	#fdc086	#3dfc7d	KL30	Europe	#a6cee3
+ESC_AA8555AA_AS	NA	white	blood	red	Human	#fdc086	#afafaf	Unassigned	Europe	#a6cee3
+ESC_CA3988AA_AS	NA	white	other	#afafaf	Human	#fdc086	#fd088e	KL54	Africa	#b2df8a
+ESC_CA5740AA_AS	NA	white	other	#afafaf	Human	#fdc086	#ffe119	KL5	NA	NA
+ESC_BA4333AA_AS	NA	white	other	#afafaf	Human	#fdc086	#FDBF6F	KL47	NA	NA
+ESC_FA9662AA_AS	NA	white	other	#afafaf			black	KL124	NA	NA
+ESC_FA9692AA_AS	NA	white	other	#afafaf			#afafaf	KL31	NA	NA
+ESC_GA0061AA_AS	NA	white	other	#afafaf			#4695f0	KL103	NA	NA
+ESC_GA0305AA_AS	NA	white	other	#afafaf			#d5d36e	KL9	NA	NA
+ESC_GA5759AA_AS	2015-2019	#fdae61	other	#afafaf			#afafaf	Unassigned	Europe	#a6cee3
+ESC_GA5758AA_AS	2015-2019	#fdae61	other	#afafaf			#afafaf	Unassigned	Europe	#a6cee3
+ESC_GA5757AA_AS	2015-2019	#fdae61	other	#afafaf			#6A3D9A	KL20	Europe	#a6cee3
+ESC_GA5756AA_AS	2015-2019	#fdae61	other	#afafaf			#6A3D9A	KL20	Europe	#a6cee3
+ESC_GA5755AA_AS	2010-2014	#1f78b4	other	#afafaf	Human	#fdc086	#6A3D9A	KL20	Europe	#a6cee3
+ESC_GA6911AA_AS	2000-2004	#b2df8a	other	#afafaf	Animal	#7fc97f	#FB9A99	KL55	North America	#33a02c
+ESC_GA8888AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#afafaf	Unassigned	Europe	#a6cee3
+ESC_LB2516AA_AS	2015-2019	#fdae61	blood	red	Human	#fdc086	#afafaf	KL16	North America	#33a02c
+ESC_HA7187AA_AS	2005-2009	#abd9e9	other	#afafaf	Animal	#7fc97f	#fd088e	KL54	Europe	#a6cee3
+ESC_HA7184AA_AS	2005-2009	#abd9e9	other	#afafaf	Animal	#7fc97f	#FB9A99	KL55	Europe	#a6cee3
+ESC_HA6306AA_AS	NA	white	UTI/urine	#ffff33	Human	#fdc086	#3dfc7d	KL30	North America	#33a02c
+ESC_VA2268AA_AS	NA	white	other	#afafaf			#29c722	KL127	NA	NA
+ESC_VA2263AA_AS	NA	white	other	#afafaf			#29c722	KL127	NA	NA
+ESC_HA5571AA_AS	2000-2004	#b2df8a	other	#afafaf	Human	#fdc086	#afafaf	Unassigned	North America	#33a02c
+ESC_HA5534AA_AS	2015-2019	#fdae61	UTI/urine	#ffff33	Human	#fdc086	#afafaf	Unassigned	North America	#33a02c
+ESC_HA5210AA_AS	NA	white	other	#afafaf			#afafaf	KL16	NA	NA
+ESC_HA5191AA_AS	NA	white	other	#afafaf			#d66384	KL101	NA	NA
+ESC_HA5187AA_AS	NA	white	other	#afafaf			#35978f	KL48	NA	NA
+ESC_HA4131AA_AS	NA	white	other	#afafaf			#afafaf	Unassigned	NA	NA
+ESC_HA3790AA_AS	NA	white	other	#afafaf			#29c722	KL127	NA	NA
+ESC_HA3782AA_AS	NA	white	other	#afafaf			#29c722	KL127	NA	NA
+ESC_HA3719AA_AS	NA	white	other	#afafaf			#afafaf	KL16	NA	NA
+ESC_HA2215AA_AS	NA	white	other	#afafaf			#6A3D9A	KL20	NA	NA
+ESC_HA1966AA_AS	2010-2014	#1f78b4	blood	red	Human	#fdc086	#FDBF6F	KL47	Asia	#1f78b4
+ESC_HA1964AA_AS	2010-2014	#1f78b4	blood	red	Human	#fdc086	#FDBF6F	KL47	Asia	#1f78b4
+ESC_HA1888AA_AS	NA	white	other	#afafaf			#afafaf	Unassigned	NA	NA
+ESC_HA3081AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#afafaf	KL125	Asia	#1f78b4
+ESC_HA7064AA_AS	2015-2019	#fdae61	UTI/urine	#ffff33	Human	#fdc086	#fd088e	KL54	North America	#33a02c
+ESC_VA2364AA_AS	NA	white	other	#afafaf			#4695f0	KL103	NA	NA
+ESC_VA2362AA_AS	NA	white	other	#afafaf			#afafaf	KL125	NA	NA
+ESC_VA2359AA_AS	NA	white	other	#afafaf			#afafaf	KL125	NA	NA
+ESC_VA2366AA_AS	NA	white	other	#afafaf			#afafaf	KL125	NA	NA
+ESC_IA0226AA_AS	NA	white	other	#afafaf			#FF7F00	KL35	NA	NA
+ESC_IA0211AA_AS	NA	white	other	#afafaf			#afafaf	KL125	NA	NA
+ESC_HA9720AA_AS	2010-2014	#1f78b4	other	#afafaf			#afafaf	Unassigned	Europe	#a6cee3
+ESC_UA5515AA_AS	2010-2014	#1f78b4	other	#afafaf	Human	#fdc086	#afafaf	KL31	Europe	#a6cee3
+ESC_UA5523AA_AS	2010-2014	#1f78b4	other	#afafaf	Human	#fdc086	#afafaf	Unassigned	Europe	#a6cee3
+ESC_HA9650AA_AS	2010-2014	#1f78b4	other	#afafaf	Human	#fdc086	#afafaf	Unassigned	Europe	#a6cee3
+ESC_HA9600AA_AS	2010-2014	#1f78b4	other	#afafaf	Human	#fdc086	#29c722	KL127	Europe	#a6cee3
+ESC_HA9547AA_AS	2010-2014	#1f78b4	other	#afafaf	Human	#fdc086	#afafaf	KL31	Europe	#a6cee3
+ESC_HA9546AA_AS	2010-2014	#1f78b4	other	#afafaf	Human	#fdc086	#afafaf	KL31	Europe	#a6cee3
+ESC_IA1788AA_AS	2010-2014	#1f78b4	other	#afafaf			#afafaf	Unassigned	Europe	#a6cee3
+ESC_IA7977AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#4695f0	KL103	Asia	#1f78b4
+ESC_IA7980AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#3dfc7d	KL30	Asia	#1f78b4
+ESC_IA7994AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#4695f0	KL103	Asia	#1f78b4
+ESC_IA3291AA_AS	NA	white	other	#afafaf			#6A3D9A	KL20	NA	NA
+ESC_IA6359AA_AS	NA	white	other	#afafaf			#E31A1C	KL57	NA	NA
+ESC_IA7512AA_AS	NA	white	other	#afafaf			#3dfc7d	KL30	NA	NA
+ESC_IA8066AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#3dfc7d	KL30	North America	#33a02c
+ESC_JA0577AA_AS	NA	white	other	#afafaf	Human	#fdc086	#afafaf	Unassigned	Europe	#a6cee3
+ESC_JA0572AA_AS	NA	white	other	#afafaf	Human	#fdc086	#FF7F00	KL35	Europe	#a6cee3
+ESC_JA0213AA_AS	NA	white	other	#afafaf	Human	#fdc086	#005A9C	KL115	Europe	#a6cee3
+ESC_JA0067AA_AS	NA	white	other	#afafaf	Human	#fdc086	#afafaf	Unassigned	Europe	#a6cee3
+ESC_IA9974AA_AS	NA	white	other	#afafaf	Human	#fdc086	#904f02	KL158	Europe	#a6cee3
+ESC_JA0437AA_AS	NA	white	other	#afafaf	Human	#fdc086	#FF7F00	KL35	Europe	#a6cee3
+ESC_IA9760AA_AS	NA	white	other	#afafaf	Human	#fdc086	#5d7499	KL58	Europe	#a6cee3
+ESC_IA9725AA_AS	NA	white	other	#afafaf	Human	#fdc086	#29c722	KL127	Europe	#a6cee3
+ESC_JA0128AA_AS	NA	white	other	#afafaf	Human	#fdc086	#29c722	KL127	Europe	#a6cee3
+ESC_IA9720AA_AS	NA	white	other	#afafaf	Human	#fdc086	#29c722	KL127	Europe	#a6cee3
+ESC_IA9132AA_AS	NA	white	other	#afafaf	Human	#fdc086	#6A3D9A	KL20	Europe	#a6cee3
+ESC_IA9006AA_AS	NA	white	other	#afafaf	Human	#fdc086	#005A9C	KL115	Europe	#a6cee3
+ESC_IA9005AA_AS	NA	white	other	#afafaf	Human	#fdc086	#005A9C	KL115	Europe	#a6cee3
+ESC_JA0333AA_AS	NA	white	other	#afafaf	Human	#fdc086	#904f02	KL158	Europe	#a6cee3
+ESC_JA5254AA_AS	NA	white	other	#afafaf			#afafaf	KL31	NA	NA
+ESC_KA1988AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#3dfc7d	KL30	Europe	#a6cee3
+ESC_KA4855AA_AS	2015-2019	#fdae61	other	#afafaf			#6A3D9A	KL20	Europe	#a6cee3
+ESC_KA7801AA_AS	2010-2014	#1f78b4	UTI/urine	#ffff33	Human	#fdc086	#005A9C	KL115	Asia	#1f78b4
+ESC_KA7852AA_AS	2010-2014	#1f78b4	other	#afafaf	Animal	#7fc97f	#3dfc7d	KL30	Asia	#1f78b4
+ESC_VA2241AA_AS	2010-2014	#1f78b4	rectal	#bf812d	Human	#fdc086	#35978f	KL48	Asia	#1f78b4
+ESC_KA9872AA_AS	2010-2014	#1f78b4	rectal	#bf812d	Human	#fdc086	#3dfc7d	KL30	Asia	#1f78b4
+ESC_KA9869AA_AS	2010-2014	#1f78b4	blood	red	Human	#fdc086	#afafaf	Unassigned	Asia	#1f78b4
+ESC_KA9868AA_AS	2010-2014	#1f78b4	rectal	#bf812d	Human	#fdc086	#3dfc7d	KL30	Asia	#1f78b4
+ESC_KA9867AA_AS	2010-2014	#1f78b4	rectal	#bf812d	Human	#fdc086	#3dfc7d	KL30	Asia	#1f78b4
+ESC_KA9866AA_AS	2010-2014	#1f78b4	rectal	#bf812d	Human	#fdc086	#3dfc7d	KL30	Asia	#1f78b4
+ESC_VA1994AA_AS	2010-2014	#1f78b4	rectal	#bf812d	Human	#fdc086	#3dfc7d	KL30	Asia	#1f78b4
+ESC_KA9864AA_AS	2010-2014	#1f78b4	other	#afafaf	Human	#fdc086	#abf186	KL14	Asia	#1f78b4
+ESC_KA9863AA_AS	2010-2014	#1f78b4	rectal	#bf812d	Human	#fdc086	#3dfc7d	KL30	Asia	#1f78b4
+ESC_MA2761AA_AS	NA	white	other	#afafaf			#d66384	KL101	NA	NA
+ESC_MA0225AA_AS	NA	white	other	#afafaf			#E31A1C	KL57	NA	NA
+ESC_LB2505AA_AS	NA	white	other	#afafaf	Human	#fdc086	#3dfc7d	KL30	Asia	#1f78b4
+ESC_MA4033AA_AS	NA	white	other	#afafaf			#afafaf	Unassigned	NA	NA
+ESC_MA3740AA_AS	NA	white	other	#afafaf			#3dfc7d	KL30	NA	NA
+ESC_MA3696AA_AS	NA	white	other	#afafaf			#4695f0	KL103	NA	NA
+ESC_MA3669AA_AS	NA	white	other	#afafaf			#d66384	KL101	NA	NA
+ESC_MA9965AA_AS	NA	white	other	#afafaf			#d66384	KL101	NA	NA
+ESC_MA9873AA_AS	NA	white	other	#afafaf			#904f02	KL158	NA	NA
+ESC_NA2889AA_AS	NA	white	other	#afafaf			#d5d36e	KL9	NA	NA
+ESC_NA2671AA_AS	2010-2014	#1f78b4	other	#afafaf	Human	#fdc086	#3dfc7d	KL30	North America	#33a02c
+ESC_NA8206AA_AS	NA	white	other	#afafaf			#afafaf	KL31	NA	NA
+ESC_NA8042AA_AS	NA	white	other	#afafaf			#6A3D9A	KL20	NA	NA
+ESC_NA7996AA_AS	NA	white	other	#afafaf			#E31A1C	KL57	NA	NA
+ESC_NA7903AA_AS	NA	white	other	#afafaf			#afafaf	Unassigned	NA	NA
+ESC_NA7902AA_AS	NA	white	other	#afafaf			#fd088e	KL54	NA	NA
+ESC_NA7876AA_AS	NA	white	other	#afafaf			#FB9A99	KL55	NA	NA
+ESC_NA8586AA_AS	2015-2019	#fdae61	other	#afafaf			#abf186	KL14	Asia	#1f78b4
+ESC_OA0345AA_AS	2010-2014	#1f78b4	other	#afafaf	Human	#fdc086	#3dfc7d	KL30	North America	#33a02c
+ESC_OA0775AA_AS	2015-2019	#fdae61	other	#afafaf			#afafaf	Unassigned	Europe	#a6cee3
+ESC_OA1122AA_AS	2010-2014	#1f78b4	other	#afafaf	Human	#fdc086	#afafaf	Unassigned	Asia	#1f78b4
+ESC_UA5739AA_AS	2010-2014	#1f78b4	other	#afafaf	Human	#fdc086	#abf186	KL14	Asia	#1f78b4
+ESC_OA1107AA_AS	2010-2014	#1f78b4	other	#afafaf	Human	#fdc086	#4695f0	KL103	Asia	#1f78b4
+ESC_UA5740AA_AS	2010-2014	#1f78b4	other	#afafaf	Human	#fdc086	#afafaf	Unassigned	Asia	#1f78b4
+ESC_OA1716AA_AS	2010-2014	#1f78b4	other	#afafaf	Human	#fdc086	#4695f0	KL103	Asia	#1f78b4
+ESC_VA2299AA_AS	2010-2014	#1f78b4	rectal	#bf812d	Human	#fdc086	#35978f	KL48	North America	#33a02c
+ESC_BB9302AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#afafaf	Unassigned	North America	#33a02c
+ESC_PA3710AA_AS	2010-2014	#1f78b4	other	#afafaf	Human	#fdc086	#afafaf	Unassigned	Europe	#a6cee3
+ESC_PA4509AA_AS	2010-2014	#1f78b4	other	#afafaf			#afafaf	Unassigned	Europe	#a6cee3
+ESC_PA7886AA_AS	2015-2019	#fdae61	UTI/urine	#ffff33	Human	#fdc086	#afafaf	Unassigned	Europe	#a6cee3
+ESC_QA4711AA_AS	2000-2004	#b2df8a	other	#afafaf	Human	#fdc086	#afafaf	Unassigned	Europe	#a6cee3
+ESC_QA4710AA_AS	2000-2004	#b2df8a	other	#afafaf	Human	#fdc086	#afafaf	Unassigned	Europe	#a6cee3
+ESC_QA5174AA_AS	2005-2009	#abd9e9	other	#afafaf	Human	#fdc086	#fd088e	KL54	Asia	#1f78b4
+ESC_QA9946AA_AS	2015-2019	#fdae61	other	#afafaf			#afafaf	KL60	Africa	#b2df8a
+ESC_RA0245AA_AS	2015-2019	#fdae61	other	#afafaf			#afafaf	Unassigned	Africa	#b2df8a
+ESC_YA3923AA_AS	2010-2014	#1f78b4	other	#afafaf	Human	#fdc086	#afafaf	KL16	Europe	#a6cee3
+ESC_RA0499AA_AS	2015-2019	#fdae61	other	#afafaf			#afafaf	KL125	Africa	#b2df8a
+ESC_RA0579AA_AS	2015-2019	#fdae61	other	#afafaf			#afafaf	Unassigned	Africa	#b2df8a
+ESC_RA0591AA_AS	2015-2019	#fdae61	other	#afafaf			#afafaf	Unassigned	Africa	#b2df8a
+ESC_RA0594AA_AS	2015-2019	#fdae61	other	#afafaf			#afafaf	KL60	Africa	#b2df8a
+ESC_RA0607AA_AS	2015-2019	#fdae61	other	#afafaf			#d66384	KL101	Africa	#b2df8a
+ESC_RA0684AA_AS	NA	white	other	#afafaf			#6A3D9A	KL20	NA	NA
+ESC_RA0683AA_AS	NA	white	other	#afafaf			#afafaf	Unassigned	NA	NA
+ESC_RA0682AA_AS	NA	white	other	#afafaf			#6A3D9A	KL20	NA	NA
+ESC_RA0681AA_AS	NA	white	other	#afafaf			#6A3D9A	KL20	NA	NA
+ESC_RA0680AA_AS	NA	white	other	#afafaf			#6A3D9A	KL20	NA	NA
+ESC_RA0672AA_AS	NA	white	other	#afafaf			#6A3D9A	KL20	NA	NA
+ESC_RA0671AA_AS	NA	white	other	#afafaf			#afafaf	Unassigned	NA	NA
+ESC_RA0669AA_AS	NA	white	other	#afafaf			#6A3D9A	KL20	NA	NA
+ESC_RA1911AA_AS	2015-2019	#fdae61	other	#afafaf	Animal	#7fc97f	#3dfc7d	KL30	North America	#33a02c
+ESC_RA3174AA_AS	NA	white	other	#afafaf			#4695f0	KL103	NA	NA
+ESC_RA3173AA_AS	NA	white	other	#afafaf			#4695f0	KL103	NA	NA
+ESC_RA3171AA_AS	NA	white	other	#afafaf			#4695f0	KL103	NA	NA
+ESC_RA3068AA_AS	2015-2019	#fdae61	other	#afafaf	Animal	#7fc97f	#afafaf	Unassigned	Europe	#a6cee3
+ESC_RA3270AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#aac201	KL121	Europe	#a6cee3
+ESC_RA3269AA_AS	2015-2019	#fdae61	other	#afafaf	Animal	#7fc97f	#afafaf	Unassigned	Europe	#a6cee3
+ESC_RA3268AA_AS	2015-2019	#fdae61	other	#afafaf	Animal	#7fc97f	#afafaf	Unassigned	Europe	#a6cee3
+ESC_RA3267AA_AS	2015-2019	#fdae61	other	#afafaf	Animal	#7fc97f	#afafaf	Unassigned	Europe	#a6cee3
+ESC_RA3266AA_AS	2015-2019	#fdae61	other	#afafaf	Animal	#7fc97f	#afafaf	Unassigned	Europe	#a6cee3
+ESC_RA3265AA_AS	2015-2019	#fdae61	other	#afafaf	Animal	#7fc97f	#afafaf	Unassigned	Europe	#a6cee3
+ESC_VA2236AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#35978f	KL48	Asia	#1f78b4
+ESC_RA4507AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#005A9C	KL115	North America	#33a02c
+ESC_RA4811AA_AS	2010-2014	#1f78b4	UTI/urine	#ffff33	Human	#fdc086	#afafaf	KL31	North America	#33a02c
+ESC_RA6424AA_AS	2015-2019	#fdae61	other	#afafaf			#afafaf	Unassigned	Asia	#1f78b4
+ESC_RA6760AA_AS	NA	white	other	#afafaf			#5d7499	KL58	NA	NA
+ESC_RA8207AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#afafaf	Unassigned	North America	#33a02c
+ESC_RA8201AA_AS	2010-2014	#1f78b4	UTI/urine	#ffff33	Human	#fdc086	#afafaf	Unassigned	North America	#33a02c
+ESC_RA8378AA_AS	2000-2004	#b2df8a	other	#afafaf	Animal	#7fc97f	#CAB2D6	KL123	North America	#33a02c
+ESC_RA8822AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#abf186	KL14	Asia	#1f78b4
+ESC_RA8820AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#904f02	KL158	Asia	#1f78b4
+ESC_VA2041AA_AS	NA	white	other	#afafaf			#3dfc7d	KL30	NA	NA
+ESC_RA9124AA_AS	NA	white	other	#afafaf			#5d7499	KL58	NA	NA
+ESC_RA9377AA_AS	2010-2014	#1f78b4	other	#afafaf	Human	#fdc086	#005A9C	KL115	Asia	#1f78b4
+ESC_RA9508AA_AS	1990-1999	white	other	#afafaf	Animal	#7fc97f	#29c722	KL127	North America	#33a02c
+ESC_SA2555AA_AS	NA	white	other	#afafaf			#35978f	KL48	Europe	#a6cee3
+ESC_SA2354AA_AS	NA	white	other	#afafaf			#35978f	KL48	Europe	#a6cee3
+ESC_SA5406AA_AS	2000-2004	#b2df8a	other	#afafaf	Animal	#7fc97f	#d5d36e	KL9	North America	#33a02c
+ESC_SA6255AA_AS	NA	white	other	#afafaf			#3dfc7d	KL30	NA	NA
+ESC_SA6256AA_AS	NA	white	other	#afafaf			#3dfc7d	KL30	NA	NA
+ESC_SA6258AA_AS	NA	white	other	#afafaf			#3dfc7d	KL30	NA	NA
+ESC_SA6354AA_AS	NA	white	other	#afafaf			#3dfc7d	KL30	NA	NA
+ESC_SA6355AA_AS	NA	white	other	#afafaf			#3dfc7d	KL30	NA	NA
+ESC_SA6358AA_AS	NA	white	other	#afafaf			#3dfc7d	KL30	NA	NA
+ESC_SA6359AA_AS	NA	white	other	#afafaf			#3dfc7d	KL30	NA	NA
+ESC_SA6363AA_AS	NA	white	other	#afafaf			#3dfc7d	KL30	NA	NA
+ESC_SA6385AA_AS	NA	white	other	#afafaf			#3dfc7d	KL30	NA	NA
+ESC_SA6450AA_AS	NA	white	other	#afafaf			#3dfc7d	KL30	NA	NA
+ESC_SA6452AA_AS	NA	white	other	#afafaf			#3dfc7d	KL30	NA	NA
+ESC_SA9339AA_AS	2000-2004	#b2df8a	other	#afafaf	Animal	#7fc97f	#FF7F00	KL35	North America	#33a02c
+ESC_TA0434AA_AS	NA	white	other	#afafaf			#3dfc7d	KL30	NA	NA
+ESC_UA6180AA_AS	NA	white	other	#afafaf			black	KL124	NA	NA
+ESC_UA6148AA_AS	NA	white	other	#afafaf			#35978f	KL48	NA	NA
+ESC_UA6147AA_AS	NA	white	other	#afafaf			#35978f	KL48	NA	NA
+ESC_UA6369AA_AS	NA	white	other	#afafaf			#35978f	KL48	NA	NA
+ESC_UA6678AA_AS	NA	white	other	#afafaf			black	KL124	NA	NA
+ESC_UA5992AA_AS	NA	white	other	#afafaf			#afafaf	KL125	NA	NA
+ESC_TA1493AA_AS	NA	white	other	#afafaf			#4695f0	KL103	NA	NA
+ESC_TA2111AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#35978f	KL48	Asia	#1f78b4
+ESC_TA2109AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#afafaf	KL125	Asia	#1f78b4
+ESC_TA2108AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#3dfc7d	KL30	Asia	#1f78b4
+ESC_TA2105AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#3dfc7d	KL30	Asia	#1f78b4
+ESC_TA2394AA_AS	2015-2019	#fdae61	other	#afafaf	Animal	#7fc97f	#aac201	KL121	Oceania	#e31a1c
+ESC_TA2377AA_AS	2015-2019	#fdae61	other	#afafaf	Animal	#7fc97f	#afafaf	KL16	Oceania	#e31a1c
+ESC_TA2214AA_AS	2015-2019	#fdae61	other	#afafaf	Animal	#7fc97f	#3dfc7d	KL30	Oceania	#e31a1c
+ESC_TA2200AA_AS	2015-2019	#fdae61	other	#afafaf	Animal	#7fc97f	#afafaf	Unassigned	Oceania	#e31a1c
+ESC_TA2862AA_AS	NA	white	other	#afafaf			#afafaf	Unassigned	Asia	#1f78b4
+ESC_TA2933AA_AS	NA	white	other	#afafaf			#afafaf	Unassigned	Asia	#1f78b4
+ESC_TA4196AA_AS	NA	white	other	#afafaf			#d5d36e	KL9	NA	NA
+ESC_TA6862AA_AS	2015-2019	#fdae61	other	#afafaf	Animal	#7fc97f	#35978f	KL48	North America	#33a02c
+ESC_TA7111AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#afafaf	Unassigned	Europe	#a6cee3
+ESC_TA8331AA_AS	2000-2004	#b2df8a	other	#afafaf			#afafaf	Unassigned	North America	#33a02c
+ESC_TA8360AA_AS	2000-2004	#b2df8a	other	#afafaf			#35978f	KL48	North America	#33a02c
+ESC_TA8345AA_AS	2000-2004	#b2df8a	other	#afafaf			#afafaf	Unassigned	North America	#33a02c
+ESC_TA8342AA_AS	2000-2004	#b2df8a	other	#afafaf			#afafaf	Unassigned	North America	#33a02c
+ESC_TA8341AA_AS	2000-2004	#b2df8a	other	#afafaf			#35978f	KL48	North America	#33a02c
+ESC_UA0266AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#afafaf	KL16	Europe	#a6cee3
+ESC_UA1272AA_AS	2010-2014	#1f78b4	blood	red	Human	#fdc086	#abf186	KL14	North America	#33a02c
+ESC_YA6788AA_AS	2015-2019	#fdae61	other	#afafaf			#afafaf	Unassigned	NA	NA
+ESC_YA6790AA_AS	2015-2019	#fdae61	other	#afafaf			#afafaf	Unassigned	NA	NA
+ESC_UA3516AA_AS	2010-2014	#1f78b4	other	#afafaf	Human	#fdc086	#afafaf	Unassigned	Europe	#a6cee3
+ESC_UA5387AA_AS	2005-2009	#abd9e9	other	#afafaf	Animal	#7fc97f	#FB9A99	KL55	Europe	#a6cee3
+ESC_UA6991AA_AS	2015-2019	#fdae61	UTI/urine	#ffff33	Human	#fdc086	#abf186	KL14	Asia	#1f78b4
+ESC_VA2013AA_AS	2015-2019	#fdae61	other	#afafaf	Animal	#7fc97f	#35978f	KL48	Europe	#a6cee3
+ESC_VA2056AA_AS	2015-2019	#fdae61	UTI/urine	#ffff33	Human	#fdc086	#afafaf	Unassigned	NA	NA
+ESC_VA2223AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#35978f	KL48	North America	#33a02c
+ESC_VA2267AA_AS	2015-2019	#fdae61	UTI/urine	#ffff33	Human	#fdc086	#fd088e	KL54	Asia	#1f78b4
+ESC_VA2270AA_AS	2015-2019	#fdae61	UTI/urine	#ffff33	Human	#fdc086	#fd088e	KL54	Asia	#1f78b4
+ESC_VA2325AA_AS	2015-2019	#fdae61	other	#afafaf	Animal	#7fc97f	#afafaf	Unassigned	NA	NA
+ESC_VA2798AA_AS	NA	white	other	#afafaf			#d5d36e	KL9	NA	NA
+ESC_VA2781AA_AS	NA	white	other	#afafaf			#E31A1C	KL57	NA	NA
+ESC_VA2989AA_AS	2005-2009	#abd9e9	other	#afafaf	Human	#fdc086	#3dfc7d	KL30	Europe	#a6cee3
+ESC_VA3326AA_AS	NA	white	UTI/urine	#ffff33	Human	#fdc086	#abf186	KL14	Africa	#b2df8a
+ESC_VA6203AA_AS	2015-2019	#fdae61	other	#afafaf	Animal	#7fc97f	#CAB2D6	KL123	North America	#33a02c
+ESC_VA9460AA_AS	NA	white	other	#afafaf			#6A3D9A	KL20	NA	NA
+ESC_WA5790AA_AS	2015-2019	#fdae61	blood	red	Human	#fdc086	#3dfc7d	KL30	North America	#33a02c
+ESC_WA5588AA_AS	2010-2014	#1f78b4	other	#afafaf	Human	#fdc086	#afafaf	Unassigned	Oceania	#e31a1c
+ESC_WA5581AA_AS	2005-2009	#abd9e9	other	#afafaf	Human	#fdc086	#d5d36e	KL9	Oceania	#e31a1c
+ESC_WA5573AA_AS	2005-2009	#abd9e9	other	#afafaf	Human	#fdc086	#3dfc7d	KL30	Oceania	#e31a1c
+ESC_WA5570AA_AS	2005-2009	#abd9e9	other	#afafaf	Human	#fdc086	#afafaf	Unassigned	Oceania	#e31a1c
+ESC_XA6495AA_AS	2015-2019	#fdae61	UTI/urine	#ffff33	Human	#fdc086	#35978f	KL48	Asia	#1f78b4
+ESC_XA6456AA_AS	2015-2019	#fdae61	UTI/urine	#ffff33	Human	#fdc086	#35978f	KL48	Asia	#1f78b4
+ESC_WA3725AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#35978f	KL48	Asia	#1f78b4
+ESC_WA3366AA_AS	2015-2019	#fdae61	UTI/urine	#ffff33	Human	#fdc086	#ffe119	KL5	North America	#33a02c
+ESC_WA2582AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#35978f	KL48	Asia	#1f78b4
+ESC_WA2563AA_AS	2010-2014	#1f78b4	other	#afafaf	Human	#fdc086	#4695f0	KL103	Asia	#1f78b4
+ESC_WA2531AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#3dfc7d	KL30	Asia	#1f78b4
+ESC_WA8506AA_AS	NA	white	other	#afafaf	Human	#fdc086	#afafaf	Unassigned	Europe	#a6cee3
+ESC_WA8504AA_AS	NA	white	other	#afafaf	Human	#fdc086	#afafaf	KL125	Europe	#a6cee3
+ESC_WA8458AA_AS	NA	white	other	#afafaf	Human	#fdc086	#afafaf	Unassigned	Europe	#a6cee3
+ESC_WA8399AA_AS	NA	white	other	#afafaf	Human	#fdc086	#afafaf	Unassigned	Europe	#a6cee3
+ESC_WA8354AA_AS	NA	white	other	#afafaf	Human	#fdc086	#afafaf	Unassigned	Europe	#a6cee3
+ESC_XA0523AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#3dfc7d	KL30	Asia	#1f78b4
+ESC_XA0590AA_AS	NA	white	other	#afafaf			#afafaf	Unassigned	NA	NA
+ESC_XA0581AA_AS	NA	white	other	#afafaf			#afafaf	Unassigned	NA	NA
+ESC_XA0574AA_AS	NA	white	other	#afafaf			#afafaf	KL16	NA	NA
+ESC_XA2011AA_AS	NA	white	other	#afafaf	Human	#fdc086	#afafaf	Unassigned	Africa	#b2df8a
+ESC_XA1997AA_AS	NA	white	other	#afafaf	Human	#fdc086	black	KL124	Africa	#b2df8a
+ESC_XA1980AA_AS	NA	white	other	#afafaf	Human	#fdc086	#6A3D9A	KL20	Africa	#b2df8a
+ESC_XA4769AA_AS	NA	white	other	#afafaf			black	KL124	NA	NA
+ESC_CB0740AA_AS	2015-2019	#fdae61	other	#afafaf			#afafaf	Unassigned	Asia	#1f78b4
+ESC_LB2371AA_AS	2015-2019	#fdae61	other	#afafaf	Animal	#7fc97f	#35978f	KL48	North America	#33a02c
+ESC_YA1719AA_AS	2010-2014	#1f78b4	UTI/urine	#ffff33	Human	#fdc086	#afafaf	Unassigned	Europe	#a6cee3
+ESC_YA1559AA_AS	2010-2014	#1f78b4	UTI/urine	#ffff33	Human	#fdc086	#afafaf	Unassigned	Europe	#a6cee3
+ESC_YA2935AA_AS	NA	white	other	#afafaf			#35978f	KL48	NA	NA
+ESC_YA5967AA_AS	NA	white	other	#afafaf			#d5d36e	KL9	NA	NA
+ESC_YA6321AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#afafaf	KL31	North America	#33a02c
+ESC_YA6826AA_AS	NA	white	other	#afafaf			#afafaf	Unassigned	NA	NA
+ESC_ZA0994AA_AS	NA	white	other	#afafaf			#afafaf	Unassigned	NA	NA
+ESC_ZA1013AA_AS	NA	white	other	#afafaf			#afafaf	Unassigned	NA	NA
+ESC_ZA1111AA_AS	NA	white	other	#afafaf			#FF7F00	KL35	NA	NA
+ESC_ZA1138AA_AS	NA	white	other	#afafaf			#afafaf	Unassigned	NA	NA
+ESC_ZA2640AA_AS	NA	white	other	#afafaf			black	KL124	NA	NA
+ESC_ZA2802AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#afafaf	Unassigned	Asia	#1f78b4
+ESC_ZA4075AA_AS	2015-2019	#fdae61	other	#afafaf			#FF7F00	KL35	NA	NA
+ESC_ZA4145AA_AS	2015-2019	#fdae61	other	#afafaf			#FF7F00	KL35	NA	NA
+ESC_ZA6579AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#3dfc7d	KL30	Asia	#1f78b4
+ESC_ZA6572AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#4695f0	KL103	Asia	#1f78b4
+ESC_ZA6546AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#4695f0	KL103	Asia	#1f78b4
+ESC_ZA6395AA_AS	2005-2009	#abd9e9	other	#afafaf	Animal	#7fc97f	#904f02	KL158	Europe	#a6cee3
+ESC_ZA6378AA_AS	2000-2004	#b2df8a	other	#afafaf	Animal	#7fc97f	#afafaf	Unassigned	Europe	#a6cee3
+ESC_AB1619AA_AS	2015-2019	#fdae61	other	#afafaf	Animal	#7fc97f	#6A3D9A	KL20	NA	NA
+ESC_BB0595AA_AS	2015-2019	#fdae61	other	#afafaf			#4695f0	KL103	North America	#33a02c
+ESC_BB0592AA_AS	2015-2019	#fdae61	other	#afafaf	Animal	#7fc97f	#35978f	KL48	North America	#33a02c
+ESC_BB2706AA_AS	NA	white	other	#afafaf			#d5d36e	KL9	NA	NA
+ESC_CB1966AA_AS	2015-2019	#fdae61	other	#afafaf			#afafaf	Unassigned	Europe	#a6cee3
+ESC_CB1968AA_AS	2015-2019	#fdae61	other	#afafaf			black	KL124	Europe	#a6cee3
+ESC_CB2019AA_AS	2015-2019	#fdae61	other	#afafaf			#afafaf	Unassigned	Europe	#a6cee3
+ESC_CB2413AA_AS	2015-2019	#fdae61	UTI/urine	#ffff33	Human	#fdc086	#d5d36e	KL9	Europe	#a6cee3
+ESC_CB3315AA_AS	2015-2019	#fdae61	other	#afafaf	Animal	#7fc97f	#35978f	KL48	North America	#33a02c
+ESC_CB3314AA_AS	2015-2019	#fdae61	other	#afafaf	Animal	#7fc97f	#35978f	KL48	North America	#33a02c
+ESC_CB3313AA_AS	2015-2019	#fdae61	other	#afafaf	Animal	#7fc97f	#35978f	KL48	North America	#33a02c
+ESC_CB3312AA_AS	2015-2019	#fdae61	other	#afafaf	Animal	#7fc97f	#35978f	KL48	North America	#33a02c
+ESC_CB3311AA_AS	2015-2019	#fdae61	other	#afafaf	Animal	#7fc97f	#35978f	KL48	North America	#33a02c
+ESC_CB3310AA_AS	2015-2019	#fdae61	other	#afafaf	Animal	#7fc97f	#35978f	KL48	North America	#33a02c
+ESC_CB3309AA_AS	2015-2019	#fdae61	other	#afafaf	Animal	#7fc97f	#35978f	KL48	North America	#33a02c
+ESC_CB3308AA_AS	2015-2019	#fdae61	other	#afafaf	Animal	#7fc97f	#35978f	KL48	North America	#33a02c
+ESC_CB3305AA_AS	2015-2019	#fdae61	other	#afafaf	Animal	#7fc97f	#35978f	KL48	North America	#33a02c
+ESC_CB3304AA_AS	2015-2019	#fdae61	other	#afafaf	Animal	#7fc97f	#35978f	KL48	North America	#33a02c
+ESC_CB3303AA_AS	2015-2019	#fdae61	other	#afafaf	Animal	#7fc97f	#35978f	KL48	North America	#33a02c
+ESC_CB3302AA_AS	2015-2019	#fdae61	other	#afafaf	Animal	#7fc97f	#35978f	KL48	North America	#33a02c
+ESC_CB3301AA_AS	2015-2019	#fdae61	other	#afafaf	Animal	#7fc97f	#35978f	KL48	North America	#33a02c
+ESC_CB3298AA_AS	2015-2019	#fdae61	other	#afafaf	Animal	#7fc97f	#35978f	KL48	North America	#33a02c
+ESC_CB3343AA_AS	2015-2019	#fdae61	other	#afafaf			#CAB2D6	KL123	Africa	#b2df8a
+ESC_CB4112AA_AS	2015-2019	#fdae61	other	#afafaf			#afafaf	Unassigned	NA	NA
+ESC_CB4064AA_AS	NA	white	other	#afafaf			#3dfc7d	KL30	NA	NA
+ESC_CB4063AA_AS	NA	white	other	#afafaf			#4695f0	KL103	NA	NA
+ESC_CB4061AA_AS	NA	white	other	#afafaf			#d66384	KL101	NA	NA
+ESC_CB3988AA_AS	NA	white	other	#afafaf			#d66384	KL101	NA	NA
+ESC_CB3980AA_AS	NA	white	other	#afafaf			#3dfc7d	KL30	NA	NA
+ESC_CB3979AA_AS	NA	white	other	#afafaf			#3dfc7d	KL30	NA	NA
+ESC_CB3965AA_AS	NA	white	other	#afafaf			#4695f0	KL103	NA	NA
+ESC_CB3947AA_AS	NA	white	other	#afafaf			#d66384	KL101	NA	NA
+ESC_CB3936AA_AS	NA	white	other	#afafaf			#d66384	KL101	NA	NA
+ESC_CB3916AA_AS	NA	white	other	#afafaf			#d66384	KL101	NA	NA
+ESC_CB3911AA_AS	NA	white	other	#afafaf			#d66384	KL101	NA	NA
+ESC_CB3908AA_AS	NA	white	other	#afafaf			#d66384	KL101	NA	NA
+ESC_CB3867AA_AS	NA	white	other	#afafaf			#d66384	KL101	NA	NA
+ESC_CB7192AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#afafaf	Unassigned	Oceania	#e31a1c
+ESC_CB7175AA_AS	2015-2019	#fdae61	other	#afafaf			#CAB2D6	KL123	Africa	#b2df8a
+ESC_EB0803AA_AS	2015-2019	#fdae61	other	#afafaf			#afafaf	Unassigned	Europe	#a6cee3
+ESC_EB0814AA_AS	2015-2019	#fdae61	other	#afafaf			#afafaf	Unassigned	Europe	#a6cee3
+ESC_EB0821AA_AS	2010-2014	#1f78b4	other	#afafaf			#afafaf	Unassigned	Europe	#a6cee3
+ESC_EB0825AA_AS	2015-2019	#fdae61	other	#afafaf			#afafaf	Unassigned	Europe	#a6cee3
+ESC_EB0827AA_AS	2015-2019	#fdae61	other	#afafaf			#afafaf	Unassigned	Europe	#a6cee3
+ESC_EB0829AA_AS	2015-2019	#fdae61	other	#afafaf			#afafaf	Unassigned	Europe	#a6cee3
+ESC_EB0838AA_AS	2015-2019	#fdae61	other	#afafaf			#afafaf	Unassigned	Europe	#a6cee3
+ESC_EB0841AA_AS	2015-2019	#fdae61	other	#afafaf			#afafaf	Unassigned	Europe	#a6cee3
+ESC_EB0842AA_AS	2015-2019	#fdae61	other	#afafaf			#afafaf	Unassigned	Europe	#a6cee3
+ESC_EB0843AA_AS	2015-2019	#fdae61	other	#afafaf			#afafaf	Unassigned	Europe	#a6cee3
+ESC_EB1482AA_AS	2015-2019	#fdae61	other	#afafaf			#afafaf	Unassigned	Europe	#a6cee3
+ESC_EB1489AA_AS	2015-2019	#fdae61	other	#afafaf			#afafaf	Unassigned	Europe	#a6cee3
+ESC_EB5314AA_AS	2015-2019	#fdae61	other	#afafaf			#afafaf	Unassigned	Europe	#a6cee3
+ESC_EB5394AA_AS	2015-2019	#fdae61	other	#afafaf			#afafaf	Unassigned	Europe	#a6cee3
+ESC_EB5397AA_AS	2015-2019	#fdae61	other	#afafaf			#4695f0	KL103	Europe	#a6cee3
+ESC_EB5400AA_AS	2015-2019	#fdae61	other	#afafaf			#afafaf	Unassigned	Europe	#a6cee3
+ESC_EB5403AA_AS	2015-2019	#fdae61	other	#afafaf			#3dfc7d	KL30	Europe	#a6cee3
+ESC_EB5406AA_AS	2015-2019	#fdae61	other	#afafaf			#afafaf	Unassigned	Europe	#a6cee3
+ESC_EB5407AA_AS	2015-2019	#fdae61	other	#afafaf			#afafaf	Unassigned	Europe	#a6cee3
+ESC_EB5412AA_AS	2015-2019	#fdae61	other	#afafaf			#afafaf	Unassigned	Europe	#a6cee3
+ESC_EB5413AA_AS	2015-2019	#fdae61	other	#afafaf			#afafaf	Unassigned	Europe	#a6cee3
+ESC_EB5416AA_AS	2015-2019	#fdae61	other	#afafaf			#afafaf	Unassigned	Europe	#a6cee3
+ESC_FB0875AA_AS	2015-2019	#fdae61	other	#afafaf			#afafaf	Unassigned	Europe	#a6cee3
+ESC_FB0880AA_AS	2015-2019	#fdae61	other	#afafaf			#afafaf	Unassigned	Europe	#a6cee3
+ESC_FB0888AA_AS	2015-2019	#fdae61	other	#afafaf			#35978f	KL48	Europe	#a6cee3
+ESC_FB1306AA_AS	2015-2019	#fdae61	other	#afafaf			#afafaf	Unassigned	Europe	#a6cee3
+ESC_FB1309AA_AS	2015-2019	#fdae61	other	#afafaf			#afafaf	Unassigned	Europe	#a6cee3
+ESC_FB1310AA_AS	2015-2019	#fdae61	other	#afafaf			#afafaf	Unassigned	Europe	#a6cee3
+ESC_FB1313AA_AS	2015-2019	#fdae61	other	#afafaf			#afafaf	Unassigned	Europe	#a6cee3
+ESC_FB1317AA_AS	2015-2019	#fdae61	other	#afafaf			#afafaf	Unassigned	Europe	#a6cee3
+ESC_FB1318AA_AS	2015-2019	#fdae61	other	#afafaf			#afafaf	Unassigned	Europe	#a6cee3
+ESC_FB1319AA_AS	2015-2019	#fdae61	other	#afafaf			#afafaf	Unassigned	Europe	#a6cee3
+ESC_FB1333AA_AS	2015-2019	#fdae61	other	#afafaf			#afafaf	Unassigned	Europe	#a6cee3
+ESC_FB1337AA_AS	2015-2019	#fdae61	other	#afafaf			#d5d36e	KL9	Europe	#a6cee3
+ESC_FB1367AA_AS	2015-2019	#fdae61	other	#afafaf			#aac201	KL121	Europe	#a6cee3
+ESC_FB1368AA_AS	2015-2019	#fdae61	other	#afafaf			#afafaf	Unassigned	Europe	#a6cee3
+ESC_FB1369AA_AS	2015-2019	#fdae61	other	#afafaf			#afafaf	Unassigned	Europe	#a6cee3
+ESC_FB1370AA_AS	2015-2019	#fdae61	other	#afafaf			#afafaf	Unassigned	Europe	#a6cee3
+ESC_FB1371AA_AS	2015-2019	#fdae61	other	#afafaf			#35978f	KL48	Europe	#a6cee3
+ESC_FB1398AA_AS	2015-2019	#fdae61	other	#afafaf			#afafaf	Unassigned	Europe	#a6cee3
+ESC_FB1405AA_AS	2015-2019	#fdae61	other	#afafaf			#afafaf	Unassigned	Europe	#a6cee3
+ESC_FB1406AA_AS	2015-2019	#fdae61	other	#afafaf			#afafaf	Unassigned	Europe	#a6cee3
+ESC_FB1422AA_AS	2015-2019	#fdae61	other	#afafaf			#afafaf	Unassigned	Europe	#a6cee3
+ESC_FB1426AA_AS	2015-2019	#fdae61	other	#afafaf			#afafaf	Unassigned	Europe	#a6cee3
+ESC_FB1428AA_AS	2015-2019	#fdae61	other	#afafaf			#afafaf	Unassigned	Europe	#a6cee3
+ESC_FB1589AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#ffe119	KL5	Asia	#1f78b4
+ESC_FB1651AA_AS	2015-2019	#fdae61	other	#afafaf			#afafaf	KL16	Asia	#1f78b4
+ESC_FB1650AA_AS	2015-2019	#fdae61	other	#afafaf			#afafaf	KL16	Asia	#1f78b4
+ESC_FB1970AA_AS	2005-2009	#abd9e9	blood	red	Human	#fdc086	#6A3D9A	KL20	North America	#33a02c
+ESC_FB3096AA_AS	2005-2009	#abd9e9	blood	red	Human	#fdc086	#3dfc7d	KL30	North America	#33a02c
+ESC_FB3610AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#d66384	KL101	Oceania	#e31a1c
+ESC_FB3835AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#abf186	KL14	Asia	#1f78b4
+ESC_FB4811AA_AS	NA	white	other	#afafaf	Animal	#7fc97f	#904f02	KL158	NA	NA
+ESC_FB4755AA_AS	NA	white	other	#afafaf	Animal	#7fc97f	#afafaf	Unassigned	NA	NA
+ESC_FB5047AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#3dfc7d	KL30	Asia	#1f78b4
+ESC_FB5376AA_AS	2010-2014	#1f78b4	other	#afafaf	Human	#fdc086	#afafaf	Unassigned	North America	#33a02c
+ESC_FB5560AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	black	KL124	Asia	#1f78b4
+ESC_FB5758AA_AS	2010-2014	#1f78b4	other	#afafaf	Human	#fdc086	#005A9C	KL115	North America	#33a02c
+ESC_FB5846AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#d66384	KL101	Asia	#1f78b4
+ESC_FB5874AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#FF7F00	KL35	Asia	#1f78b4
+ESC_FB5911AA_AS	2015-2019	#fdae61	other	#afafaf			#abf186	KL14	Europe	#a6cee3
+ESC_FB6517AA_AS	2010-2014	#1f78b4	UTI/urine	#ffff33	Human	#fdc086	#3dfc7d	KL30	North America	#33a02c
+ESC_FB7739AA_AS	2010-2014	#1f78b4	blood	red	Human	#fdc086	#afafaf	Unassigned	North America	#33a02c
+ESC_FB7845AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#6A3D9A	KL20	Asia	#1f78b4
+ESC_FB7884AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#FF7F00	KL35	Asia	#1f78b4
+ESC_FB9647AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#afafaf	Unassigned	Oceania	#e31a1c
+ESC_FB9445AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#6A3D9A	KL20	Oceania	#e31a1c
+ESC_FB9392AA_AS	2005-2009	#abd9e9	other	#afafaf	Human	#fdc086	#E31A1C	KL57	North America	#33a02c
+ESC_GB1558AA_AS	NA	white	other	#afafaf			#35978f	KL48	NA	NA
+ESC_GB1914AA_AS	NA	white	other	#afafaf			#aac201	KL121	NA	NA
+ESC_GB2136AA_AS	NA	white	other	#afafaf			#fd088e	KL54	NA	NA
+ESC_GB2141AA_AS	NA	white	other	#afafaf			#CAB2D6	KL123	NA	NA
+ESC_LB2212AA_AS	2015-2019	#fdae61	UTI/urine	#ffff33	Human	#fdc086	#3dfc7d	KL30	North America	#33a02c
+ESC_GB3643AA_AS	NA	white	blood	red	Human	#fdc086	#afafaf	Unassigned	NA	NA
+ESC_GB4225AA_AS	2015-2019	#fdae61	other	#afafaf	Animal	#7fc97f	#afafaf	Unassigned	North America	#33a02c
+ESC_GB4216AA_AS	2015-2019	#fdae61	other	#afafaf	Animal	#7fc97f	#afafaf	Unassigned	North America	#33a02c
+ESC_GB4212AA_AS	2015-2019	#fdae61	other	#afafaf	Animal	#7fc97f	#35978f	KL48	North America	#33a02c
+ESC_GB4209AA_AS	2015-2019	#fdae61	other	#afafaf	Animal	#7fc97f	#35978f	KL48	North America	#33a02c
+ESC_GB4204AA_AS	2015-2019	#fdae61	other	#afafaf	Animal	#7fc97f	#afafaf	Unassigned	North America	#33a02c
+ESC_GB4203AA_AS	2015-2019	#fdae61	other	#afafaf	Animal	#7fc97f	#35978f	KL48	North America	#33a02c
+ESC_GB4202AA_AS	2015-2019	#fdae61	other	#afafaf	Animal	#7fc97f	#afafaf	Unassigned	North America	#33a02c
+ESC_GB4195AA_AS	2015-2019	#fdae61	other	#afafaf	Animal	#7fc97f	#afafaf	Unassigned	North America	#33a02c
+ESC_GB4191AA_AS	2015-2019	#fdae61	other	#afafaf	Animal	#7fc97f	#35978f	KL48	North America	#33a02c
+ESC_GB4188AA_AS	2015-2019	#fdae61	other	#afafaf	Animal	#7fc97f	#35978f	KL48	North America	#33a02c
+ESC_GB8862AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#afafaf	Unassigned	Asia	#1f78b4
+ESC_GB8858AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#ffe119	KL5	Asia	#1f78b4
+ESC_GB8857AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#ffe119	KL5	Asia	#1f78b4
+ESC_GB8855AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#ffe119	KL5	Asia	#1f78b4
+ESC_GB8854AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#ffe119	KL5	Asia	#1f78b4
+ESC_GB8820AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#ffe119	KL5	Asia	#1f78b4
+ESC_GB8818AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#afafaf	Unassigned	Asia	#1f78b4
+ESC_GB8817AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#ffe119	KL5	Asia	#1f78b4
+ESC_GB9313AA_AS	NA	white	UTI/urine	#ffff33	Human	#fdc086	#6A3D9A	KL20	NA	NA
+ESC_GB7098AA_AS	2010-2014	#1f78b4	other	#afafaf	Human	#fdc086	#d66384	KL101	Africa	#b2df8a
+ESC_GB7097AA_AS	2010-2014	#1f78b4	other	#afafaf	Human	#fdc086	#d66384	KL101	Africa	#b2df8a
+ESC_LB2124AA_AS	2010-2014	#1f78b4	other	#afafaf	Animal	#7fc97f	#afafaf	Unassigned	Asia	#1f78b4
+ESC_GB6566AA_AS	2015-2019	#fdae61	blood	red	Human	#fdc086	#29c722	KL127	Asia	#1f78b4
+ESC_GB6461AA_AS	2015-2019	#fdae61	blood	red	Human	#fdc086	#afafaf	Unassigned	Asia	#1f78b4
+ESC_GB9020AA_AS	2015-2019	#fdae61	UTI/urine	#ffff33	Human	#fdc086	black	KL124	NA	NA
+ESC_GB9909AA_AS	2015-2019	#fdae61	blood	red	Human	#fdc086	#3dfc7d	KL30	North America	#33a02c
+ESC_GB9853AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#3dfc7d	KL30	North America	#33a02c
+ESC_GB9842AA_AS	2015-2019	#fdae61	other	#afafaf			#35978f	KL48	North America	#33a02c
+ESC_GB9841AA_AS	2015-2019	#fdae61	other	#afafaf			#35978f	KL48	North America	#33a02c
+ESC_GB9836AA_AS	2015-2019	#fdae61	other	#afafaf			#35978f	KL48	North America	#33a02c
+ESC_GB9835AA_AS	2015-2019	#fdae61	other	#afafaf			#35978f	KL48	North America	#33a02c
+ESC_HB6096AA_AS	2015-2019	#fdae61	other	#afafaf			#35978f	KL48	North America	#33a02c
+ESC_HB6095AA_AS	2015-2019	#fdae61	other	#afafaf	Animal	#7fc97f	#afafaf	Unassigned	North America	#33a02c
+ESC_HB6094AA_AS	2015-2019	#fdae61	other	#afafaf			#35978f	KL48	North America	#33a02c
+ESC_HB6093AA_AS	2015-2019	#fdae61	other	#afafaf			#35978f	KL48	North America	#33a02c
+ESC_HB6092AA_AS	2015-2019	#fdae61	other	#afafaf			#35978f	KL48	North America	#33a02c
+ESC_HB6088AA_AS	2015-2019	#fdae61	other	#afafaf			#35978f	KL48	North America	#33a02c
+ESC_HB6087AA_AS	2015-2019	#fdae61	other	#afafaf	Animal	#7fc97f	#35978f	KL48	North America	#33a02c
+ESC_HB6086AA_AS	2015-2019	#fdae61	other	#afafaf	Animal	#7fc97f	#afafaf	Unassigned	North America	#33a02c
+ESC_HB6084AA_AS	2015-2019	#fdae61	other	#afafaf	Animal	#7fc97f	#35978f	KL48	North America	#33a02c
+ESC_HB6083AA_AS	2015-2019	#fdae61	other	#afafaf	Animal	#7fc97f	#35978f	KL48	North America	#33a02c
+ESC_HB6081AA_AS	2015-2019	#fdae61	other	#afafaf			#35978f	KL48	North America	#33a02c
+ESC_HB6080AA_AS	2015-2019	#fdae61	rectal	#bf812d	Human	#fdc086	#35978f	KL48	North America	#33a02c
+ESC_HB7233AA_AS	2015-2019	#fdae61	other	#afafaf	Animal	#7fc97f	#35978f	KL48	North America	#33a02c
+ESC_HB7230AA_AS	2015-2019	#fdae61	other	#afafaf	Animal	#7fc97f	#35978f	KL48	North America	#33a02c
+ESC_HB7229AA_AS	2015-2019	#fdae61	other	#afafaf			#35978f	KL48	North America	#33a02c
+ESC_HB7228AA_AS	2015-2019	#fdae61	other	#afafaf	Animal	#7fc97f	#35978f	KL48	North America	#33a02c
+ESC_HB7227AA_AS	2015-2019	#fdae61	other	#afafaf	Animal	#7fc97f	#35978f	KL48	North America	#33a02c
+ESC_HB7478AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#afafaf	Unassigned	Asia	#1f78b4
+ESC_HB9079AA_AS	NA	white	other	#afafaf	Animal	#7fc97f	#afafaf	Unassigned	North America	#33a02c
+ESC_IB0389AA_AS	2005-2009	#abd9e9	other	#afafaf	Animal	#7fc97f	#29c722	KL127	Europe	#a6cee3
+ESC_LB2144AA_AS	2015-2019	#fdae61	other	#afafaf			#4695f0	KL103	Europe	#a6cee3
+ESC_LB2145AA_AS	2015-2019	#fdae61	other	#afafaf			#3dfc7d	KL30	Europe	#a6cee3
+ESC_IB7910AA_AS	2015-2019	#fdae61	other	#afafaf			#FF7F00	KL35	Europe	#a6cee3
+ESC_IB7897AA_AS	2015-2019	#fdae61	other	#afafaf			#FF7F00	KL35	Europe	#a6cee3
+ESC_IB6501AA_AS	2015-2019	#fdae61	other	#afafaf			#afafaf	Unassigned	NA	NA
+ESC_IB6500AA_AS	2015-2019	#fdae61	other	#afafaf			#afafaf	Unassigned	NA	NA
+ESC_IB6499AA_AS	2015-2019	#fdae61	other	#afafaf			#afafaf	Unassigned	NA	NA
+ESC_IB6498AA_AS	2015-2019	#fdae61	other	#afafaf			#afafaf	Unassigned	NA	NA
+ESC_IB6497AA_AS	2015-2019	#fdae61	other	#afafaf			#afafaf	Unassigned	NA	NA
+ESC_IB6250AA_AS	NA	white	other	#afafaf			#afafaf	KL16	NA	NA
+ESC_IB6226AA_AS	NA	white	other	#afafaf			#3dfc7d	KL30	Europe	#a6cee3
+ESC_IB6214AA_AS	NA	white	other	#afafaf			#3dfc7d	KL30	Europe	#a6cee3
+ESC_IB6181AA_AS	NA	white	other	#afafaf			#aac201	KL121	Europe	#a6cee3
+ESC_IB6179AA_AS	NA	white	other	#afafaf			#35978f	KL48	Europe	#a6cee3
+ESC_IB6172AA_AS	NA	white	other	#afafaf			#d5d36e	KL9	Europe	#a6cee3
+ESC_IB6161AA_AS	NA	white	other	#afafaf			#aac201	KL121	Europe	#a6cee3
+ESC_IB6158AA_AS	NA	white	other	#afafaf			#35978f	KL48	Europe	#a6cee3
+ESC_IB6151AA_AS	NA	white	other	#afafaf			#4695f0	KL103	Europe	#a6cee3
+ESC_IB6146AA_AS	NA	white	other	#afafaf			#904f02	KL158	Europe	#a6cee3
+ESC_IB6143AA_AS	NA	white	other	#afafaf			#d5d36e	KL9	Europe	#a6cee3
+ESC_IB6134AA_AS	NA	white	other	#afafaf			#4695f0	KL103	Europe	#a6cee3
+ESC_IB6124AA_AS	NA	white	other	#afafaf			#afafaf	Unassigned	Europe	#a6cee3
+ESC_IB6101AA_AS	NA	white	other	#afafaf			#d37505	KL114	Europe	#a6cee3
+ESC_IB6071AA_AS	NA	white	other	#afafaf			#4695f0	KL103	Europe	#a6cee3
+ESC_IB6065AA_AS	NA	white	other	#afafaf			black	KL124	Europe	#a6cee3
+ESC_IB6063AA_AS	NA	white	other	#afafaf			#35978f	KL48	Europe	#a6cee3
+ESC_IB6061AA_AS	NA	white	other	#afafaf			#3dfc7d	KL30	Europe	#a6cee3
+ESC_IB6057AA_AS	NA	white	other	#afafaf			#005A9C	KL115	Europe	#a6cee3
+ESC_IB6055AA_AS	NA	white	other	#afafaf			#3dfc7d	KL30	Europe	#a6cee3
+ESC_IB6023AA_AS	NA	white	other	#afafaf			#afafaf	Unassigned	Europe	#a6cee3
+ESC_IB6007AA_AS	NA	white	other	#afafaf			#d5d36e	KL9	Europe	#a6cee3
+ESC_RC0450AA_AS	NA	white	other	#afafaf	Human	#fdc086	#904f02	KL158	North America	#33a02c
+ESC_RC0469AA_AS	NA	white	other	#afafaf	Human	#fdc086	#CAB2D6	KL123	North America	#33a02c
+ESC_JB5546AA_AS	2015-2019	#fdae61	other	#afafaf	Animal	#7fc97f	#3dfc7d	KL30	Africa	#b2df8a
+ESC_JB5551AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#3dfc7d	KL30	Africa	#b2df8a
+ESC_JB8207AA_AS	2015-2019	#fdae61	other	#afafaf	Animal	#7fc97f	#FF7F00	KL35	Oceania	#e31a1c
+ESC_KB4185AA_AS	2020-2024	#d73027	other	#afafaf	Animal	#7fc97f	#35978f	KL48	North America	#33a02c
+ESC_KB4184AA_AS	2020-2024	#d73027	other	#afafaf	Animal	#7fc97f	#35978f	KL48	North America	#33a02c
+ESC_KB4183AA_AS	2020-2024	#d73027	other	#afafaf	Animal	#7fc97f	#afafaf	Unassigned	North America	#33a02c
+ESC_KB4182AA_AS	2015-2019	#fdae61	other	#afafaf	Animal	#7fc97f	#35978f	KL48	North America	#33a02c
+ESC_KB4178AA_AS	2015-2019	#fdae61	other	#afafaf	Animal	#7fc97f	#35978f	KL48	North America	#33a02c
+ESC_KB4177AA_AS	2015-2019	#fdae61	other	#afafaf	Animal	#7fc97f	#35978f	KL48	North America	#33a02c
+ESC_KB4176AA_AS	2015-2019	#fdae61	other	#afafaf	Animal	#7fc97f	#35978f	KL48	North America	#33a02c
+ESC_LB1193AA_AS	2015-2019	#fdae61	blood	red	Human	#fdc086	black	KL124	Asia	#1f78b4
+ESC_LB0796AA_AS	2010-2014	#1f78b4	other	#afafaf	Animal	#7fc97f	#afafaf	Unassigned	Europe	#a6cee3
+ESC_LB0272AA_AS	2015-2019	#fdae61	other	#afafaf			#3dfc7d	KL30	Europe	#a6cee3
+ESC_KB9689AA_AS	2015-2019	#fdae61	other	#afafaf			#afafaf	Unassigned	Oceania	#e31a1c
+ESC_KB9739AA_AS	NA	white	other	#afafaf			#afafaf	Unassigned	NA	NA
+ESC_LB2098AA_AS	NA	white	UTI/urine	#ffff33	Human	#fdc086	#005A9C	KL115	Europe	#a6cee3
+ESC_LB2188AA_AS	2005-2009	#abd9e9	other	#afafaf	Animal	#7fc97f	#d37505	KL114	Europe	#a6cee3
+ESC_LB2273AA_AS	2015-2019	#fdae61	other	#afafaf	Animal	#7fc97f	#35978f	KL48	Europe	#a6cee3
+ESC_LB2274AA_AS	2015-2019	#fdae61	other	#afafaf	Animal	#7fc97f	#35978f	KL48	Europe	#a6cee3
+ESC_LB2299AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#35978f	KL48	Europe	#a6cee3
+ESC_LB2439AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#afafaf	Unassigned	Asia	#1f78b4
+ESC_LB3931AA_AS	2010-2014	#1f78b4	UTI/urine	#ffff33	Human	#fdc086	#6A3D9A	KL20	Europe	#a6cee3
+ESC_LB4846AA_AS	2020-2024	#d73027	other	#afafaf	Animal	#7fc97f	#afafaf	Unassigned	North America	#33a02c
+ESC_LB6062AA_AS	NA	white	blood	red	Human	#fdc086	#6A3D9A	KL20	Europe	#a6cee3
+ESC_LB5851AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#afafaf	Unassigned	Asia	#1f78b4
+ESC_LB7293AA_AS	NA	white	other	#afafaf			#4695f0	KL103	NA	NA
+ESC_LB7209AA_AS	NA	white	other	#afafaf			#afafaf	Unassigned	NA	NA
+ESC_LB7074AA_AS	2015-2019	#fdae61	other	#afafaf			#6A3D9A	KL20	Asia	#1f78b4
+ESC_LB8207AA_AS	2015-2019	#fdae61	UTI/urine	#ffff33	Human	#fdc086	#4695f0	KL103	North America	#33a02c
+ESC_LB8202AA_AS	2015-2019	#fdae61	UTI/urine	#ffff33	Human	#fdc086	#afafaf	KL60	North America	#33a02c
+ESC_LB8201AA_AS	2015-2019	#fdae61	UTI/urine	#ffff33	Human	#fdc086	#4695f0	KL103	North America	#33a02c
+ESC_LB9222AA_AS	2010-2014	#1f78b4	rectal	#bf812d	Human	#fdc086	#afafaf	Unassigned	North America	#33a02c
+ESC_LB9218AA_AS	2015-2019	#fdae61	rectal	#bf812d	Human	#fdc086	#4695f0	KL103	North America	#33a02c
+ESC_LB9215AA_AS	2015-2019	#fdae61	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_LB8329AA_AS	2015-2019	#fdae61	other	#afafaf			#29c722	KL127	NA	NA
+ESC_NB7740AA_AS	2005-2009	#abd9e9	UTI/urine	#ffff33	Human	#fdc086	#904f02	KL158	Oceania	#e31a1c
+ESC_MB0788AA_AS	NA	white	other	#afafaf	Human	#fdc086	#4695f0	KL103	NA	NA
+ESC_MB1968AA_AS	2015-2019	#fdae61	rectal	#bf812d	Human	#fdc086	black	KL124	Asia	#1f78b4
+ESC_MB1966AA_AS	2015-2019	#fdae61	rectal	#bf812d	Human	#fdc086	#0835fd	KL53	Asia	#1f78b4
+ESC_MB1964AA_AS	2015-2019	#fdae61	rectal	#bf812d	Human	#fdc086	#afafaf	KL125	Asia	#1f78b4
+ESC_MB1963AA_AS	2015-2019	#fdae61	rectal	#bf812d	Human	#fdc086	#afafaf	KL125	Asia	#1f78b4
+ESC_MB1947AA_AS	2015-2019	#fdae61	rectal	#bf812d	Human	#fdc086	#35978f	KL48	Asia	#1f78b4
+ESC_MB1945AA_AS	2015-2019	#fdae61	rectal	#bf812d	Human	#fdc086	#afafaf	KL125	Asia	#1f78b4
+ESC_MB1944AA_AS	2015-2019	#fdae61	rectal	#bf812d	Human	#fdc086	#afafaf	KL125	Asia	#1f78b4
+ESC_MB1934AA_AS	2015-2019	#fdae61	rectal	#bf812d	Human	#fdc086	#4695f0	KL103	Asia	#1f78b4
+ESC_MB1933AA_AS	2015-2019	#fdae61	rectal	#bf812d	Human	#fdc086	#4695f0	KL103	Asia	#1f78b4
+ESC_MB1932AA_AS	2015-2019	#fdae61	rectal	#bf812d	Human	#fdc086	#4695f0	KL103	Asia	#1f78b4
+ESC_MB1927AA_AS	2015-2019	#fdae61	rectal	#bf812d	Human	#fdc086	#abf186	KL14	Asia	#1f78b4
+ESC_MB1912AA_AS	2015-2019	#fdae61	rectal	#bf812d	Human	#fdc086	#afafaf	KL16	Asia	#1f78b4
+ESC_MB1911AA_AS	2015-2019	#fdae61	rectal	#bf812d	Human	#fdc086	#afafaf	KL16	Asia	#1f78b4
+ESC_MB1908AA_AS	2015-2019	#fdae61	rectal	#bf812d	Human	#fdc086	#abf186	KL14	Asia	#1f78b4
+ESC_MB1907AA_AS	2015-2019	#fdae61	rectal	#bf812d	Human	#fdc086	#abf186	KL14	Asia	#1f78b4
+ESC_MB1905AA_AS	2015-2019	#fdae61	rectal	#bf812d	Human	#fdc086	#d5d36e	KL9	Asia	#1f78b4
+ESC_MB3343AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#afafaf	Unassigned	North America	#33a02c
+ESC_MB3664AA_AS	2015-2019	#fdae61	other	#afafaf			#3dfc7d	KL30	NA	NA
+ESC_MB4772AA_AS	2015-2019	#fdae61	UTI/urine	#ffff33	Human	#fdc086	#35978f	KL48	North America	#33a02c
+ESC_MB4714AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_MB7694AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_MB7693AA_AS	2015-2019	#fdae61	blood	red	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_NB8797AA_AS	NA	white	other	#afafaf	Human	#fdc086	#afafaf	Unassigned	North America	#33a02c
+ESC_MB9117AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_MB9104AA_AS	2015-2019	#fdae61	rectal	#bf812d	Human	#fdc086	#4695f0	KL103	Asia	#1f78b4
+ESC_MB9092AA_AS	2015-2019	#fdae61	rectal	#bf812d	Human	#fdc086	#3dfc7d	KL30	Asia	#1f78b4
+ESC_MB8914AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#afafaf	KL31	North America	#33a02c
+ESC_MB8889AA_AS	2015-2019	#fdae61	blood	red	Human	#fdc086	#afafaf	Unassigned	North America	#33a02c
+ESC_MB8856AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#afafaf	Unassigned	North America	#33a02c
+ESC_NB3698AA_AS	2010-2014	#1f78b4	other	#afafaf	Human	#fdc086	#4695f0	KL103	Europe	#a6cee3
+ESC_NB6748AA_AS	2015-2019	#fdae61	other	#afafaf			#afafaf	KL16	North America	#33a02c
+ESC_NB6057AA_AS	2005-2009	#abd9e9	other	#afafaf	Animal	#7fc97f	#FB9A99	KL55	Europe	#a6cee3
+ESC_NB5989AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#afafaf	KL125	Europe	#a6cee3
+ESC_NB4381AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#afafaf	Unassigned	Europe	#a6cee3
+ESC_NB4372AA_AS	2010-2014	#1f78b4	other	#afafaf	Human	#fdc086	#afafaf	KL31	Europe	#a6cee3
+ESC_NB4357AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#afafaf	Unassigned	Europe	#a6cee3
+ESC_NB4251AA_AS	2010-2014	#1f78b4	other	#afafaf	Animal	#7fc97f	#6A3D9A	KL20	Europe	#a6cee3
+ESC_NB4235AA_AS	2005-2009	#abd9e9	other	#afafaf	Animal	#7fc97f	#FB9A99	KL55	Europe	#a6cee3
+ESC_NB4215AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#afafaf	Unassigned	Europe	#a6cee3
+ESC_NB5948AA_AS	2010-2014	#1f78b4	blood	red	Human	#fdc086	#aac201	KL121	Asia	#1f78b4
+ESC_NB5311AA_AS	2015-2019	#fdae61	other	#afafaf			#afafaf	KL31	Asia	#1f78b4
+ESC_NB8219AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#afafaf	Unassigned	Europe	#a6cee3
+ESC_OB3907AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#afafaf	Unassigned	North America	#33a02c
+ESC_OB3657AA_AS	2015-2019	#fdae61	UTI/urine	#ffff33	Human	#fdc086	#0835fd	KL53	North America	#33a02c
+ESC_OB3653AA_AS	2015-2019	#fdae61	UTI/urine	#ffff33	Human	#fdc086	#d37505	KL114	North America	#33a02c
+ESC_OB3642AA_AS	2015-2019	#fdae61	UTI/urine	#ffff33	Human	#fdc086	#3dfc7d	KL30	North America	#33a02c
+ESC_OB3861AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#afafaf	Unassigned	North America	#33a02c
+ESC_OB3860AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_OB3859AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_OB4724AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_PB2475AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#3dfc7d	KL30	Africa	#b2df8a
+ESC_PB2326AA_AS	2005-2009	#abd9e9	other	#afafaf	Animal	#7fc97f	#CAB2D6	KL123	North America	#33a02c
+ESC_PB2322AA_AS	2005-2009	#abd9e9	other	#afafaf	Animal	#7fc97f	#CAB2D6	KL123	North America	#33a02c
+ESC_PB2594AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#4695f0	KL103	Africa	#b2df8a
+ESC_PB2565AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#afafaf	KL60	Africa	#b2df8a
+ESC_QB0404AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#4695f0	KL103	North America	#33a02c
+ESC_QB2896AA_AS	2015-2019	#fdae61	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_QB3159AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#afafaf	Unassigned	North America	#33a02c
+ESC_QB3155AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#afafaf	Unassigned	North America	#33a02c
+ESC_RB3873AA_AS	2015-2019	#fdae61	UTI/urine	#ffff33	Human	#fdc086	#abf186	KL14	North America	#33a02c
+ESC_RB3984AA_AS	2015-2019	#fdae61	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_RB3977AA_AS	2015-2019	#fdae61	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_RB8301AA_AS	2015-2019	#fdae61	UTI/urine	#ffff33	Human	#fdc086	#4695f0	KL103	Asia	#1f78b4
+ESC_RB8282AA_AS	2015-2019	#fdae61	UTI/urine	#ffff33	Human	#fdc086	#4695f0	KL103	Asia	#1f78b4
+ESC_RB8281AA_AS	2015-2019	#fdae61	UTI/urine	#ffff33	Human	#fdc086	#afafaf	Unassigned	Asia	#1f78b4
+ESC_RB8821AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#4695f0	KL103	Europe	#a6cee3
+ESC_RB8809AA_AS	2015-2019	#fdae61	rectal	#bf812d	Human	#fdc086	black	KL124	Europe	#a6cee3
+ESC_RB8804AA_AS	2015-2019	#fdae61	rectal	#bf812d	Human	#fdc086	#4695f0	KL103	Europe	#a6cee3
+ESC_RB9911AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#CAB2D6	KL123	Europe	#a6cee3
+ESC_RB8801AA_AS	NA	white	rectal	#bf812d	Human	#fdc086	#d5d36e	KL9	Europe	#a6cee3
+ESC_RB8800AA_AS	2015-2019	#fdae61	rectal	#bf812d	Human	#fdc086	black	KL124	Europe	#a6cee3
+ESC_RB9910AA_AS	NA	white	rectal	#bf812d	Human	#fdc086	#005A9C	KL115	Europe	#a6cee3
+ESC_RB8794AA_AS	NA	white	other	#afafaf	Animal	#7fc97f	#35978f	KL48	Europe	#a6cee3
+ESC_RB8793AA_AS	NA	white	other	#afafaf			#4695f0	KL103	Europe	#a6cee3
+ESC_RB8792AA_AS	NA	white	other	#afafaf			#3dfc7d	KL30	Europe	#a6cee3
+ESC_RB8746AA_AS	2015-2019	#fdae61	rectal	#bf812d	Human	#fdc086	#abf186	KL14	Asia	#1f78b4
+ESC_SB0873AA_AS	2020-2024	#d73027	rectal	#bf812d	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_SB0872AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_SB0869AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_SB0868AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_SB0867AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_SB0865AA_AS	2015-2019	#fdae61	rectal	#bf812d	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_TB3850AA_AS	2015-2019	#fdae61	other	#afafaf			#afafaf	Unassigned	NA	NA
+ESC_TB3853AA_AS	2015-2019	#fdae61	other	#afafaf			#afafaf	Unassigned	NA	NA
+ESC_TB3857AA_AS	2015-2019	#fdae61	other	#afafaf			#afafaf	Unassigned	NA	NA
+ESC_TB3888AA_AS	2015-2019	#fdae61	other	#afafaf			#afafaf	Unassigned	NA	NA
+ESC_TB3890AA_AS	2015-2019	#fdae61	other	#afafaf			#afafaf	Unassigned	NA	NA
+ESC_TB4037AA_AS	2015-2019	#fdae61	other	#afafaf			#afafaf	Unassigned	NA	NA
+ESC_TB4063AA_AS	2015-2019	#fdae61	other	#afafaf			#afafaf	Unassigned	NA	NA
+ESC_TB4064AA_AS	2015-2019	#fdae61	other	#afafaf			#afafaf	Unassigned	NA	NA
+ESC_TB4078AA_AS	2015-2019	#fdae61	other	#afafaf			#afafaf	Unassigned	NA	NA
+ESC_TB4087AA_AS	2015-2019	#fdae61	other	#afafaf			#afafaf	Unassigned	NA	NA
+ESC_TB4088AA_AS	2015-2019	#fdae61	other	#afafaf			#afafaf	Unassigned	NA	NA
+ESC_TB4090AA_AS	2015-2019	#fdae61	other	#afafaf			#afafaf	Unassigned	NA	NA
+ESC_TB4097AA_AS	2015-2019	#fdae61	other	#afafaf			#afafaf	Unassigned	NA	NA
+ESC_UB1017AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#afafaf	Unassigned	North America	#33a02c
+ESC_UB1016AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#afafaf	Unassigned	North America	#33a02c
+ESC_UB2526AA_AS	NA	white	other	#afafaf			#abf186	KL14	Europe	#a6cee3
+ESC_UB2516AA_AS	NA	white	other	#afafaf			#afafaf	KL31	Europe	#a6cee3
+ESC_UB2470AA_AS	NA	white	other	#afafaf			#3dfc7d	KL30	Europe	#a6cee3
+ESC_UB4126AA_AS	2015-2019	#fdae61	other	#afafaf	Animal	#7fc97f	#3dfc7d	KL30	Europe	#a6cee3
+ESC_UB4121AA_AS	2015-2019	#fdae61	other	#afafaf	Animal	#7fc97f	#E31A1C	KL57	Europe	#a6cee3
+ESC_UB4111AA_AS	2015-2019	#fdae61	other	#afafaf			#ffe119	KL5	Europe	#a6cee3
+ESC_UB3833AA_AS	2015-2019	#fdae61	other	#afafaf	Animal	#7fc97f	#E31A1C	KL57	Europe	#a6cee3
+ESC_UB4709AA_AS	2015-2019	#fdae61	other	#afafaf			#afafaf	Unassigned	Europe	#a6cee3
+ESC_UB6618AA_AS	2020-2024	#d73027	blood	red	Human	#fdc086	#afafaf	Unassigned	North America	#33a02c
+ESC_UB6611AA_AS	2020-2024	#d73027	rectal	#bf812d	Human	#fdc086	#afafaf	Unassigned	North America	#33a02c
+ESC_VB0005AA_AS	2015-2019	#fdae61	rectal	#bf812d	Human	#fdc086	#35978f	KL48	Asia	#1f78b4
+ESC_VB1381AA_AS	2020-2024	#d73027	other	#afafaf			#FF7F00	KL35	Europe	#a6cee3
+ESC_VB1727AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_VB1702AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#35978f	KL48	North America	#33a02c
+ESC_VB2175AA_AS	2015-2019	#fdae61	other	#afafaf			#CAB2D6	KL123	North America	#33a02c
+ESC_VB2646AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#afafaf	Unassigned	Oceania	#e31a1c
+ESC_VB2545AA_AS	2010-2014	#1f78b4	other	#afafaf	Human	#fdc086	#afafaf	Unassigned	Oceania	#e31a1c
+ESC_VB2487AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#afafaf	KL31	Asia	#1f78b4
+ESC_VB2485AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#abf186	KL14	Asia	#1f78b4
+ESC_VB2368AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#4695f0	KL103	Asia	#1f78b4
+ESC_WB4964AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_WB4906AA_AS	2010-2014	#1f78b4	other	#afafaf			black	KL124	Europe	#a6cee3
+ESC_VB5557AA_AS	2015-2019	#fdae61	other	#afafaf	Animal	#7fc97f	#afafaf	Unassigned	North America	#33a02c
+ESC_VB4822AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#afafaf	KL125	NA	NA
+ESC_VB6211AA_AS	2015-2019	#fdae61	other	#afafaf			#afafaf	Unassigned	NA	NA
+ESC_VB6212AA_AS	2015-2019	#fdae61	other	#afafaf			#abf186	KL14	NA	NA
+ESC_VB6221AA_AS	2015-2019	#fdae61	other	#afafaf			#abf186	KL14	NA	NA
+ESC_VB6226AA_AS	2015-2019	#fdae61	other	#afafaf			#abf186	KL14	NA	NA
+ESC_VB6822AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#4695f0	KL103	Asia	#1f78b4
+ESC_VB6778AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#4695f0	KL103	Asia	#1f78b4
+ESC_VB6764AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#d37505	KL114	Asia	#1f78b4
+ESC_VB6738AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#afafaf	Unassigned	Asia	#1f78b4
+ESC_VB7255AA_AS	2015-2019	#fdae61	other	#afafaf			#4695f0	KL103	Africa	#b2df8a
+ESC_VB7632AA_AS	2015-2019	#fdae61	other	#afafaf	Animal	#7fc97f	#afafaf	Unassigned	North America	#33a02c
+ESC_VB7734AA_AS	2010-2014	#1f78b4	other	#afafaf			#3dfc7d	KL30	Africa	#b2df8a
+ESC_VB7730AA_AS	2010-2014	#1f78b4	rectal	#bf812d	Human	#fdc086	#3dfc7d	KL30	Africa	#b2df8a
+ESC_VB7715AA_AS	2010-2014	#1f78b4	rectal	#bf812d	Human	#fdc086	#3dfc7d	KL30	Africa	#b2df8a
+ESC_VB7714AA_AS	2010-2014	#1f78b4	rectal	#bf812d	Human	#fdc086	#3dfc7d	KL30	Africa	#b2df8a
+ESC_VB7697AA_AS	2010-2014	#1f78b4	rectal	#bf812d	Human	#fdc086	#6A3D9A	KL20	Africa	#b2df8a
+ESC_VB9454AA_AS	2020-2024	#d73027	rectal	#bf812d	Human	#fdc086	#f553f0	KL39	Asia	#1f78b4
+ESC_WB0135AA_AS	2015-2019	#fdae61	other	#afafaf	Animal	#7fc97f	#35978f	KL48	North America	#33a02c
+ESC_WB0134AA_AS	2015-2019	#fdae61	other	#afafaf	Animal	#7fc97f	#35978f	KL48	North America	#33a02c
+ESC_WB0237AA_AS	2015-2019	#fdae61	other	#afafaf	Animal	#7fc97f	#35978f	KL48	North America	#33a02c
+ESC_WB0236AA_AS	2015-2019	#fdae61	other	#afafaf	Animal	#7fc97f	#35978f	KL48	North America	#33a02c
+ESC_WB0235AA_AS	2015-2019	#fdae61	other	#afafaf	Animal	#7fc97f	#35978f	KL48	North America	#33a02c
+ESC_WB0234AA_AS	2015-2019	#fdae61	other	#afafaf	Animal	#7fc97f	#35978f	KL48	North America	#33a02c
+ESC_WB5911AA_AS	2015-2019	#fdae61	other	#afafaf	Animal	#7fc97f	#35978f	KL48	North America	#33a02c
+ESC_WB0232AA_AS	2015-2019	#fdae61	other	#afafaf	Animal	#7fc97f	#35978f	KL48	North America	#33a02c
+ESC_WB0231AA_AS	2015-2019	#fdae61	other	#afafaf	Animal	#7fc97f	#35978f	KL48	North America	#33a02c
+ESC_WB0227AA_AS	2015-2019	#fdae61	other	#afafaf	Animal	#7fc97f	#35978f	KL48	North America	#33a02c
+ESC_WB0219AA_AS	2015-2019	#fdae61	other	#afafaf	Animal	#7fc97f	#35978f	KL48	North America	#33a02c
+ESC_WB0218AA_AS	2015-2019	#fdae61	other	#afafaf	Animal	#7fc97f	#35978f	KL48	North America	#33a02c
+ESC_WB0217AA_AS	2015-2019	#fdae61	other	#afafaf	Animal	#7fc97f	#35978f	KL48	North America	#33a02c
+ESC_WB0216AA_AS	2015-2019	#fdae61	other	#afafaf	Animal	#7fc97f	#35978f	KL48	North America	#33a02c
+ESC_WB0215AA_AS	2015-2019	#fdae61	other	#afafaf	Animal	#7fc97f	#35978f	KL48	North America	#33a02c
+ESC_WB0207AA_AS	2020-2024	#d73027	other	#afafaf	Animal	#7fc97f	#afafaf	Unassigned	Europe	#a6cee3
+ESC_WB0205AA_AS	2020-2024	#d73027	other	#afafaf	Animal	#7fc97f	#afafaf	Unassigned	Europe	#a6cee3
+ESC_WB0203AA_AS	2020-2024	#d73027	other	#afafaf	Animal	#7fc97f	#afafaf	Unassigned	Europe	#a6cee3
+ESC_WB2157AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#FF7F00	KL35	North America	#33a02c
+ESC_WB2146AA_AS	2015-2019	#fdae61	rectal	#bf812d	Human	#fdc086	#FF7F00	KL35	North America	#33a02c
+ESC_WB2365AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_WB2440AA_AS	2020-2024	#d73027	other	#afafaf	Animal	#7fc97f	#35978f	KL48	North America	#33a02c
+ESC_WB3891AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#abf186	KL14	Europe	#a6cee3
+ESC_WB6457AA_AS	2015-2019	#fdae61	other	#afafaf			black	KL124	NA	NA
+ESC_WB6450AA_AS	2015-2019	#fdae61	other	#afafaf			#afafaf	Unassigned	NA	NA
+ESC_WB6448AA_AS	2015-2019	#fdae61	other	#afafaf			#29c722	KL127	NA	NA
+ESC_WB6446AA_AS	2015-2019	#fdae61	other	#afafaf			#afafaf	Unassigned	NA	NA
+ESC_WB6440AA_AS	2015-2019	#fdae61	other	#afafaf			#afafaf	Unassigned	NA	NA
+ESC_WB6530AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#afafaf	Unassigned	Europe	#a6cee3
+ESC_WB6529AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#afafaf	Unassigned	Europe	#a6cee3
+ESC_WB6518AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#4695f0	KL103	Europe	#a6cee3
+ESC_WB6812AA_AS	2015-2019	#fdae61	UTI/urine	#ffff33	Human	#fdc086	#4695f0	KL103	Oceania	#e31a1c
+ESC_WB6811AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#29c722	KL127	Oceania	#e31a1c
+ESC_WB6672AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#CAB2D6	KL123	Europe	#a6cee3
+ESC_WB6671AA_AS	2015-2019	#fdae61	rectal	#bf812d	Human	#fdc086	#d5d36e	KL9	Europe	#a6cee3
+ESC_WB7581AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#afafaf	KL71	Asia	#1f78b4
+ESC_WB7577AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#afafaf	KL71	Asia	#1f78b4
+ESC_WB7566AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#35978f	KL48	Asia	#1f78b4
+ESC_WB7553AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#afafaf	KL31	Asia	#1f78b4
+ESC_WB7549AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#afafaf	KL31	Asia	#1f78b4
+ESC_WB7547AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#afafaf	KL31	Asia	#1f78b4
+ESC_WB7544AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#afafaf	KL31	Asia	#1f78b4
+ESC_WB7541AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#3dfc7d	KL30	Asia	#1f78b4
+ESC_WB7529AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#3dfc7d	KL30	Asia	#1f78b4
+ESC_WB7498AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#35978f	KL48	Asia	#1f78b4
+ESC_WB7496AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#aac201	KL121	Asia	#1f78b4
+ESC_WB7492AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#35978f	KL48	Asia	#1f78b4
+ESC_WB7491AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#afafaf	KL71	Asia	#1f78b4
+ESC_WB7479AA_AS	NA	white	other	#afafaf	Human	#fdc086	#d66384	KL101	Asia	#1f78b4
+ESC_WB7279AA_AS	2015-2019	#fdae61	other	#afafaf	Animal	#7fc97f	#3dfc7d	KL30	Europe	#a6cee3
+ESC_WB7277AA_AS	2015-2019	#fdae61	other	#afafaf	Animal	#7fc97f	#CAB2D6	KL123	Europe	#a6cee3
+ESC_WB8212AA_AS	2015-2019	#fdae61	rectal	#bf812d	Human	#fdc086	#afafaf	Unassigned	Asia	#1f78b4
+ESC_WB8208AA_AS	2015-2019	#fdae61	rectal	#bf812d	Human	#fdc086	#d37505	KL114	Asia	#1f78b4
+ESC_WB8195AA_AS	2015-2019	#fdae61	rectal	#bf812d	Human	#fdc086	#afafaf	Unassigned	Asia	#1f78b4
+ESC_WB8190AA_AS	2015-2019	#fdae61	rectal	#bf812d	Human	#fdc086	#afafaf	Unassigned	Asia	#1f78b4
+ESC_WB8162AA_AS	2015-2019	#fdae61	rectal	#bf812d	Human	#fdc086	#afafaf	Unassigned	Africa	#b2df8a
+ESC_WB8160AA_AS	2015-2019	#fdae61	rectal	#bf812d	Human	#fdc086	#afafaf	Unassigned	Africa	#b2df8a
+ESC_WB8119AA_AS	2015-2019	#fdae61	rectal	#bf812d	Human	#fdc086	#0835fd	KL53	Asia	#1f78b4
+ESC_WB8113AA_AS	2015-2019	#fdae61	rectal	#bf812d	Human	#fdc086	#4695f0	KL103	Asia	#1f78b4
+ESC_WB8100AA_AS	2015-2019	#fdae61	rectal	#bf812d	Human	#fdc086	#CAB2D6	KL123	Asia	#1f78b4
+ESC_WB8091AA_AS	2015-2019	#fdae61	rectal	#bf812d	Human	#fdc086	#afafaf	Unassigned	Asia	#1f78b4
+ESC_WB8064AA_AS	2015-2019	#fdae61	rectal	#bf812d	Human	#fdc086	#afafaf	Unassigned	Asia	#1f78b4
+ESC_WB8059AA_AS	2015-2019	#fdae61	rectal	#bf812d	Human	#fdc086	#afafaf	Unassigned	Asia	#1f78b4
+ESC_WB8052AA_AS	2015-2019	#fdae61	rectal	#bf812d	Human	#fdc086	#afafaf	Unassigned	Asia	#1f78b4
+ESC_WB8909AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#904f02	KL158	Europe	#a6cee3
+ESC_WB9128AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_XB0829AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#afafaf	Unassigned	North America	#33a02c
+ESC_XB0828AA_AS	2020-2024	#d73027	blood	red	Human	#fdc086	#afafaf	Unassigned	North America	#33a02c
+ESC_XB0827AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_XB1480AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_XB5384AA_AS	NA	white	other	#afafaf	Human	#fdc086	#E31A1C	KL57	Africa	#b2df8a
+ESC_XB5242AA_AS	NA	white	other	#afafaf	Human	#fdc086	#29c722	KL127	Africa	#b2df8a
+ESC_XB4542AA_AS	NA	white	other	#afafaf	Human	#fdc086	#E31A1C	KL57	Asia	#1f78b4
+ESC_XB4535AA_AS	NA	white	other	#afafaf	Human	#fdc086	#afafaf	KL16	Asia	#1f78b4
+ESC_XB4413AA_AS	NA	white	other	#afafaf	Human	#fdc086	#fd088e	KL54	Africa	#b2df8a
+ESC_XB7059AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#afafaf	Unassigned	Europe	#a6cee3
+ESC_XB7055AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#4695f0	KL103	Europe	#a6cee3
+ESC_XB7053AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#CAB2D6	KL123	Europe	#a6cee3
+ESC_XB7042AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	black	KL124	Europe	#a6cee3
+ESC_XB7035AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#4695f0	KL103	Europe	#a6cee3
+ESC_XB7033AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#afafaf	KL16	Europe	#a6cee3
+ESC_XB7032AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#afafaf	KL125	Europe	#a6cee3
+ESC_XB9150AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	black	KL124	Europe	#a6cee3
+ESC_XB9146AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	black	KL124	Europe	#a6cee3
+ESC_YB1920AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#0835fd	KL53	Oceania	#e31a1c
+ESC_YB1895AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#afafaf	Unassigned	Oceania	#e31a1c
+ESC_YB1873AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#3dfc7d	KL30	Oceania	#e31a1c
+ESC_YB1856AA_AS	2015-2019	#fdae61	UTI/urine	#ffff33	Human	#fdc086	#afafaf	Unassigned	Oceania	#e31a1c
+ESC_YB1772AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#afafaf	Unassigned	Oceania	#e31a1c
+ESC_YB1730AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#afafaf	Unassigned	Oceania	#e31a1c
+ESC_YB1719AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#aac201	KL121	Oceania	#e31a1c
+ESC_YB1696AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#afafaf	Unassigned	Oceania	#e31a1c
+ESC_YB1694AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#afafaf	Unassigned	Oceania	#e31a1c
+ESC_YB1687AA_AS	2015-2019	#fdae61	UTI/urine	#ffff33	Human	#fdc086	#afafaf	KL137	Oceania	#e31a1c
+ESC_YB1677AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#afafaf	Unassigned	Oceania	#e31a1c
+ESC_YB1653AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#4695f0	KL103	Oceania	#e31a1c
+ESC_YB1650AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#afafaf	Unassigned	Oceania	#e31a1c
+ESC_YB1644AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#afafaf	Unassigned	Oceania	#e31a1c
+ESC_YB1613AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#afafaf	Unassigned	Oceania	#e31a1c
+ESC_YB1594AA_AS	2015-2019	#fdae61	UTI/urine	#ffff33	Human	#fdc086	black	KL124	Oceania	#e31a1c
+ESC_YB1534AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#4695f0	KL103	Oceania	#e31a1c
+ESC_YB2264AA_AS	2005-2009	#abd9e9	other	#afafaf	Human	#fdc086	#FF7F00	KL35	Europe	#a6cee3
+ESC_YB2525AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#3dfc7d	KL30	Asia	#1f78b4
+ESC_YB4497AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_YB4496AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_YB4493AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_YB4491AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#afafaf	Unassigned	North America	#33a02c
+ESC_ZB0101AA_AS	2015-2019	#fdae61	other	#afafaf			#afafaf	Unassigned	North America	#33a02c
+ESC_ZB1751AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#35978f	KL48	North America	#33a02c
+ESC_ZB2540AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_ZB5916AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_ZB5913AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#afafaf	Unassigned	North America	#33a02c
+ESC_ZB5911AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#afafaf	Unassigned	North America	#33a02c
+ESC_ZB5910AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#afafaf	Unassigned	North America	#33a02c
+ESC_ZB6320AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#fd088e	KL54	North America	#33a02c
+ESC_ZB6319AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#afafaf	Unassigned	North America	#33a02c
+ESC_ZB6969AA_AS	2020-2024	#d73027	other	#afafaf	Animal	#7fc97f	#afafaf	Unassigned	North America	#33a02c
+ESC_ZB7879AA_AS	2015-2019	#fdae61	other	#afafaf			#FF7F00	KL35	Asia	#1f78b4
+ESC_ZB7328AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#FF7F00	KL35	Asia	#1f78b4
+ESC_ZB8142AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_ZB8141AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_ZB8587AA_AS	2020-2024	#d73027	other	#afafaf			#CAB2D6	KL123	North America	#33a02c
+ESC_ZB8812AA_AS	2015-2019	#fdae61	other	#afafaf	Animal	#7fc97f	#afafaf	Unassigned	North America	#33a02c
+ESC_ZB9388AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_ZB9386AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_ZB9385AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_ZB9384AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_AC1589AA_AS	2020-2024	#d73027	blood	red	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_AC1490AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#4695f0	KL103	North America	#33a02c
+ESC_ZB9409AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#d66384	KL101	Africa	#b2df8a
+ESC_AC2977AA_AS	2020-2024	#d73027	other	#afafaf	Animal	#7fc97f	#35978f	KL48	North America	#33a02c
+ESC_AC2976AA_AS	2020-2024	#d73027	other	#afafaf	Animal	#7fc97f	#35978f	KL48	North America	#33a02c
+ESC_AC2975AA_AS	2020-2024	#d73027	other	#afafaf	Animal	#7fc97f	#afafaf	Unassigned	North America	#33a02c
+ESC_AC2974AA_AS	2020-2024	#d73027	other	#afafaf	Animal	#7fc97f	#afafaf	Unassigned	North America	#33a02c
+ESC_AC2973AA_AS	2020-2024	#d73027	other	#afafaf	Animal	#7fc97f	#afafaf	Unassigned	North America	#33a02c
+ESC_AC2972AA_AS	2020-2024	#d73027	other	#afafaf	Animal	#7fc97f	#afafaf	Unassigned	North America	#33a02c
+ESC_AC2970AA_AS	2020-2024	#d73027	other	#afafaf	Animal	#7fc97f	#35978f	KL48	North America	#33a02c
+ESC_AC2968AA_AS	2020-2024	#d73027	other	#afafaf	Animal	#7fc97f	#afafaf	Unassigned	North America	#33a02c
+ESC_AC3403AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_AC3402AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_AC3400AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_AC3398AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_AC3397AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_AC3394AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#afafaf	Unassigned	North America	#33a02c
+ESC_AC3364AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#afafaf	Unassigned	North America	#33a02c
+ESC_AC3563AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#35978f	KL48	NA	NA
+ESC_AC3624AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#3dfc7d	KL30	NA	NA
+ESC_AC3609AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#afafaf	Unassigned	NA	NA
+ESC_AC4063AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_AC4164AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_AC4162AA_AS	2020-2024	#d73027	blood	red	Human	#fdc086	#FF7F00	KL35	North America	#33a02c
+ESC_AC4160AA_AS	2015-2019	#fdae61	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_AC4156AA_AS	2015-2019	#fdae61	UTI/urine	#ffff33	Human	#fdc086	#FF7F00	KL35	North America	#33a02c
+ESC_AC4196AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#ffe119	KL5	North America	#33a02c
+ESC_AC4191AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_AC4184AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_AC4497AA_AS	2015-2019	#fdae61	other	#afafaf	Animal	#7fc97f	#FB9A99	KL55	North America	#33a02c
+ESC_AC4541AA_AS	NA	white	other	#afafaf			#afafaf	Unassigned	NA	NA
+ESC_AC4612AA_AS	2010-2014	#1f78b4	other	#afafaf			#afafaf	Unassigned	NA	NA
+ESC_AC4725AA_AS	2015-2019	#fdae61	other	#afafaf	Animal	#7fc97f	#FB9A99	KL55	North America	#33a02c
+ESC_AC4758AA_AS	2010-2014	#1f78b4	other	#afafaf	Animal	#7fc97f	#abf186	KL14	Oceania	#e31a1c
+ESC_AC5142AA_AS	2020-2024	#d73027	other	#afafaf			#35978f	KL48	NA	NA
+ESC_AC5146AA_AS	2020-2024	#d73027	other	#afafaf			#35978f	KL48	NA	NA
+ESC_AC5148AA_AS	2020-2024	#d73027	other	#afafaf			#35978f	KL48	NA	NA
+ESC_AC5552AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_AC5551AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_AC5548AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_AC5544AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_AC5542AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_EC9536AA_AS	2015-2019	#fdae61	UTI/urine	#ffff33	Human	#fdc086	#35978f	KL48	Asia	#1f78b4
+ESC_EC9537AA_AS	2015-2019	#fdae61	UTI/urine	#ffff33	Human	#fdc086	#35978f	KL48	Asia	#1f78b4
+ESC_EC9539AA_AS	2015-2019	#fdae61	UTI/urine	#ffff33	Human	#fdc086	#afafaf	KL125	Asia	#1f78b4
+ESC_EC9541AA_AS	2015-2019	#fdae61	UTI/urine	#ffff33	Human	#fdc086	#35978f	KL48	Asia	#1f78b4
+ESC_EC9544AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#3dfc7d	KL30	Asia	#1f78b4
+ESC_AC5654AA_AS	NA	white	other	#afafaf			#afafaf	Unassigned	NA	NA
+ESC_AC5891AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_AC5893AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#afafaf	Unassigned	North America	#33a02c
+ESC_AC9532AA_AS	2015-2019	#fdae61	other	#afafaf	Animal	#7fc97f	#35978f	KL48	North America	#33a02c
+ESC_AC6613AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#afafaf	Unassigned	Asia	#1f78b4
+ESC_BC8684AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	black	KL124	Africa	#b2df8a
+ESC_BC8705AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#FF7F00	KL35	Africa	#b2df8a
+ESC_BC8324AA_AS	2015-2019	#fdae61	other	#afafaf	Animal	#7fc97f	#f553f0	KL39	Europe	#a6cee3
+ESC_BC0734AA_AS	2015-2019	#fdae61	other	#afafaf	Animal	#7fc97f	#d66384	KL101	Africa	#b2df8a
+ESC_BC5190AA_AS	NA	white	other	#afafaf			#abf186	KL14	Europe	#a6cee3
+ESC_BC5485AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_BC6418AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_BC7627AA_AS	2015-2019	#fdae61	other	#afafaf			#afafaf	Unassigned	Europe	#a6cee3
+ESC_BC7200AA_AS	2015-2019	#fdae61	other	#afafaf			#d66384	KL101	Europe	#a6cee3
+ESC_BC7742AA_AS	2015-2019	#fdae61	other	#afafaf			#ffe119	KL5	Europe	#a6cee3
+ESC_BC7127AA_AS	2015-2019	#fdae61	other	#afafaf			#afafaf	Unassigned	Europe	#a6cee3
+ESC_BC7503AA_AS	2015-2019	#fdae61	other	#afafaf			#afafaf	Unassigned	Europe	#a6cee3
+ESC_BC7035AA_AS	2015-2019	#fdae61	other	#afafaf			#4695f0	KL103	Europe	#a6cee3
+ESC_BC9095AA_AS	2015-2019	#fdae61	other	#afafaf	Animal	#7fc97f	#afafaf	Unassigned	North America	#33a02c
+ESC_BC9588AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_CC0061AA_AS	NA	white	other	#afafaf			black	KL124	NA	NA
+ESC_CC0140AA_AS	NA	white	other	#afafaf			#0835fd	KL53	NA	NA
+ESC_CC0163AA_AS	NA	white	other	#afafaf			#0835fd	KL53	NA	NA
+ESC_CC0180AA_AS	NA	white	other	#afafaf			black	KL124	NA	NA
+ESC_CC0217AA_AS	NA	white	other	#afafaf			#d5d36e	KL9	NA	NA
+ESC_CC0222AA_AS	NA	white	other	#afafaf			black	KL124	NA	NA
+ESC_CC0230AA_AS	NA	white	other	#afafaf			#6A3D9A	KL20	NA	NA
+ESC_CC0234AA_AS	NA	white	other	#afafaf			#35978f	KL48	NA	NA
+ESC_CC0285AA_AS	NA	white	other	#afafaf			#6A3D9A	KL20	NA	NA
+ESC_CC0429AA_AS	NA	white	other	#afafaf			#35978f	KL48	NA	NA
+ESC_CC0504AA_AS	NA	white	other	#afafaf			#afafaf	Unassigned	NA	NA
+ESC_CC0516AA_AS	NA	white	other	#afafaf			black	KL124	NA	NA
+ESC_CC0541AA_AS	NA	white	other	#afafaf			#4695f0	KL103	NA	NA
+ESC_CC0554AA_AS	NA	white	other	#afafaf			#35978f	KL48	NA	NA
+ESC_CC0579AA_AS	NA	white	other	#afafaf			#005A9C	KL115	NA	NA
+ESC_CC0610AA_AS	NA	white	other	#afafaf			#4695f0	KL103	NA	NA
+ESC_CC1231AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#afafaf	Unassigned	North America	#33a02c
+ESC_CC1380AA_AS	NA	white	blood	red	Human	#fdc086	#afafaf	Unassigned	Asia	#1f78b4
+ESC_CC1396AA_AS	NA	white	blood	red	Human	#fdc086	#afafaf	Unassigned	Asia	#1f78b4
+ESC_CC1554AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#afafaf	Unassigned	North America	#33a02c
+ESC_CC1918AA_AS	2020-2024	#d73027	other	#afafaf	Animal	#7fc97f	#FF7F00	KL35	North America	#33a02c
+ESC_CC2455AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#afafaf	Unassigned	North America	#33a02c
+ESC_CC3113AA_AS	2015-2019	#fdae61	other	#afafaf			#5d7499	KL58	South America	#fb9a99
+ESC_CC3144AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#4695f0	KL103	North America	#33a02c
+ESC_CC3145AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_CC3157AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#4695f0	KL103	Africa	#b2df8a
+ESC_CC3158AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#4695f0	KL103	Africa	#b2df8a
+ESC_CC3159AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#4695f0	KL103	Africa	#b2df8a
+ESC_CC4241AA_AS	2015-2019	#fdae61	blood	red	Human	#fdc086	#3dfc7d	KL30	Europe	#a6cee3
+ESC_CC3839AA_AS	2010-2014	#1f78b4	other	#afafaf	Human	#fdc086	#29c722	KL127	Europe	#a6cee3
+ESC_CC4621AA_AS	2020-2024	#d73027	other	#afafaf	Animal	#7fc97f	#35978f	KL48	North America	#33a02c
+ESC_CC4624AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_CC4625AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_CC4634AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#7e9000	KL142	North America	#33a02c
+ESC_CC4732AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	Asia	#1f78b4
+ESC_CC4745AA_AS	2020-2024	#d73027	other	#afafaf	Animal	#7fc97f	#35978f	KL48	North America	#33a02c
+ESC_CC4935AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#aac201	KL121	North America	#33a02c
+ESC_CC4936AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#aac201	KL121	North America	#33a02c
+ESC_CC4941AA_AS	2020-2024	#d73027	rectal	#bf812d	Human	#fdc086	#3dfc7d	KL30	North America	#33a02c
+ESC_CC4943AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#abf186	KL14	North America	#33a02c
+ESC_CC4950AA_AS	2020-2024	#d73027	rectal	#bf812d	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_CC5022AA_AS	2020-2024	#d73027	blood	red	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_CC5029AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#35978f	KL48	North America	#33a02c
+ESC_CC8364AA_AS	2020-2024	#d73027	rectal	#bf812d	Human	#fdc086	#d37505	KL114	Europe	#a6cee3
+ESC_CC8366AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#afafaf	Unassigned	North America	#33a02c
+ESC_CC7955AA_AS	2015-2019	#fdae61	blood	red	Human	#fdc086	#6A3D9A	KL20	Africa	#b2df8a
+ESC_CC8118AA_AS	2020-2024	#d73027	blood	red	Human	#fdc086	#d66384	KL101	Africa	#b2df8a
+ESC_CC8123AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#3dfc7d	KL30	Africa	#b2df8a
+ESC_CC8605AA_AS	2015-2019	#fdae61	blood	red	Human	#fdc086	#904f02	KL158	North America	#33a02c
+ESC_CC8621AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_CC8624AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_CC8626AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_CC8730AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#afafaf	Unassigned	Europe	#a6cee3
+ESC_CC8734AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#afafaf	KL125	Europe	#a6cee3
+ESC_CC8759AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#d66384	KL101	Europe	#a6cee3
+ESC_CC8788AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#afafaf	Unassigned	Europe	#a6cee3
+ESC_CC8811AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#3dfc7d	KL30	Europe	#a6cee3
+ESC_CC8816AA_AS	2020-2024	#d73027	rectal	#bf812d	Human	#fdc086	#d37505	KL114	Europe	#a6cee3
+ESC_CC8817AA_AS	2020-2024	#d73027	rectal	#bf812d	Human	#fdc086	#d37505	KL114	Europe	#a6cee3
+ESC_CC8818AA_AS	2020-2024	#d73027	rectal	#bf812d	Human	#fdc086	#afafaf	Unassigned	Europe	#a6cee3
+ESC_CC8824AA_AS	2020-2024	#d73027	rectal	#bf812d	Human	#fdc086	#afafaf	KL137	Europe	#a6cee3
+ESC_CC8825AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#afafaf	Unassigned	Europe	#a6cee3
+ESC_CC8829AA_AS	2015-2019	#fdae61	rectal	#bf812d	Human	#fdc086	#afafaf	Unassigned	Europe	#a6cee3
+ESC_CC8834AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#0835fd	KL53	Europe	#a6cee3
+ESC_CC8909AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#afafaf	Unassigned	North America	#33a02c
+ESC_CC9059AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#abf186	KL14	North America	#33a02c
+ESC_CC9066AA_AS	2020-2024	#d73027	blood	red	Human	#fdc086	#904f02	KL158	North America	#33a02c
+ESC_CC9357AA_AS	2015-2019	#fdae61	blood	red	Human	#fdc086	#afafaf	Unassigned	NA	NA
+ESC_CC9962AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	black	KL124	Europe	#a6cee3
+ESC_CC9756AA_AS	2020-2024	#d73027	other	#afafaf	Animal	#7fc97f	#35978f	KL48	North America	#33a02c
+ESC_DC0183AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_CC9964AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#afafaf	KL16	Europe	#a6cee3
+ESC_DC0462AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#abf186	KL14	North America	#33a02c
+ESC_DC0373AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#afafaf	Unassigned	North America	#33a02c
+ESC_DC0374AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#fd088e	KL54	North America	#33a02c
+ESC_DC0376AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_DC0699AA_AS	2020-2024	#d73027	other	#afafaf			#3dfc7d	KL30	Africa	#b2df8a
+ESC_DC0709AA_AS	2020-2024	#d73027	other	#afafaf			black	KL124	Africa	#b2df8a
+ESC_DC1329AA_AS	2015-2019	#fdae61	other	#afafaf			#3dfc7d	KL30	Asia	#1f78b4
+ESC_DC1694AA_AS	2015-2019	#fdae61	other	#afafaf			#5d7499	KL58	NA	NA
+ESC_DC1817AA_AS	2015-2019	#fdae61	blood	red	Human	#fdc086	#5d7499	KL58	North America	#33a02c
+ESC_DC1866AA_AS	2015-2019	#fdae61	UTI/urine	#ffff33	Human	#fdc086	#afafaf	Unassigned	North America	#33a02c
+ESC_DC1902AA_AS	2015-2019	#fdae61	UTI/urine	#ffff33	Human	#fdc086	#904f02	KL158	North America	#33a02c
+ESC_DC2051AA_AS	2020-2024	#d73027	other	#afafaf	Animal	#7fc97f	#35978f	KL48	North America	#33a02c
+ESC_DC2052AA_AS	2020-2024	#d73027	other	#afafaf	Animal	#7fc97f	#35978f	KL48	North America	#33a02c
+ESC_DC2066AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_DC1549AA_AS	2020-2024	#d73027	other	#afafaf			#afafaf	Unassigned	South America	#fb9a99
+ESC_DC1983AA_AS	2015-2019	#fdae61	other	#afafaf			#afafaf	Unassigned	Africa	#b2df8a
+ESC_DC1990AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#afafaf	Unassigned	Africa	#b2df8a
+ESC_DC1992AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#afafaf	Unassigned	Africa	#b2df8a
+ESC_DC1996AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#afafaf	Unassigned	Africa	#b2df8a
+ESC_DC1998AA_AS	2010-2014	#1f78b4	other	#afafaf	Human	#fdc086	#afafaf	Unassigned	Asia	#1f78b4
+ESC_DC1999AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#afafaf	Unassigned	Africa	#b2df8a
+ESC_DC2007AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#afafaf	Unassigned	Asia	#1f78b4
+ESC_DC2008AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#afafaf	Unassigned	Africa	#b2df8a
+ESC_DC2011AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#afafaf	Unassigned	Africa	#b2df8a
+ESC_DC2015AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#afafaf	Unassigned	Africa	#b2df8a
+ESC_DC2023AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#afafaf	Unassigned	Africa	#b2df8a
+ESC_DC2024AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#afafaf	Unassigned	Africa	#b2df8a
+ESC_DC2025AA_AS	2015-2019	#fdae61	UTI/urine	#ffff33	Human	#fdc086	black	KL124	Africa	#b2df8a
+ESC_DC2031AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#afafaf	Unassigned	Africa	#b2df8a
+ESC_DC2032AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#afafaf	Unassigned	Africa	#b2df8a
+ESC_DC2034AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#afafaf	Unassigned	Africa	#b2df8a
+ESC_DC2035AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#afafaf	Unassigned	Africa	#b2df8a
+ESC_DC2039AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	black	KL124	Africa	#b2df8a
+ESC_DC2044AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#afafaf	Unassigned	Africa	#b2df8a
+ESC_DC2067AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#afafaf	Unassigned	Africa	#b2df8a
+ESC_DC2070AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#afafaf	Unassigned	Africa	#b2df8a
+ESC_DC2081AA_AS	2020-2024	#d73027	blood	red	Human	#fdc086	#afafaf	Unassigned	Africa	#b2df8a
+ESC_DC2088AA_AS	NA	white	other	#afafaf	Human	#fdc086	#afafaf	Unassigned	Africa	#b2df8a
+ESC_DC2089AA_AS	NA	white	other	#afafaf	Human	#fdc086	#afafaf	Unassigned	Africa	#b2df8a
+ESC_DC2090AA_AS	NA	white	other	#afafaf	Human	#fdc086	black	KL124	Africa	#b2df8a
+ESC_DC2091AA_AS	NA	white	other	#afafaf	Human	#fdc086	#afafaf	Unassigned	Africa	#b2df8a
+ESC_DC2092AA_AS	NA	white	other	#afafaf	Human	#fdc086	black	KL124	Africa	#b2df8a
+ESC_DC2513AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_DC2531AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#3dfc7d	KL30	North America	#33a02c
+ESC_DC2534AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#3dfc7d	KL30	North America	#33a02c
+ESC_DC2535AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#3dfc7d	KL30	North America	#33a02c
+ESC_DC2600AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_DC2601AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_DC2628AA_AS	2020-2024	#d73027	other	#afafaf	Animal	#7fc97f	#afafaf	Unassigned	North America	#33a02c
+ESC_DC2672AA_AS	2015-2019	#fdae61	UTI/urine	#ffff33	Human	#fdc086	#ffe119	KL5	NA	NA
+ESC_DC2694AA_AS	2015-2019	#fdae61	UTI/urine	#ffff33	Human	#fdc086	#ffe119	KL5	NA	NA
+ESC_DC2714AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_DC2715AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_DC2716AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_DC2717AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_DC2925AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#3dfc7d	KL30	North America	#33a02c
+ESC_DC2344AA_AS	2020-2024	#d73027	other	#afafaf	Animal	#7fc97f	#afafaf	Unassigned	North America	#33a02c
+ESC_DC3293AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_DC3295AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_DC3359AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#afafaf	Unassigned	NA	NA
+ESC_DC3391AA_AS	2015-2019	#fdae61	UTI/urine	#ffff33	Human	#fdc086	#afafaf	Unassigned	NA	NA
+ESC_DC3463AA_AS	2015-2019	#fdae61	rectal	#bf812d	Human	#fdc086	#afafaf	Unassigned	NA	NA
+ESC_DC4467AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#afafaf	Unassigned	NA	NA
+ESC_DC4529AA_AS	2015-2019	#fdae61	rectal	#bf812d	Human	#fdc086	#afafaf	Unassigned	NA	NA
+ESC_DC4688AA_AS	2020-2024	#d73027	rectal	#bf812d	Human	#fdc086	#afafaf	Unassigned	NA	NA
+ESC_EC4723AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#afafaf	KL16	NA	NA
+ESC_EC4728AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#afafaf	KL16	NA	NA
+ESC_EC4736AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#d66384	KL101	NA	NA
+ESC_EC4744AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#afafaf	KL16	NA	NA
+ESC_EC4745AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#afafaf	KL16	NA	NA
+ESC_EC4747AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#afafaf	KL16	NA	NA
+ESC_EC4759AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#4695f0	KL103	NA	NA
+ESC_EC4763AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#4695f0	KL103	NA	NA
+ESC_EC4764AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#4695f0	KL103	NA	NA
+ESC_EC4766AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#4695f0	KL103	NA	NA
+ESC_EC4769AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#afafaf	KL16	NA	NA
+ESC_EC4770AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#afafaf	KL16	NA	NA
+ESC_EC4771AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#afafaf	KL16	NA	NA
+ESC_EC4772AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#afafaf	KL16	NA	NA
+ESC_EC4773AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#afafaf	KL16	NA	NA
+ESC_EC4774AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#afafaf	KL16	NA	NA
+ESC_EC4775AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#afafaf	KL16	NA	NA
+ESC_EC4776AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#4695f0	KL103	NA	NA
+ESC_EC4777AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#4695f0	KL103	NA	NA
+ESC_EC4778AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#4695f0	KL103	NA	NA
+ESC_EC4779AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#afafaf	KL125	NA	NA
+ESC_EC4780AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#afafaf	KL125	NA	NA
+ESC_EC4781AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#4695f0	KL103	NA	NA
+ESC_EC4782AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#afafaf	KL125	NA	NA
+ESC_DC5966AA_AS	2020-2024	#d73027	other	#afafaf			#4695f0	KL103	NA	NA
+ESC_DC6066AA_AS	2020-2024	#d73027	other	#afafaf			#4695f0	KL103	NA	NA
+ESC_DC6147AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#5d7499	KL58	North America	#33a02c
+ESC_DC6148AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_DC7332AA_AS	NA	white	other	#afafaf	Animal	#7fc97f	#6A3D9A	KL20	Europe	#a6cee3
+ESC_DC7679AA_AS	NA	white	blood	red	Human	#fdc086	#afafaf	Unassigned	Europe	#a6cee3
+ESC_DC7814AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_DC7816AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_DC7912AA_AS	NA	white	other	#afafaf	Human	#fdc086	#afafaf	KL31	NA	NA
+ESC_DC8559AA_AS	2015-2019	#fdae61	other	#afafaf	Animal	#7fc97f	#29c722	KL127	Asia	#1f78b4
+ESC_DC8560AA_AS	2015-2019	#fdae61	other	#afafaf	Animal	#7fc97f	#29c722	KL127	Asia	#1f78b4
+ESC_DC8794AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#afafaf	Unassigned	North America	#33a02c
+ESC_DC9328AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_DC9517AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	black	KL124	NA	NA
+ESC_EC0845AA_AS	2015-2019	#fdae61	blood	red	Human	#fdc086	#FB9A99	KL55	NA	NA
+ESC_EC0957AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#3dfc7d	KL30	North America	#33a02c
+ESC_EC1824AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_EC2082AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#005A9C	KL115	North America	#33a02c
+ESC_EC3832AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#afafaf	Unassigned	North America	#33a02c
+ESC_EC3833AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#afafaf	Unassigned	North America	#33a02c
+ESC_EC3834AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#afafaf	Unassigned	North America	#33a02c
+ESC_FC4333AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#afafaf	Unassigned	North America	#33a02c
+ESC_FC4334AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_FC4376AA_AS	2020-2024	#d73027	blood	red	Human	#fdc086	#35978f	KL48	North America	#33a02c
+ESC_FC4404AA_AS	2020-2024	#d73027	rectal	#bf812d	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_FC4410AA_AS	2020-2024	#d73027	rectal	#bf812d	Human	#fdc086	#afafaf	Unassigned	North America	#33a02c
+ESC_FC4415AA_AS	2020-2024	#d73027	rectal	#bf812d	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_FC4418AA_AS	2020-2024	#d73027	rectal	#bf812d	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_FC4420AA_AS	2020-2024	#d73027	rectal	#bf812d	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_FC4430AA_AS	2020-2024	#d73027	rectal	#bf812d	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_EC5484AA_AS	2005-2009	#abd9e9	other	#afafaf	Animal	#7fc97f	#afafaf	Unassigned	Europe	#a6cee3
+ESC_EC5547AA_AS	2010-2014	#1f78b4	other	#afafaf	Animal	#7fc97f	#afafaf	Unassigned	Europe	#a6cee3
+ESC_EC5577AA_AS	2010-2014	#1f78b4	other	#afafaf	Animal	#7fc97f	#afafaf	Unassigned	Europe	#a6cee3
+ESC_EC5588AA_AS	2010-2014	#1f78b4	other	#afafaf	Animal	#7fc97f	#afafaf	Unassigned	Europe	#a6cee3
+ESC_EC5590AA_AS	2010-2014	#1f78b4	other	#afafaf	Animal	#7fc97f	#afafaf	Unassigned	Europe	#a6cee3
+ESC_EC5606AA_AS	2010-2014	#1f78b4	other	#afafaf			#3dfc7d	KL30	Europe	#a6cee3
+ESC_EC5613AA_AS	2010-2014	#1f78b4	other	#afafaf	Animal	#7fc97f	#afafaf	Unassigned	Europe	#a6cee3
+ESC_EC5641AA_AS	2005-2009	#abd9e9	other	#afafaf	Animal	#7fc97f	#afafaf	Unassigned	Europe	#a6cee3
+ESC_EC5642AA_AS	2005-2009	#abd9e9	other	#afafaf	Animal	#7fc97f	#afafaf	Unassigned	Europe	#a6cee3
+ESC_EC5645AA_AS	2005-2009	#abd9e9	other	#afafaf	Animal	#7fc97f	#fd088e	KL54	Europe	#a6cee3
+ESC_EC5651AA_AS	2005-2009	#abd9e9	other	#afafaf	Animal	#7fc97f	#afafaf	Unassigned	Europe	#a6cee3
+ESC_EC5657AA_AS	2005-2009	#abd9e9	other	#afafaf	Animal	#7fc97f	#afafaf	Unassigned	Europe	#a6cee3
+ESC_EC5707AA_AS	2010-2014	#1f78b4	other	#afafaf	Human	#fdc086	#d37505	KL114	Europe	#a6cee3
+ESC_EC5751AA_AS	2010-2014	#1f78b4	other	#afafaf	Human	#fdc086	#afafaf	Unassigned	Europe	#a6cee3
+ESC_EC5756AA_AS	2010-2014	#1f78b4	other	#afafaf	Human	#fdc086	#afafaf	Unassigned	Europe	#a6cee3
+ESC_EC5763AA_AS	2005-2009	#abd9e9	other	#afafaf	Human	#fdc086	#afafaf	Unassigned	Europe	#a6cee3
+ESC_EC5799AA_AS	2005-2009	#abd9e9	other	#afafaf	Human	#fdc086	#afafaf	Unassigned	Europe	#a6cee3
+ESC_EC5800AA_AS	2005-2009	#abd9e9	other	#afafaf	Human	#fdc086	#afafaf	Unassigned	Europe	#a6cee3
+ESC_EC5821AA_AS	2005-2009	#abd9e9	other	#afafaf	Human	#fdc086	#afafaf	Unassigned	Europe	#a6cee3
+ESC_EC5822AA_AS	2010-2014	#1f78b4	other	#afafaf	Human	#fdc086	#6A3D9A	KL20	Europe	#a6cee3
+ESC_EC5831AA_AS	2010-2014	#1f78b4	other	#afafaf	Human	#fdc086	#3dfc7d	KL30	Europe	#a6cee3
+ESC_EC5835AA_AS	2010-2014	#1f78b4	other	#afafaf	Human	#fdc086	#3dfc7d	KL30	Europe	#a6cee3
+ESC_EC5838AA_AS	2010-2014	#1f78b4	other	#afafaf	Human	#fdc086	#3dfc7d	KL30	Europe	#a6cee3
+ESC_EC5879AA_AS	2010-2014	#1f78b4	other	#afafaf	Human	#fdc086	#35978f	KL48	Europe	#a6cee3
+ESC_FC4615AA_AS	2010-2014	#1f78b4	other	#afafaf	Human	#fdc086	#3dfc7d	KL30	Europe	#a6cee3
+ESC_FC4621AA_AS	2005-2009	#abd9e9	other	#afafaf	Human	#fdc086	#afafaf	Unassigned	Europe	#a6cee3
+ESC_EC5917AA_AS	2010-2014	#1f78b4	other	#afafaf	Human	#fdc086	#d37505	KL114	Europe	#a6cee3
+ESC_EC5923AA_AS	2010-2014	#1f78b4	other	#afafaf	Human	#fdc086	#3dfc7d	KL30	Europe	#a6cee3
+ESC_EC5968AA_AS	2015-2019	#fdae61	other	#afafaf	Animal	#7fc97f	#E31A1C	KL57	Europe	#a6cee3
+ESC_EC5976AA_AS	2015-2019	#fdae61	other	#afafaf	Animal	#7fc97f	#fd088e	KL54	Europe	#a6cee3
+ESC_EC5980AA_AS	2015-2019	#fdae61	other	#afafaf	Animal	#7fc97f	#afafaf	Unassigned	Europe	#a6cee3
+ESC_EC6024AA_AS	2015-2019	#fdae61	other	#afafaf	Animal	#7fc97f	#afafaf	Unassigned	Europe	#a6cee3
+ESC_EC6029AA_AS	2015-2019	#fdae61	other	#afafaf	Animal	#7fc97f	#afafaf	Unassigned	Europe	#a6cee3
+ESC_EC6033AA_AS	2015-2019	#fdae61	other	#afafaf	Animal	#7fc97f	#FB9A99	KL55	Europe	#a6cee3
+ESC_EC6091AA_AS	2010-2014	#1f78b4	other	#afafaf	Animal	#7fc97f	#FB9A99	KL55	Europe	#a6cee3
+ESC_EC6105AA_AS	2010-2014	#1f78b4	other	#afafaf	Animal	#7fc97f	#d37505	KL114	Europe	#a6cee3
+ESC_EC6127AA_AS	2010-2014	#1f78b4	other	#afafaf	Animal	#7fc97f	#d5d36e	KL9	Europe	#a6cee3
+ESC_EC6139AA_AS	2010-2014	#1f78b4	other	#afafaf	Animal	#7fc97f	#fd088e	KL54	Europe	#a6cee3
+ESC_EC6150AA_AS	2010-2014	#1f78b4	other	#afafaf	Animal	#7fc97f	#afafaf	Unassigned	Europe	#a6cee3
+ESC_EC6157AA_AS	2010-2014	#1f78b4	other	#afafaf	Animal	#7fc97f	#fd088e	KL54	Europe	#a6cee3
+ESC_EC6192AA_AS	2005-2009	#abd9e9	other	#afafaf	Animal	#7fc97f	#6A3D9A	KL20	Europe	#a6cee3
+ESC_EC6196AA_AS	2005-2009	#abd9e9	other	#afafaf	Animal	#7fc97f	#afafaf	Unassigned	Europe	#a6cee3
+ESC_EC6197AA_AS	2005-2009	#abd9e9	other	#afafaf	Animal	#7fc97f	#005A9C	KL115	Europe	#a6cee3
+ESC_EC6210AA_AS	2005-2009	#abd9e9	other	#afafaf	Animal	#7fc97f	#afafaf	Unassigned	Europe	#a6cee3
+ESC_EC6712AA_AS	2010-2014	#1f78b4	other	#afafaf	Human	#fdc086	#afafaf	Unassigned	NA	NA
+ESC_EC6745AA_AS	2010-2014	#1f78b4	other	#afafaf	Human	#fdc086	#3dfc7d	KL30	NA	NA
+ESC_EC6764AA_AS	2010-2014	#1f78b4	other	#afafaf	Human	#fdc086	#005A9C	KL115	NA	NA
+ESC_EC6774AA_AS	2010-2014	#1f78b4	other	#afafaf	Human	#fdc086	#afafaf	Unassigned	NA	NA
+ESC_EC6811AA_AS	2005-2009	#abd9e9	other	#afafaf	Human	#fdc086	#3dfc7d	KL30	NA	NA
+ESC_EC6875AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#afafaf	Unassigned	North America	#33a02c
+ESC_EC7404AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	black	KL124	NA	NA
+ESC_EC7414AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#afafaf	KL125	NA	NA
+ESC_EC7419AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	black	KL124	NA	NA
+ESC_EC7421AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	black	KL124	NA	NA
+ESC_EC7423AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#4695f0	KL103	NA	NA
+ESC_EC7427AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#4695f0	KL103	NA	NA
+ESC_EC7428AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	black	KL124	NA	NA
+ESC_EC7443AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	black	KL124	NA	NA
+ESC_EC7449AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#abf186	KL14	NA	NA
+ESC_EC7462AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#afafaf	Unassigned	NA	NA
+ESC_EC7467AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#4695f0	KL103	NA	NA
+ESC_EC7474AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	black	KL124	NA	NA
+ESC_EC7488AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	black	KL124	NA	NA
+ESC_EC7504AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#6A3D9A	KL20	NA	NA
+ESC_EC7512AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#afafaf	KL125	NA	NA
+ESC_EC7517AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#afafaf	KL31	NA	NA
+ESC_EC7548AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#d5d36e	KL9	NA	NA
+ESC_EC7846AA_AS	2015-2019	#fdae61	other	#afafaf			#afafaf	KL16	Africa	#b2df8a
+ESC_EC7929AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#d5d36e	KL9	NA	NA
+ESC_EC8472AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#afafaf	Unassigned	North America	#33a02c
+ESC_FC6191AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#afafaf	KL137	North America	#33a02c
+ESC_EC9491AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#afafaf	KL125	South America	#fb9a99
+ESC_EC9502AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#afafaf	KL125	South America	#fb9a99
+ESC_FC0050AA_AS	2015-2019	#fdae61	other	#afafaf	Animal	#7fc97f	#4695f0	KL103	South America	#fb9a99
+ESC_FC0340AA_AS	2020-2024	#d73027	other	#afafaf	Animal	#7fc97f	#afafaf	Unassigned	South America	#fb9a99
+ESC_FC0341AA_AS	2020-2024	#d73027	other	#afafaf	Animal	#7fc97f	#afafaf	Unassigned	South America	#fb9a99
+ESC_FC0959AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#afafaf	Unassigned	South America	#fb9a99
+ESC_EC8933AA_AS	2015-2019	#fdae61	other	#afafaf			#3dfc7d	KL30	Africa	#b2df8a
+ESC_EC9116AA_AS	2020-2024	#d73027	other	#afafaf			#4695f0	KL103	South America	#fb9a99
+ESC_EC9169AA_AS	2020-2024	#d73027	other	#afafaf			#4695f0	KL103	South America	#fb9a99
+ESC_EC9208AA_AS	2020-2024	#d73027	other	#afafaf			#4695f0	KL103	South America	#fb9a99
+ESC_FC7668AA_AS	2020-2024	#d73027	other	#afafaf			#afafaf	Unassigned	South America	#fb9a99
+ESC_FC7671AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#6A3D9A	KL20	North America	#33a02c
+ESC_FC1958AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_FC8411AA_AS	2020-2024	#d73027	other	#afafaf	Animal	#7fc97f	#35978f	KL48	North America	#33a02c
+ESC_FC3328AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#3dfc7d	KL30	North America	#33a02c
+ESC_FC3329AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_FC3333AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_FC3894AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_GC3464AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	black	KL124	Africa	#b2df8a
+ESC_FC4167AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_FC5302AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_FC5634AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#afafaf	Unassigned	North America	#33a02c
+ESC_FC5636AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#afafaf	Unassigned	North America	#33a02c
+ESC_FC5639AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#afafaf	Unassigned	North America	#33a02c
+ESC_FC5640AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#afafaf	Unassigned	North America	#33a02c
+ESC_GC7107AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_FC6760AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#afafaf	Unassigned	South America	#fb9a99
+ESC_FC7904AA_AS	2020-2024	#d73027	other	#afafaf	Animal	#7fc97f	#35978f	KL48	North America	#33a02c
+ESC_GC0023AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#3dfc7d	KL30	North America	#33a02c
+ESC_GC0036AA_AS	2020-2024	#d73027	blood	red	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_GC0061AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_GC0076AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#afafaf	Unassigned	Europe	#a6cee3
+ESC_GC0091AA_AS	2020-2024	#d73027	rectal	#bf812d	Human	#fdc086	#afafaf	Unassigned	Europe	#a6cee3
+ESC_GC0093AA_AS	2020-2024	#d73027	rectal	#bf812d	Human	#fdc086	#afafaf	Unassigned	Europe	#a6cee3
+ESC_GC0102AA_AS	2020-2024	#d73027	rectal	#bf812d	Human	#fdc086	#afafaf	Unassigned	Europe	#a6cee3
+ESC_GC0109AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#afafaf	Unassigned	Europe	#a6cee3
+ESC_GC0145AA_AS	2015-2019	#fdae61	blood	red	Human	#fdc086	black	KL124	Europe	#a6cee3
+ESC_GC0149AA_AS	2015-2019	#fdae61	rectal	#bf812d	Human	#fdc086	#afafaf	Unassigned	Europe	#a6cee3
+ESC_GC0151AA_AS	2015-2019	#fdae61	rectal	#bf812d	Human	#fdc086	#afafaf	Unassigned	Europe	#a6cee3
+ESC_GC0155AA_AS	2015-2019	#fdae61	rectal	#bf812d	Human	#fdc086	#afafaf	Unassigned	Europe	#a6cee3
+ESC_GC0158AA_AS	2015-2019	#fdae61	rectal	#bf812d	Human	#fdc086	black	KL124	Europe	#a6cee3
+ESC_GC0159AA_AS	2015-2019	#fdae61	UTI/urine	#ffff33	Human	#fdc086	#afafaf	Unassigned	Europe	#a6cee3
+ESC_GC0163AA_AS	2015-2019	#fdae61	rectal	#bf812d	Human	#fdc086	#d5d36e	KL9	Europe	#a6cee3
+ESC_GC0173AA_AS	2015-2019	#fdae61	rectal	#bf812d	Human	#fdc086	black	KL124	Europe	#a6cee3
+ESC_GC0177AA_AS	2015-2019	#fdae61	rectal	#bf812d	Human	#fdc086	#afafaf	Unassigned	Europe	#a6cee3
+ESC_GC0196AA_AS	2015-2019	#fdae61	rectal	#bf812d	Human	#fdc086	#3dfc7d	KL30	Europe	#a6cee3
+ESC_GC0198AA_AS	2015-2019	#fdae61	UTI/urine	#ffff33	Human	#fdc086	#afafaf	Unassigned	Europe	#a6cee3
+ESC_GC0205AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#0835fd	KL53	Europe	#a6cee3
+ESC_GC0228AA_AS	2015-2019	#fdae61	rectal	#bf812d	Human	#fdc086	#35978f	KL48	Europe	#a6cee3
+ESC_GC0236AA_AS	2015-2019	#fdae61	rectal	#bf812d	Human	#fdc086	#afafaf	Unassigned	Europe	#a6cee3
+ESC_GC0249AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#afafaf	Unassigned	Europe	#a6cee3
+ESC_GC0254AA_AS	2015-2019	#fdae61	rectal	#bf812d	Human	#fdc086	#afafaf	Unassigned	Europe	#a6cee3
+ESC_GC0260AA_AS	2015-2019	#fdae61	rectal	#bf812d	Human	#fdc086	#afafaf	Unassigned	Europe	#a6cee3
+ESC_GC0290AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_GC1450AA_AS	2015-2019	#fdae61	UTI/urine	#ffff33	Human	#fdc086	#4695f0	KL103	North America	#33a02c
+ESC_GC1517AA_AS	2015-2019	#fdae61	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_GC1562AA_AS	2015-2019	#fdae61	UTI/urine	#ffff33	Human	#fdc086	#3dfc7d	KL30	North America	#33a02c
+ESC_GC1657AA_AS	2015-2019	#fdae61	UTI/urine	#ffff33	Human	#fdc086	#FF7F00	KL35	North America	#33a02c
+ESC_GC1713AA_AS	2015-2019	#fdae61	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_GC1781AA_AS	2015-2019	#fdae61	UTI/urine	#ffff33	Human	#fdc086	#4695f0	KL103	North America	#33a02c
+ESC_GC1783AA_AS	2015-2019	#fdae61	UTI/urine	#ffff33	Human	#fdc086	#4695f0	KL103	North America	#33a02c
+ESC_GC1959AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#afafaf	Unassigned	Oceania	#e31a1c
+ESC_GC1963AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#afafaf	Unassigned	Oceania	#e31a1c
+ESC_GC2299AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_GC2303AA_AS	2020-2024	#d73027	blood	red	Human	#fdc086	#afafaf	KL16	North America	#33a02c
+ESC_GC2304AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_GC2572AA_AS	2020-2024	#d73027	other	#afafaf	Animal	#7fc97f	#afafaf	Unassigned	Europe	#a6cee3
+ESC_GC2599AA_AS	2020-2024	#d73027	other	#afafaf	Animal	#7fc97f	#afafaf	Unassigned	Europe	#a6cee3
+ESC_GC2604AA_AS	2020-2024	#d73027	other	#afafaf	Animal	#7fc97f	#d37505	KL114	Europe	#a6cee3
+ESC_GC2612AA_AS	2020-2024	#d73027	other	#afafaf	Animal	#7fc97f	#4695f0	KL103	Europe	#a6cee3
+ESC_GC2730AA_AS	2020-2024	#d73027	other	#afafaf	Animal	#7fc97f	#afafaf	Unassigned	Europe	#a6cee3
+ESC_GC2765AA_AS	2020-2024	#d73027	other	#afafaf	Animal	#7fc97f	#005A9C	KL115	Europe	#a6cee3
+ESC_GC2789AA_AS	2020-2024	#d73027	other	#afafaf	Animal	#7fc97f	#fd088e	KL54	Europe	#a6cee3
+ESC_GC2869AA_AS	2020-2024	#d73027	other	#afafaf	Animal	#7fc97f	#afafaf	Unassigned	Europe	#a6cee3
+ESC_GC3775AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_GC3778AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_GC3840AA_AS	2020-2024	#d73027	other	#afafaf			#35978f	KL48	NA	NA
+ESC_GC4015AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_HC0921AA_AS	2015-2019	#fdae61	other	#afafaf	Animal	#7fc97f	#d66384	KL101	Africa	#b2df8a
+ESC_HC1080AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	Africa	#b2df8a
+ESC_HC1128AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#afafaf	Unassigned	Africa	#b2df8a
+ESC_HC1151AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#4695f0	KL103	Africa	#b2df8a
+ESC_HC1153AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#4695f0	KL103	Africa	#b2df8a
+ESC_HC1234AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	Europe	#a6cee3
+ESC_HC1457AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#d66384	KL101	Africa	#b2df8a
+ESC_HC1464AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#4695f0	KL103	Africa	#b2df8a
+ESC_HC1584AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#4695f0	KL103	Asia	#1f78b4
+ESC_HC1780AA_AS	2020-2024	#d73027	blood	red	Human	#fdc086	#afafaf	KL16	Asia	#1f78b4
+ESC_GC5590AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_HC1864AA_AS	NA	white	other	#afafaf			#d66384	KL101	Africa	#b2df8a
+ESC_HC1884AA_AS	NA	white	other	#afafaf			#4695f0	KL103	Africa	#b2df8a
+ESC_HC1921AA_AS	NA	white	other	#afafaf			#afafaf	KL125	Africa	#b2df8a
+ESC_HC1922AA_AS	NA	white	other	#afafaf			#d66384	KL101	Africa	#b2df8a
+ESC_HC2004AA_AS	NA	white	other	#afafaf			black	KL124	Africa	#b2df8a
+ESC_GC6810AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#3dfc7d	KL30	North America	#33a02c
+ESC_GC6816AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#afafaf	KL125	North America	#33a02c
+ESC_GC6881AA_AS	2020-2024	#d73027	blood	red	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_GC6882AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#afafaf	Unassigned	North America	#33a02c
+ESC_GC7133AA_AS	2020-2024	#d73027	blood	red	Human	#fdc086	#afafaf	Unassigned	North America	#33a02c
+ESC_GC7134AA_AS	2020-2024	#d73027	blood	red	Human	#fdc086	#35978f	KL48	North America	#33a02c
+ESC_GC7338AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_GC7506AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_GC8440AA_AS	2020-2024	#d73027	other	#afafaf	Animal	#7fc97f	#d37505	KL114	North America	#33a02c
+ESC_GC8441AA_AS	2020-2024	#d73027	other	#afafaf			black	KL124	North America	#33a02c
+ESC_GC8442AA_AS	2020-2024	#d73027	other	#afafaf	Animal	#7fc97f	#35978f	KL48	North America	#33a02c
+ESC_GC8462AA_AS	2015-2019	#fdae61	other	#afafaf			#E31A1C	KL57	Asia	#1f78b4
+ESC_GC9787AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#afafaf	Unassigned	North America	#33a02c
+ESC_HC0093AA_AS	2015-2019	#fdae61	rectal	#bf812d	Human	#fdc086	#3dfc7d	KL30	Asia	#1f78b4
+ESC_HC0094AA_AS	2015-2019	#fdae61	rectal	#bf812d	Human	#fdc086	#3dfc7d	KL30	Asia	#1f78b4
+ESC_HC0119AA_AS	2015-2019	#fdae61	other	#afafaf			#6A3D9A	KL20	Asia	#1f78b4
+ESC_HC0188AA_AS	2015-2019	#fdae61	rectal	#bf812d	Human	#fdc086	#6A3D9A	KL20	Asia	#1f78b4
+ESC_HC0206AA_AS	2015-2019	#fdae61	other	#afafaf			#3dfc7d	KL30	Asia	#1f78b4
+ESC_HC0218AA_AS	2015-2019	#fdae61	other	#afafaf			#6A3D9A	KL20	Asia	#1f78b4
+ESC_HC0638AA_AS	2020-2024	#d73027	other	#afafaf	Animal	#7fc97f	#35978f	KL48	North America	#33a02c
+ESC_HC0639AA_AS	2020-2024	#d73027	other	#afafaf	Animal	#7fc97f	#35978f	KL48	North America	#33a02c
+ESC_HC0642AA_AS	2020-2024	#d73027	other	#afafaf	Animal	#7fc97f	#d37505	KL114	North America	#33a02c
+ESC_HC0643AA_AS	2020-2024	#d73027	other	#afafaf	Animal	#7fc97f	black	KL124	North America	#33a02c
+ESC_HC0644AA_AS	2020-2024	#d73027	other	#afafaf	Animal	#7fc97f	black	KL124	North America	#33a02c
+ESC_HC0645AA_AS	2020-2024	#d73027	other	#afafaf	Animal	#7fc97f	#35978f	KL48	North America	#33a02c
+ESC_HC0675AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#afafaf	Unassigned	North America	#33a02c
+ESC_HC3086AA_AS	2020-2024	#d73027	blood	red	Human	#fdc086	#afafaf	Unassigned	North America	#33a02c
+ESC_HC3087AA_AS	2020-2024	#d73027	blood	red	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_HC4467AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_HC4617AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#afafaf	Unassigned	Asia	#1f78b4
+ESC_HC4685AA_AS	2020-2024	#d73027	rectal	#bf812d	Human	#fdc086	#4695f0	KL103	Europe	#a6cee3
+ESC_HC5412AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#3dfc7d	KL30	North America	#33a02c
+ESC_HC5950AA_AS	2015-2019	#fdae61	UTI/urine	#ffff33	Human	#fdc086	#afafaf	Unassigned	NA	NA
+ESC_HC6676AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_HC6677AA_AS	2020-2024	#d73027	blood	red	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_HC6678AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_HC6679AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_HC6680AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_HC6683AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_HC6685AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_HC6686AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#afafaf	Unassigned	North America	#33a02c
+ESC_HC6689AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_HC6796AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_HC6797AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_HC7060AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_HC7299AA_AS	2020-2024	#d73027	other	#afafaf	Animal	#7fc97f	#afafaf	Unassigned	North America	#33a02c
+ESC_HC7810AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	black	KL124	Europe	#a6cee3
+ESC_HC7933AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#6A3D9A	KL20	North America	#33a02c
+ESC_HC7934AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#3dfc7d	KL30	North America	#33a02c
+ESC_HC8093AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#3dfc7d	KL30	North America	#33a02c
+ESC_HC8308AA_AS	2020-2024	#d73027	rectal	#bf812d	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_HC8309AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_HC8345AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#6A3D9A	KL20	North America	#33a02c
+ESC_HC8411AA_AS	NA	white	other	#afafaf	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_HC8412AA_AS	NA	white	other	#afafaf	Human	#fdc086	#aac201	KL121	North America	#33a02c
+ESC_HC8413AA_AS	NA	white	other	#afafaf	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_HC8439AA_AS	NA	white	other	#afafaf	Human	#fdc086	#afafaf	KL60	North America	#33a02c
+ESC_HC8440AA_AS	NA	white	other	#afafaf	Human	#fdc086	#3dfc7d	KL30	North America	#33a02c
+ESC_HC8466AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#abf186	KL14	North America	#33a02c
+ESC_HC8470AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#4695f0	KL103	North America	#33a02c
+ESC_HC8471AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_HC8744AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_HC9293AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#afafaf	Unassigned	Africa	#b2df8a
+ESC_HC9316AA_AS	2015-2019	#fdae61	UTI/urine	#ffff33	Human	#fdc086	#afafaf	Unassigned	Africa	#b2df8a
+ESC_HC9354AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#afafaf	Unassigned	Africa	#b2df8a
+ESC_HC9356AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#afafaf	Unassigned	Africa	#b2df8a
+ESC_HC9364AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#afafaf	Unassigned	Africa	#b2df8a
+ESC_HC9371AA_AS	2015-2019	#fdae61	other	#afafaf			#afafaf	Unassigned	Africa	#b2df8a
+ESC_HC9399AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_HC9402AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#afafaf	Unassigned	North America	#33a02c
+ESC_HC9436AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#35978f	KL48	North America	#33a02c
+ESC_HC9469AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#35978f	KL48	North America	#33a02c
+ESC_HC9517AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_HC9519AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#afafaf	Unassigned	North America	#33a02c
+ESC_HC9946AA_AS	2020-2024	#d73027	rectal	#bf812d	Human	#fdc086	#4695f0	KL103	North America	#33a02c
+ESC_HC9954AA_AS	2020-2024	#d73027	blood	red	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_HC9957AA_AS	2020-2024	#d73027	rectal	#bf812d	Human	#fdc086	#0835fd	KL53	North America	#33a02c
+ESC_IC0144AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_IC0194AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_IC0653AA_AS	2020-2024	#d73027	blood	red	Human	#fdc086	#35978f	KL48	North America	#33a02c
+ESC_IC0654AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_IC0655AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_IC0680AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_IC0681AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#3dfc7d	KL30	North America	#33a02c
+ESC_IC0704AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#afafaf	KL137	North America	#33a02c
+ESC_IC1847AA_AS	2010-2014	#1f78b4	other	#afafaf	Human	#fdc086	#afafaf	Unassigned	Europe	#a6cee3
+ESC_IC1881AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#afafaf	Unassigned	North America	#33a02c
+ESC_IC1882AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_IC1883AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#3dfc7d	KL30	North America	#33a02c
+ESC_IC2079AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#afafaf	Unassigned	North America	#33a02c
+ESC_IC2130AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_IC2752AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#6A3D9A	KL20	North America	#33a02c
+ESC_IC2805AA_AS	NA	white	other	#afafaf			#6A3D9A	KL20	NA	NA
+ESC_IC2869AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_IC2870AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#afafaf	KL137	North America	#33a02c
+ESC_IC3750AA_AS	2020-2024	#d73027	blood	red	Human	#fdc086	#afafaf	Unassigned	North America	#33a02c
+ESC_IC3752AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#afafaf	Unassigned	North America	#33a02c
+ESC_IC3268AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#afafaf	Unassigned	North America	#33a02c
+ESC_JC4557AA_AS	NA	white	other	#afafaf			#afafaf	Unassigned	NA	NA
+ESC_IC4213AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_IC4214AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_IC4238AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#7e9000	KL142	North America	#33a02c
+ESC_IC4257AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_IC4477AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_IC4637AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#afafaf	Unassigned	North America	#33a02c
+ESC_IC4638AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#afafaf	Unassigned	North America	#33a02c
+ESC_IC5312AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#3dfc7d	KL30	North America	#33a02c
+ESC_IC5338AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_IC5449AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#005A9C	KL115	North America	#33a02c
+ESC_IC5646AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_IC5831AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#d66384	KL101	Europe	#a6cee3
+ESC_IC6476AA_AS	2010-2014	#1f78b4	other	#afafaf	Human	#fdc086	#afafaf	Unassigned	Europe	#a6cee3
+ESC_IC6479AA_AS	2015-2019	#fdae61	UTI/urine	#ffff33	Human	#fdc086	#afafaf	Unassigned	Europe	#a6cee3
+ESC_IC6481AA_AS	2015-2019	#fdae61	UTI/urine	#ffff33	Human	#fdc086	#afafaf	Unassigned	Europe	#a6cee3
+ESC_IC6482AA_AS	2015-2019	#fdae61	UTI/urine	#ffff33	Human	#fdc086	#afafaf	Unassigned	Europe	#a6cee3
+ESC_IC6485AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#afafaf	Unassigned	Europe	#a6cee3
+ESC_IC6495AA_AS	2015-2019	#fdae61	UTI/urine	#ffff33	Human	#fdc086	#afafaf	Unassigned	Europe	#a6cee3
+ESC_IC6498AA_AS	2015-2019	#fdae61	rectal	#bf812d	Human	#fdc086	#afafaf	Unassigned	Europe	#a6cee3
+ESC_IC6504AA_AS	2015-2019	#fdae61	rectal	#bf812d	Human	#fdc086	#afafaf	Unassigned	Europe	#a6cee3
+ESC_IC6505AA_AS	2015-2019	#fdae61	UTI/urine	#ffff33	Human	#fdc086	#afafaf	Unassigned	Europe	#a6cee3
+ESC_IC6507AA_AS	2015-2019	#fdae61	rectal	#bf812d	Human	#fdc086	#afafaf	Unassigned	Europe	#a6cee3
+ESC_IC6732AA_AS	2015-2019	#fdae61	rectal	#bf812d	Human	#fdc086	#afafaf	Unassigned	Europe	#a6cee3
+ESC_IC6735AA_AS	2015-2019	#fdae61	rectal	#bf812d	Human	#fdc086	#afafaf	Unassigned	Europe	#a6cee3
+ESC_IC6737AA_AS	2015-2019	#fdae61	UTI/urine	#ffff33	Human	#fdc086	#afafaf	Unassigned	Europe	#a6cee3
+ESC_IC6779AA_AS	2015-2019	#fdae61	UTI/urine	#ffff33	Human	#fdc086	#35978f	KL48	Europe	#a6cee3
+ESC_IC6781AA_AS	2015-2019	#fdae61	rectal	#bf812d	Human	#fdc086	#afafaf	Unassigned	Europe	#a6cee3
+ESC_IC6783AA_AS	2015-2019	#fdae61	rectal	#bf812d	Human	#fdc086	#afafaf	Unassigned	Europe	#a6cee3
+ESC_IC6785AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#afafaf	Unassigned	Europe	#a6cee3
+ESC_IC6786AA_AS	2015-2019	#fdae61	UTI/urine	#ffff33	Human	#fdc086	#afafaf	Unassigned	Europe	#a6cee3
+ESC_IC6806AA_AS	2015-2019	#fdae61	UTI/urine	#ffff33	Human	#fdc086	#afafaf	Unassigned	Europe	#a6cee3
+ESC_IC6811AA_AS	2015-2019	#fdae61	rectal	#bf812d	Human	#fdc086	#d5d36e	KL9	Europe	#a6cee3
+ESC_IC6817AA_AS	2015-2019	#fdae61	rectal	#bf812d	Human	#fdc086	#afafaf	Unassigned	Europe	#a6cee3
+ESC_IC6820AA_AS	2015-2019	#fdae61	rectal	#bf812d	Human	#fdc086	#35978f	KL48	Europe	#a6cee3
+ESC_IC6821AA_AS	2015-2019	#fdae61	rectal	#bf812d	Human	#fdc086	#afafaf	Unassigned	Europe	#a6cee3
+ESC_IC7040AA_AS	2015-2019	#fdae61	rectal	#bf812d	Human	#fdc086	#afafaf	Unassigned	Europe	#a6cee3
+ESC_IC7042AA_AS	2015-2019	#fdae61	UTI/urine	#ffff33	Human	#fdc086	#afafaf	Unassigned	Europe	#a6cee3
+ESC_IC7044AA_AS	2015-2019	#fdae61	rectal	#bf812d	Human	#fdc086	#afafaf	Unassigned	Europe	#a6cee3
+ESC_IC7084AA_AS	2015-2019	#fdae61	UTI/urine	#ffff33	Human	#fdc086	#afafaf	Unassigned	Europe	#a6cee3
+ESC_IC7087AA_AS	2015-2019	#fdae61	rectal	#bf812d	Human	#fdc086	#afafaf	Unassigned	Europe	#a6cee3
+ESC_IC7092AA_AS	2015-2019	#fdae61	rectal	#bf812d	Human	#fdc086	#afafaf	Unassigned	Europe	#a6cee3
+ESC_IC7093AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#afafaf	Unassigned	Europe	#a6cee3
+ESC_IC7096AA_AS	2015-2019	#fdae61	rectal	#bf812d	Human	#fdc086	#afafaf	Unassigned	Europe	#a6cee3
+ESC_IC7098AA_AS	2015-2019	#fdae61	UTI/urine	#ffff33	Human	#fdc086	#afafaf	Unassigned	Europe	#a6cee3
+ESC_IC7104AA_AS	2015-2019	#fdae61	blood	red	Human	#fdc086	#afafaf	Unassigned	Europe	#a6cee3
+ESC_IC7109AA_AS	2015-2019	#fdae61	rectal	#bf812d	Human	#fdc086	#afafaf	Unassigned	Europe	#a6cee3
+ESC_IC7110AA_AS	2015-2019	#fdae61	UTI/urine	#ffff33	Human	#fdc086	#afafaf	Unassigned	Europe	#a6cee3
+ESC_IC7116AA_AS	2015-2019	#fdae61	rectal	#bf812d	Human	#fdc086	#aac201	KL121	Europe	#a6cee3
+ESC_IC7120AA_AS	2015-2019	#fdae61	rectal	#bf812d	Human	#fdc086	#4695f0	KL103	Europe	#a6cee3
+ESC_IC7161AA_AS	2020-2024	#d73027	rectal	#bf812d	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_IC7198AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_IC7209AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#afafaf	Unassigned	Europe	#a6cee3
+ESC_IC7210AA_AS	2015-2019	#fdae61	rectal	#bf812d	Human	#fdc086	#afafaf	Unassigned	Europe	#a6cee3
+ESC_IC7216AA_AS	2015-2019	#fdae61	UTI/urine	#ffff33	Human	#fdc086	#afafaf	Unassigned	Europe	#a6cee3
+ESC_IC7218AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#afafaf	Unassigned	Europe	#a6cee3
+ESC_IC7227AA_AS	2015-2019	#fdae61	UTI/urine	#ffff33	Human	#fdc086	#afafaf	Unassigned	Europe	#a6cee3
+ESC_IC7228AA_AS	2015-2019	#fdae61	UTI/urine	#ffff33	Human	#fdc086	#afafaf	Unassigned	Europe	#a6cee3
+ESC_IC7233AA_AS	2015-2019	#fdae61	rectal	#bf812d	Human	#fdc086	#afafaf	Unassigned	Europe	#a6cee3
+ESC_IC7234AA_AS	2015-2019	#fdae61	UTI/urine	#ffff33	Human	#fdc086	#afafaf	Unassigned	Europe	#a6cee3
+ESC_IC7290AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#afafaf	Unassigned	Europe	#a6cee3
+ESC_IC7301AA_AS	2015-2019	#fdae61	UTI/urine	#ffff33	Human	#fdc086	#afafaf	Unassigned	Europe	#a6cee3
+ESC_IC7303AA_AS	2015-2019	#fdae61	rectal	#bf812d	Human	#fdc086	#afafaf	Unassigned	Europe	#a6cee3
+ESC_IC7320AA_AS	2015-2019	#fdae61	rectal	#bf812d	Human	#fdc086	#afafaf	Unassigned	Europe	#a6cee3
+ESC_IC7323AA_AS	2015-2019	#fdae61	rectal	#bf812d	Human	#fdc086	#afafaf	Unassigned	Europe	#a6cee3
+ESC_IC7333AA_AS	2015-2019	#fdae61	UTI/urine	#ffff33	Human	#fdc086	#afafaf	Unassigned	Europe	#a6cee3
+ESC_IC7339AA_AS	2015-2019	#fdae61	UTI/urine	#ffff33	Human	#fdc086	#afafaf	Unassigned	Europe	#a6cee3
+ESC_IC7342AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_IC7371AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#3dfc7d	KL30	North America	#33a02c
+ESC_IC7373AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_IC7403AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#3dfc7d	KL30	North America	#33a02c
+ESC_IC7404AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_IC7411AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#afafaf	Unassigned	North America	#33a02c
+ESC_IC8474AA_AS	2020-2024	#d73027	rectal	#bf812d	Human	#fdc086	#afafaf	Unassigned	North America	#33a02c
+ESC_IC8900AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_IC9262AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#3dfc7d	KL30	Asia	#1f78b4
+ESC_IC9473AA_AS	2020-2024	#d73027	blood	red	Human	#fdc086	#3dfc7d	KL30	Asia	#1f78b4
+ESC_IC9934AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#3dfc7d	KL30	Asia	#1f78b4
+ESC_IC9935AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#3dfc7d	KL30	Asia	#1f78b4
+ESC_IC9940AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#35978f	KL48	Asia	#1f78b4
+ESC_IC9941AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#3dfc7d	KL30	Asia	#1f78b4
+ESC_IC9948AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#3dfc7d	KL30	Asia	#1f78b4
+ESC_IC9949AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#3dfc7d	KL30	Asia	#1f78b4
+ESC_IC9952AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#35978f	KL48	Asia	#1f78b4
+ESC_JC0033AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#3dfc7d	KL30	Asia	#1f78b4
+ESC_JC0198AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#6A3D9A	KL20	North America	#33a02c
+ESC_JC0440AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#3dfc7d	KL30	Asia	#1f78b4
+ESC_JC0444AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#3dfc7d	KL30	Asia	#1f78b4
+ESC_JC0458AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#d5d36e	KL9	Asia	#1f78b4
+ESC_JC0510AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#f553f0	KL39	Asia	#1f78b4
+ESC_JC0511AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#35978f	KL48	Asia	#1f78b4
+ESC_JC0514AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#35978f	KL48	Asia	#1f78b4
+ESC_JC0520AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#35978f	KL48	Asia	#1f78b4
+ESC_JC0521AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#f553f0	KL39	Asia	#1f78b4
+ESC_JC0523AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#afafaf	Unassigned	Asia	#1f78b4
+ESC_JC1674AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#d37505	KL114	Asia	#1f78b4
+ESC_JC1676AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#d37505	KL114	Asia	#1f78b4
+ESC_JC1677AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#d37505	KL114	Asia	#1f78b4
+ESC_JC1678AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#d37505	KL114	Asia	#1f78b4
+ESC_JC2756AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#d37505	KL114	Asia	#1f78b4
+ESC_JC3028AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_JC3669AA_AS	2015-2019	#fdae61	UTI/urine	#ffff33	Human	#fdc086	black	KL124	Asia	#1f78b4
+ESC_JC4590AA_AS	2020-2024	#d73027	blood	red	Human	#fdc086	#E31A1C	KL57	Asia	#1f78b4
+ESC_JC4609AA_AS	2020-2024	#d73027	blood	red	Human	#fdc086	#E31A1C	KL57	Asia	#1f78b4
+ESC_JC4695AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_JC4713AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#6A3D9A	KL20	North America	#33a02c
+ESC_JC5300AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#3dfc7d	KL30	North America	#33a02c
+ESC_JC5303AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_JC5864AA_AS	2015-2019	#fdae61	blood	red	Human	#fdc086	#3dfc7d	KL30	North America	#33a02c
+ESC_JC5879AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#E31A1C	KL57	North America	#33a02c
+ESC_JC6825AA_AS	2015-2019	#fdae61	other	#afafaf			#6A3D9A	KL20	Asia	#1f78b4
+ESC_JC6955AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#35978f	KL48	North America	#33a02c
+ESC_JC7029AA_AS	2020-2024	#d73027	other	#afafaf	Animal	#7fc97f	#afafaf	KL16	Europe	#a6cee3
+ESC_JC7066AA_AS	2020-2024	#d73027	other	#afafaf	Animal	#7fc97f	#afafaf	KL16	Europe	#a6cee3
+ESC_JC7093AA_AS	2015-2019	#fdae61	other	#afafaf			#afafaf	Unassigned	Asia	#1f78b4
+ESC_JC7365AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#35978f	KL48	North America	#33a02c
+ESC_JC7594AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#3dfc7d	KL30	North America	#33a02c
+ESC_JC7614AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_JC7615AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_JC7618AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_JC7644AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_JC7653AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#d37505	KL114	North America	#33a02c
+ESC_JC8157AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#3dfc7d	KL30	North America	#33a02c
+ESC_JC8159AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_JC8162AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_JC8163AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#3dfc7d	KL30	North America	#33a02c
+ESC_JC8165AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_JC8249AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_JC8258AA_AS	2020-2024	#d73027	other	#afafaf			black	KL124	Asia	#1f78b4
+ESC_JC8263AA_AS	2020-2024	#d73027	other	#afafaf			black	KL124	Asia	#1f78b4
+ESC_JC8285AA_AS	2020-2024	#d73027	other	#afafaf			#abf186	KL14	Asia	#1f78b4
+ESC_JC8419AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#d5d36e	KL9	Asia	#1f78b4
+ESC_JC8467AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_JC8650AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_JC8832AA_AS	2015-2019	#fdae61	blood	red	Human	#fdc086	#4695f0	KL103	North America	#33a02c
+ESC_JC8833AA_AS	2015-2019	#fdae61	blood	red	Human	#fdc086	#6A3D9A	KL20	North America	#33a02c
+ESC_JC8917AA_AS	2015-2019	#fdae61	blood	red	Human	#fdc086	#4695f0	KL103	North America	#33a02c
+ESC_JC8835AA_AS	2015-2019	#fdae61	blood	red	Human	#fdc086	#d5d36e	KL9	North America	#33a02c
+ESC_JC8836AA_AS	2015-2019	#fdae61	blood	red	Human	#fdc086	#4695f0	KL103	North America	#33a02c
+ESC_JC8837AA_AS	2015-2019	#fdae61	blood	red	Human	#fdc086	#4695f0	KL103	North America	#33a02c
+ESC_JC9150AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#CAB2D6	KL123	North America	#33a02c
+ESC_JC8961AA_AS	2020-2024	#d73027	blood	red	Human	#fdc086	#CAB2D6	KL123	North America	#33a02c
+ESC_JC9091AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#afafaf	Unassigned	North America	#33a02c
+ESC_JC8964AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#afafaf	Unassigned	North America	#33a02c
+ESC_JC8966AA_AS	2020-2024	#d73027	blood	red	Human	#fdc086	#afafaf	Unassigned	North America	#33a02c
+ESC_JC9011AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	black	KL124	Asia	#1f78b4
+ESC_JC9014AA_AS	2015-2019	#fdae61	blood	red	Human	#fdc086	black	KL124	Asia	#1f78b4
+ESC_JC9036AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#3dfc7d	KL30	North America	#33a02c
+ESC_JC9037AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#6A3D9A	KL20	North America	#33a02c
+ESC_JC9117AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#afafaf	Unassigned	North America	#33a02c
+ESC_JC9416AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#3dfc7d	KL30	North America	#33a02c
+ESC_JC9682AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#afafaf	Unassigned	North America	#33a02c
+ESC_JC9688AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#afafaf	Unassigned	North America	#33a02c
+ESC_JC9723AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_JC9724AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#3dfc7d	KL30	North America	#33a02c
+ESC_JC9726AA_AS	2020-2024	#d73027	blood	red	Human	#fdc086	#afafaf	Unassigned	North America	#33a02c
+ESC_JC9811AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#3dfc7d	KL30	North America	#33a02c
+ESC_JC9812AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_JC9814AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_KC0880AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	black	KL124	Asia	#1f78b4
+ESC_KC0912AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	black	KL124	Asia	#1f78b4
+ESC_KC0914AA_AS	2010-2014	#1f78b4	other	#afafaf	Human	#fdc086	#3dfc7d	KL30	Asia	#1f78b4
+ESC_KC0915AA_AS	2010-2014	#1f78b4	other	#afafaf	Human	#fdc086	#afafaf	KL125	Asia	#1f78b4
+ESC_KC0917AA_AS	2010-2014	#1f78b4	other	#afafaf	Human	#fdc086	#3dfc7d	KL30	Asia	#1f78b4
+ESC_KC0919AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#4695f0	KL103	Asia	#1f78b4
+ESC_KC0934AA_AS	2010-2014	#1f78b4	other	#afafaf	Human	#fdc086	#afafaf	KL125	Asia	#1f78b4
+ESC_KC1024AA_AS	2020-2024	#d73027	blood	red	Human	#fdc086	#904f02	KL158	North America	#33a02c
+ESC_KC1036AA_AS	2015-2019	#fdae61	blood	red	Human	#fdc086	#4695f0	KL103	North America	#33a02c
+ESC_KC1778AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#6A3D9A	KL20	North America	#33a02c
+ESC_KC1779AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#6A3D9A	KL20	North America	#33a02c
+ESC_KC1782AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#3dfc7d	KL30	North America	#33a02c
+ESC_KC1784AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#7e9000	KL142	North America	#33a02c
+ESC_KC1785AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#7e9000	KL142	North America	#33a02c
+ESC_KC1787AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_KC1788AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_KC1791AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_KC1794AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#6A3D9A	KL20	North America	#33a02c
+ESC_KC1838AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#3dfc7d	KL30	North America	#33a02c
+ESC_KC1841AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_KC1904AA_AS	2020-2024	#d73027	blood	red	Human	#fdc086	#E31A1C	KL57	North America	#33a02c
+ESC_KC1911AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#7e9000	KL142	North America	#33a02c
+ESC_KC2082AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#35978f	KL48	North America	#33a02c
+ESC_KC2271AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#E31A1C	KL57	Oceania	#e31a1c
+ESC_KC2717AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#3dfc7d	KL30	North America	#33a02c
+ESC_KC2718AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#4695f0	KL103	North America	#33a02c
+ESC_KC2719AA_AS	2020-2024	#d73027	blood	red	Human	#fdc086	#3dfc7d	KL30	North America	#33a02c
+ESC_KC2720AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#3dfc7d	KL30	North America	#33a02c
+ESC_KC2761AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_KC2765AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_KC2766AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_KC2963AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_KC3355AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#29c722	KL127	North America	#33a02c
+ESC_KC3361AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_KC3364AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_KC3367AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#6A3D9A	KL20	North America	#33a02c
+ESC_KC3374AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_KC3557AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#abf186	KL14	North America	#33a02c
+ESC_KC3379AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#4695f0	KL103	North America	#33a02c
+ESC_KC3559AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_KC4429AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_KC4542AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#3dfc7d	KL30	North America	#33a02c
+ESC_KC4578AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_KC4979AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_KC5044AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_KC5065AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_KC5273AA_AS	2020-2024	#d73027	other	#afafaf	Animal	#7fc97f	#3dfc7d	KL30	North America	#33a02c
+ESC_KC5279AA_AS	2020-2024	#d73027	other	#afafaf	Animal	#7fc97f	#3dfc7d	KL30	North America	#33a02c
+ESC_KC5280AA_AS	2020-2024	#d73027	other	#afafaf	Animal	#7fc97f	#3dfc7d	KL30	North America	#33a02c
+ESC_KC5283AA_AS	2020-2024	#d73027	other	#afafaf	Animal	#7fc97f	#3dfc7d	KL30	North America	#33a02c
+ESC_KC5284AA_AS	2020-2024	#d73027	other	#afafaf	Animal	#7fc97f	#3dfc7d	KL30	North America	#33a02c
+ESC_KC5882AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_KC5900AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_KC5902AA_AS	2020-2024	#d73027	blood	red	Human	#fdc086	#abf186	KL14	North America	#33a02c
+ESC_KC5903AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#abf186	KL14	North America	#33a02c
+ESC_KC6003AA_AS	2020-2024	#d73027	rectal	#bf812d	Human	#fdc086	#4695f0	KL103	North America	#33a02c
+ESC_KC6169AA_AS	2020-2024	#d73027	blood	red	Human	#fdc086	#3dfc7d	KL30	North America	#33a02c
+ESC_KC6351AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_KC6353AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#6A3D9A	KL20	North America	#33a02c
+ESC_KC6815AA_AS	2010-2014	#1f78b4	other	#afafaf			#6A3D9A	KL20	North America	#33a02c
+ESC_KC7359AA_AS	2010-2014	#1f78b4	UTI/urine	#ffff33	Human	#fdc086	#7e9000	KL142	North America	#33a02c
+ESC_KC8442AA_AS	2010-2014	#1f78b4	other	#afafaf			#afafaf	Unassigned	North America	#33a02c
+ESC_KC9120AA_AS	2020-2024	#d73027	other	#afafaf			#35978f	KL48	NA	NA
+ESC_KC9124AA_AS	2020-2024	#d73027	other	#afafaf			#35978f	KL48	NA	NA
+ESC_KC9972AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#afafaf	KL137	North America	#33a02c
+ESC_LC0062AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_LC0451AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#3dfc7d	KL30	North America	#33a02c
+ESC_LC0452AA_AS	2020-2024	#d73027	blood	red	Human	#fdc086	#3dfc7d	KL30	North America	#33a02c
+ESC_LC6666AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#6A3D9A	KL20	North America	#33a02c
+ESC_LC0916AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_LC1108AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_LC1353AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_LC1373AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_LC1426AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#3dfc7d	KL30	North America	#33a02c
+ESC_LC2260AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#6A3D9A	KL20	North America	#33a02c
+ESC_LC2289AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#abf186	KL14	North America	#33a02c
+ESC_LC2730AA_AS	2015-2019	#fdae61	other	#afafaf	Animal	#7fc97f	#afafaf	Unassigned	North America	#33a02c
+ESC_LC2737AA_AS	2015-2019	#fdae61	other	#afafaf	Animal	#7fc97f	#afafaf	Unassigned	North America	#33a02c
+ESC_LC3063AA_AS	2015-2019	#fdae61	other	#afafaf	Animal	#7fc97f	#afafaf	Unassigned	North America	#33a02c
+ESC_LC3740AA_AS	2020-2024	#d73027	other	#afafaf			#FF7F00	KL35	Europe	#a6cee3
+ESC_LC3749AA_AS	2020-2024	#d73027	other	#afafaf			#FF7F00	KL35	Europe	#a6cee3
+ESC_LC3756AA_AS	2020-2024	#d73027	other	#afafaf			#FF7F00	KL35	Europe	#a6cee3
+ESC_LC3774AA_AS	2020-2024	#d73027	other	#afafaf			#afafaf	Unassigned	Europe	#a6cee3
+ESC_LC3777AA_AS	2020-2024	#d73027	other	#afafaf			#FF7F00	KL35	Europe	#a6cee3
+ESC_LC3778AA_AS	2020-2024	#d73027	other	#afafaf			#FF7F00	KL35	Europe	#a6cee3
+ESC_LC4117AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#afafaf	Unassigned	Europe	#a6cee3
+ESC_LC4118AA_AS	2020-2024	#d73027	blood	red	Human	#fdc086	black	KL124	Europe	#a6cee3
+ESC_LC4444AA_AS	2020-2024	#d73027	blood	red	Human	#fdc086	#3dfc7d	KL30	North America	#33a02c
+ESC_LC4521AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#afafaf	Unassigned	North America	#33a02c
+ESC_LC4522AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_LC4702AA_AS	2020-2024	#d73027	blood	red	Human	#fdc086	#7e9000	KL142	North America	#33a02c
+ESC_LC4704AA_AS	2020-2024	#d73027	blood	red	Human	#fdc086	#4695f0	KL103	North America	#33a02c
+ESC_LC4746AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#35978f	KL48	Asia	#1f78b4
+ESC_LC4747AA_AS	2015-2019	#fdae61	blood	red	Human	#fdc086	#35978f	KL48	Asia	#1f78b4
+ESC_LC4748AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#3dfc7d	KL30	Asia	#1f78b4
+ESC_LC4753AA_AS	2015-2019	#fdae61	blood	red	Human	#fdc086	#35978f	KL48	Asia	#1f78b4
+ESC_LC4754AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#afafaf	Unassigned	Asia	#1f78b4
+ESC_LC4757AA_AS	2015-2019	#fdae61	UTI/urine	#ffff33	Human	#fdc086	#afafaf	KL125	Asia	#1f78b4
+ESC_LC4761AA_AS	2015-2019	#fdae61	other	#afafaf	Animal	#7fc97f	#d66384	KL101	Asia	#1f78b4
+ESC_LC4774AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#afafaf	Unassigned	Asia	#1f78b4
+ESC_LC4789AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#35978f	KL48	Asia	#1f78b4
+ESC_LC4790AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#35978f	KL48	Asia	#1f78b4
+ESC_LC4791AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#afafaf	KL125	Asia	#1f78b4
+ESC_LC4792AA_AS	2015-2019	#fdae61	rectal	#bf812d	Human	#fdc086	#3dfc7d	KL30	Asia	#1f78b4
+ESC_LC4795AA_AS	2015-2019	#fdae61	blood	red	Human	#fdc086	#d66384	KL101	Asia	#1f78b4
+ESC_LC4798AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#3dfc7d	KL30	Asia	#1f78b4
+ESC_LC4800AA_AS	2015-2019	#fdae61	rectal	#bf812d	Human	#fdc086	black	KL124	Asia	#1f78b4
+ESC_LC4804AA_AS	2015-2019	#fdae61	rectal	#bf812d	Human	#fdc086	#3dfc7d	KL30	Asia	#1f78b4
+ESC_LC4806AA_AS	2015-2019	#fdae61	rectal	#bf812d	Human	#fdc086	#3dfc7d	KL30	Asia	#1f78b4
+ESC_LC4812AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#4695f0	KL103	Asia	#1f78b4
+ESC_LC4813AA_AS	2015-2019	#fdae61	rectal	#bf812d	Human	#fdc086	#35978f	KL48	Asia	#1f78b4
+ESC_LC4818AA_AS	NA	white	other	#afafaf	Animal	#7fc97f	#35978f	KL48	Asia	#1f78b4
+ESC_LC4821AA_AS	2015-2019	#fdae61	rectal	#bf812d	Human	#fdc086	#3dfc7d	KL30	Asia	#1f78b4
+ESC_LC4822AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#afafaf	KL125	Asia	#1f78b4
+ESC_LC4823AA_AS	2015-2019	#fdae61	UTI/urine	#ffff33	Human	#fdc086	#35978f	KL48	Asia	#1f78b4
+ESC_LC5127AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#3dfc7d	KL30	North America	#33a02c
+ESC_LC5296AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#fd088e	KL54	North America	#33a02c
+ESC_LC5869AA_AS	2010-2014	#1f78b4	other	#afafaf	Animal	#7fc97f	#CAB2D6	KL123	North America	#33a02c
+ESC_LC5870AA_AS	2010-2014	#1f78b4	other	#afafaf	Animal	#7fc97f	#CAB2D6	KL123	North America	#33a02c
+ESC_LC6163AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#6A3D9A	KL20	North America	#33a02c
+ESC_LC6164AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_LC6165AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#3dfc7d	KL30	North America	#33a02c
+ESC_LC6263AA_AS	2020-2024	#d73027	blood	red	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_LC6342AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_LC6418AA_AS	2020-2024	#d73027	blood	red	Human	#fdc086	#afafaf	KL31	North America	#33a02c
+ESC_LC6427AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#fd088e	KL54	North America	#33a02c
+ESC_LC6536AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_LC6793AA_AS	2015-2019	#fdae61	other	#afafaf			#3dfc7d	KL30	Europe	#a6cee3
+ESC_LC6794AA_AS	2015-2019	#fdae61	other	#afafaf			#3dfc7d	KL30	Europe	#a6cee3
+ESC_LC6798AA_AS	2020-2024	#d73027	other	#afafaf			#3dfc7d	KL30	Europe	#a6cee3
+ESC_LC6859AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_LC6970AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#7e9000	KL142	North America	#33a02c
+ESC_LC7103AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_LC7112AA_AS	2020-2024	#d73027	rectal	#bf812d	Human	#fdc086	#3dfc7d	KL30	North America	#33a02c
+ESC_LC7114AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_LC7124AA_AS	2015-2019	#fdae61	UTI/urine	#ffff33	Human	#fdc086	#35978f	KL48	North America	#33a02c
+ESC_LC7144AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#35978f	KL48	NA	NA
+ESC_LC7170AA_AS	2015-2019	#fdae61	UTI/urine	#ffff33	Human	#fdc086	#afafaf	Unassigned	Asia	#1f78b4
+ESC_LC7175AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#FB9A99	KL55	Asia	#1f78b4
+ESC_LC7178AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#d37505	KL114	Asia	#1f78b4
+ESC_LC7179AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#3dfc7d	KL30	Asia	#1f78b4
+ESC_LC7180AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#005A9C	KL115	Asia	#1f78b4
+ESC_LC7182AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#35978f	KL48	Asia	#1f78b4
+ESC_LC7183AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#35978f	KL48	Asia	#1f78b4
+ESC_MC2913AA_AS	2015-2019	#fdae61	UTI/urine	#ffff33	Human	#fdc086	#35978f	KL48	Asia	#1f78b4
+ESC_LC7187AA_AS	2015-2019	#fdae61	UTI/urine	#ffff33	Human	#fdc086	#4695f0	KL103	Asia	#1f78b4
+ESC_LC7189AA_AS	2015-2019	#fdae61	UTI/urine	#ffff33	Human	#fdc086	#4695f0	KL103	Asia	#1f78b4
+ESC_LC7193AA_AS	2015-2019	#fdae61	UTI/urine	#ffff33	Human	#fdc086	#6A3D9A	KL20	NA	NA
+ESC_LC7207AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#4695f0	KL103	NA	NA
+ESC_LC7217AA_AS	2015-2019	#fdae61	UTI/urine	#ffff33	Human	#fdc086	#abf186	KL14	NA	NA
+ESC_LC7236AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#afafaf	KL137	NA	NA
+ESC_LC7798AA_AS	2020-2024	#d73027	rectal	#bf812d	Human	#fdc086	#6A3D9A	KL20	North America	#33a02c
+ESC_LC7918AA_AS	2020-2024	#d73027	other	#afafaf			black	KL124	North America	#33a02c
+ESC_LC7961AA_AS	2020-2024	#d73027	other	#afafaf			#afafaf	Unassigned	Europe	#a6cee3
+ESC_LC8909AA_AS	NA	white	other	#afafaf			#7e9000	KL142	Europe	#a6cee3
+ESC_LC9044AA_AS	2020-2024	#d73027	rectal	#bf812d	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_LC9114AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#4695f0	KL103	North America	#33a02c
+ESC_LC9205AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#3dfc7d	KL30	North America	#33a02c
+ESC_LC9211AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#d37505	KL114	North America	#33a02c
+ESC_MC0185AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_MC0188AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#3dfc7d	KL30	North America	#33a02c
+ESC_MC0213AA_AS	NA	white	rectal	#bf812d	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_MC0214AA_AS	2020-2024	#d73027	blood	red	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_MC0218AA_AS	2020-2024	#d73027	blood	red	Human	#fdc086	#3dfc7d	KL30	North America	#33a02c
+ESC_MC0220AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#4695f0	KL103	North America	#33a02c
+ESC_MC0263AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#4695f0	KL103	Asia	#1f78b4
+ESC_MC0380AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#afafaf	Unassigned	North America	#33a02c
+ESC_MC0405AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#3dfc7d	KL30	North America	#33a02c
+ESC_MC0483AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#904f02	KL158	North America	#33a02c
+ESC_MC0928AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#005A9C	KL115	North America	#33a02c
+ESC_MC0929AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#d37505	KL114	North America	#33a02c
+ESC_MC0931AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#4695f0	KL103	North America	#33a02c
+ESC_MC0995AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_MC0996AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#6A3D9A	KL20	North America	#33a02c
+ESC_MC1587AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_MC1633AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_MC1644AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#fd088e	KL54	North America	#33a02c
+ESC_MC1645AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#3dfc7d	KL30	North America	#33a02c
+ESC_MC1650AA_AS	2020-2024	#d73027	blood	red	Human	#fdc086	#3dfc7d	KL30	North America	#33a02c
+ESC_MC1651AA_AS	2020-2024	#d73027	blood	red	Human	#fdc086	#3dfc7d	KL30	North America	#33a02c
+ESC_MC1653AA_AS	2020-2024	#d73027	rectal	#bf812d	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_MC1749AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_MC1803AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#3dfc7d	KL30	North America	#33a02c
+ESC_MC2104AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_MC3476AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#3dfc7d	KL30	North America	#33a02c
+ESC_MC3494AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#abf186	KL14	North America	#33a02c
+ESC_MC3546AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#afafaf	KL137	North America	#33a02c
+ESC_MC3584AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#3dfc7d	KL30	North America	#33a02c
+ESC_MC3782AA_AS	2015-2019	#fdae61	other	#afafaf	Animal	#7fc97f	#afafaf	Unassigned	Europe	#a6cee3
+ESC_MC4519AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#4695f0	KL103	North America	#33a02c
+ESC_MC4520AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#4695f0	KL103	North America	#33a02c
+ESC_MC4521AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#4695f0	KL103	North America	#33a02c
+ESC_MC4523AA_AS	2020-2024	#d73027	blood	red	Human	#fdc086	#4695f0	KL103	North America	#33a02c
+ESC_MC4624AA_AS	2020-2024	#d73027	blood	red	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_MC4881AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_MC4963AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#6A3D9A	KL20	Africa	#b2df8a
+ESC_MC4969AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#FF7F00	KL35	Africa	#b2df8a
+ESC_MC5597AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_MC6192AA_AS	2020-2024	#d73027	other	#afafaf	Animal	#7fc97f	#4695f0	KL103	Africa	#b2df8a
+ESC_MC6197AA_AS	2020-2024	#d73027	other	#afafaf	Animal	#7fc97f	#4695f0	KL103	Africa	#b2df8a
+ESC_MC6307AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_MC6314AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_MC6317AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#35978f	KL48	North America	#33a02c
+ESC_MC6319AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#6A3D9A	KL20	North America	#33a02c
+ESC_MC6441AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#CAB2D6	KL123	North America	#33a02c
+ESC_MC6449AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#afafaf	Unassigned	North America	#33a02c
+ESC_MC6474AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#3dfc7d	KL30	North America	#33a02c
+ESC_MC6475AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#3dfc7d	KL30	North America	#33a02c
+ESC_MC6530AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#29c722	KL127	North America	#33a02c
+ESC_MC6531AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_MC7007AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_MC7086AA_AS	NA	white	other	#afafaf			#afafaf	Unassigned	NA	NA
+ESC_MC7134AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_MC7137AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_MC7450AA_AS	2015-2019	#fdae61	other	#afafaf			#FF7F00	KL35	Asia	#1f78b4
+ESC_MC7478AA_AS	2010-2014	#1f78b4	other	#afafaf			#afafaf	Unassigned	Asia	#1f78b4
+ESC_MC7533AA_AS	2010-2014	#1f78b4	other	#afafaf			#6A3D9A	KL20	Asia	#1f78b4
+ESC_MC7602AA_AS	2015-2019	#fdae61	other	#afafaf			#FF7F00	KL35	Asia	#1f78b4
+ESC_MC7657AA_AS	2010-2014	#1f78b4	other	#afafaf			#904f02	KL158	Asia	#1f78b4
+ESC_MC7677AA_AS	2010-2014	#1f78b4	other	#afafaf			#ffe119	KL5	Asia	#1f78b4
+ESC_MC7723AA_AS	2010-2014	#1f78b4	other	#afafaf			#904f02	KL158	Asia	#1f78b4
+ESC_MC7773AA_AS	2015-2019	#fdae61	other	#afafaf			#afafaf	Unassigned	Asia	#1f78b4
+ESC_MC7929AA_AS	2015-2019	#fdae61	other	#afafaf			#afafaf	Unassigned	Asia	#1f78b4
+ESC_MC7959AA_AS	2015-2019	#fdae61	other	#afafaf			#3dfc7d	KL30	Asia	#1f78b4
+ESC_MC7991AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#3dfc7d	KL30	North America	#33a02c
+ESC_MC8018AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_MC8070AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_MC8073AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#afafaf	Unassigned	North America	#33a02c
+ESC_MC8279AA_AS	2020-2024	#d73027	blood	red	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_MC8280AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#3dfc7d	KL30	North America	#33a02c
+ESC_MC8314AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_MC8359AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_MC8366AA_AS	2020-2024	#d73027	rectal	#bf812d	Human	#fdc086	#afafaf	KL125	North America	#33a02c
+ESC_MC8402AA_AS	2020-2024	#d73027	rectal	#bf812d	Human	#fdc086	#3dfc7d	KL30	North America	#33a02c
+ESC_MC8892AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_MC8898AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_MC8899AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_MC8998AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_MC8999AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#904f02	KL158	North America	#33a02c
+ESC_NC4356AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#E31A1C	KL57	Africa	#b2df8a
+ESC_NC4357AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#FF7F00	KL35	Africa	#b2df8a
+ESC_NC4365AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	black	KL124	Africa	#b2df8a
+ESC_NC4369AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#afafaf	Unassigned	Africa	#b2df8a
+ESC_MC9340AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_MC9342AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#afafaf	Unassigned	North America	#33a02c
+ESC_NC0022AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#afafaf	Unassigned	North America	#33a02c
+ESC_NC0023AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_NC0026AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#3dfc7d	KL30	North America	#33a02c
+ESC_NC0031AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_NC0078AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#904f02	KL158	North America	#33a02c
+ESC_NC0083AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_NC0184AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_NC0185AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_NC0186AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_NC0188AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_NC0950AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#afafaf	Unassigned	Europe	#a6cee3
+ESC_NC1368AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	black	KL124	Europe	#a6cee3
+ESC_NC1396AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#4695f0	KL103	Asia	#1f78b4
+ESC_NC1399AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#4695f0	KL103	Asia	#1f78b4
+ESC_NC1405AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#FF7F00	KL35	Asia	#1f78b4
+ESC_NC1566AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_NC1567AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_NC1598AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#29c722	KL127	North America	#33a02c
+ESC_NC1654AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#0835fd	KL53	North America	#33a02c
+ESC_NC1655AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#29c722	KL127	North America	#33a02c
+ESC_NC1656AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#0835fd	KL53	North America	#33a02c
+ESC_NC1702AA_AS	2020-2024	#d73027	blood	red	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_NC1703AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_NC1704AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_NC1750AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#afafaf	Unassigned	North America	#33a02c
+ESC_NC2131AA_AS	2020-2024	#d73027	other	#afafaf			#abf186	KL14	NA	NA
+ESC_NC2192AA_AS	2020-2024	#d73027	blood	red	Human	#fdc086	#4695f0	KL103	North America	#33a02c
+ESC_NC2222AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#E31A1C	KL57	North America	#33a02c
+ESC_NC2470AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#3dfc7d	KL30	North America	#33a02c
+ESC_NC2471AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#3dfc7d	KL30	North America	#33a02c
+ESC_NC2473AA_AS	2020-2024	#d73027	blood	red	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_NC2580AA_AS	2020-2024	#d73027	other	#afafaf	Animal	#7fc97f	#afafaf	Unassigned	North America	#33a02c
+ESC_NC2667AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_NC2742AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_NC2748AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#3dfc7d	KL30	North America	#33a02c
+ESC_NC2752AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_NC2756AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#3dfc7d	KL30	North America	#33a02c
+ESC_NC2758AA_AS	2020-2024	#d73027	blood	red	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_NC2759AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_NC2763AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_NC2792AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#3dfc7d	KL30	North America	#33a02c
+ESC_NC2793AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#d37505	KL114	North America	#33a02c
+ESC_NC2905AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#d37505	KL114	North America	#33a02c
+ESC_NC2919AA_AS	2010-2014	#1f78b4	other	#afafaf	Human	#fdc086	#3dfc7d	KL30	Asia	#1f78b4
+ESC_NC2920AA_AS	2010-2014	#1f78b4	other	#afafaf	Human	#fdc086	#afafaf	KL125	Asia	#1f78b4
+ESC_NC2921AA_AS	2010-2014	#1f78b4	other	#afafaf	Human	#fdc086	#3dfc7d	KL30	Asia	#1f78b4
+ESC_NC2928AA_AS	2010-2014	#1f78b4	other	#afafaf	Human	#fdc086	#afafaf	KL125	Asia	#1f78b4
+ESC_NC8731AA_AS	2020-2024	#d73027	blood	red	Human	#fdc086	#3dfc7d	KL30	Asia	#1f78b4
+ESC_NC8732AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_NC8733AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#d37505	KL114	North America	#33a02c
+ESC_NC3353AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#d37505	KL114	North America	#33a02c
+ESC_NC3542AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_NC3543AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_NC3544AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_OC0316AA_AS	2020-2024	#d73027	other	#afafaf			#d66384	KL101	Africa	#b2df8a
+ESC_OC0330AA_AS	2020-2024	#d73027	other	#afafaf			#d66384	KL101	Africa	#b2df8a
+ESC_OC0344AA_AS	2020-2024	#d73027	other	#afafaf			black	KL124	Africa	#b2df8a
+ESC_OC0356AA_AS	2020-2024	#d73027	other	#afafaf			#ffe119	KL5	Africa	#b2df8a
+ESC_OC0367AA_AS	2020-2024	#d73027	other	#afafaf			#E31A1C	KL57	Africa	#b2df8a
+ESC_OC0380AA_AS	2020-2024	#d73027	other	#afafaf			#d66384	KL101	Africa	#b2df8a
+ESC_OC0386AA_AS	2020-2024	#d73027	other	#afafaf			#4695f0	KL103	Africa	#b2df8a
+ESC_NC3851AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_NC3882AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#6A3D9A	KL20	North America	#33a02c
+ESC_NC3946AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_NC3947AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_NC3950AA_AS	2020-2024	#d73027	rectal	#bf812d	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_NC3951AA_AS	2020-2024	#d73027	rectal	#bf812d	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_NC4002AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_NC4027AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_NC4042AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#4695f0	KL103	Europe	#a6cee3
+ESC_NC4061AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#4695f0	KL103	Europe	#a6cee3
+ESC_NC4080AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#abf186	KL14	Europe	#a6cee3
+ESC_NC4081AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#afafaf	Unassigned	Europe	#a6cee3
+ESC_NC4085AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	black	KL124	Europe	#a6cee3
+ESC_NC4088AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#E31A1C	KL57	Europe	#a6cee3
+ESC_NC4089AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#afafaf	Unassigned	Europe	#a6cee3
+ESC_NC4094AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#3dfc7d	KL30	Europe	#a6cee3
+ESC_NC4096AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	black	KL124	Europe	#a6cee3
+ESC_NC4104AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#afafaf	Unassigned	Europe	#a6cee3
+ESC_OC0552AA_AS	2020-2024	#d73027	other	#afafaf			#6A3D9A	KL20	Africa	#b2df8a
+ESC_NC4162AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_NC4163AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#afafaf	Unassigned	North America	#33a02c
+ESC_NC4545AA_AS	NA	white	other	#afafaf			#FF7F00	KL35	NA	NA
+ESC_NC4636AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_NC4641AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_NC4687AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#3dfc7d	KL30	North America	#33a02c
+ESC_NC4716AA_AS	NA	white	other	#afafaf			#6A3D9A	KL20	NA	NA
+ESC_NC4735AA_AS	NA	white	other	#afafaf			#3dfc7d	KL30	NA	NA
+ESC_NC4858AA_AS	NA	white	other	#afafaf			#FF7F00	KL35	NA	NA
+ESC_NC4894AA_AS	NA	white	other	#afafaf			#FF7F00	KL35	NA	NA
+ESC_NC4920AA_AS	NA	white	other	#afafaf			#3dfc7d	KL30	NA	NA
+ESC_NC4940AA_AS	NA	white	other	#afafaf			#6A3D9A	KL20	NA	NA
+ESC_NC5936AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#afafaf	KL16	Asia	#1f78b4
+ESC_NC5998AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#3dfc7d	KL30	North America	#33a02c
+ESC_NC5999AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_NC6000AA_AS	2020-2024	#d73027	blood	red	Human	#fdc086	#afafaf	Unassigned	North America	#33a02c
+ESC_NC6001AA_AS	2020-2024	#d73027	rectal	#bf812d	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_NC6049AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#afafaf	Unassigned	North America	#33a02c
+ESC_NC6068AA_AS	2020-2024	#d73027	blood	red	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_NC6070AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#3dfc7d	KL30	North America	#33a02c
+ESC_NC6237AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#afafaf	Unassigned	North America	#33a02c
+ESC_NC6284AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#CAB2D6	KL123	North America	#33a02c
+ESC_NC6300AA_AS	2020-2024	#d73027	blood	red	Human	#fdc086	#afafaf	Unassigned	North America	#33a02c
+ESC_NC6302AA_AS	2020-2024	#d73027	rectal	#bf812d	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_NC6984AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#d37505	KL114	North America	#33a02c
+ESC_NC7071AA_AS	2020-2024	#d73027	other	#afafaf			#FF7F00	KL35	Asia	#1f78b4
+ESC_NC7816AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#afafaf	Unassigned	NA	NA
+ESC_NC7983AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#d37505	KL114	North America	#33a02c
+ESC_NC7984AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_NC8210AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_NC8214AA_AS	2020-2024	#d73027	rectal	#bf812d	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_NC8215AA_AS	2020-2024	#d73027	rectal	#bf812d	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_NC8381AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#6A3D9A	KL20	North America	#33a02c
+ESC_NC8713AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_NC9138AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#afafaf	Unassigned	North America	#33a02c
+ESC_NC9322AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_NC9439AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_NC9448AA_AS	2020-2024	#d73027	blood	red	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_NC9450AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_NC9452AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#6A3D9A	KL20	North America	#33a02c
+ESC_OC0014AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#35978f	KL48	North America	#33a02c
+ESC_OC0405AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_OC0528AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_OC0563AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#afafaf	Unassigned	North America	#33a02c
+ESC_OC0568AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#afafaf	Unassigned	North America	#33a02c
+ESC_OC0881AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_OC0884AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#d5d36e	KL9	North America	#33a02c
+ESC_OC1383AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_OC1384AA_AS	2020-2024	#d73027	rectal	#bf812d	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_OC1386AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#7e9000	KL142	North America	#33a02c
+ESC_OC1392AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_OC1477AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#CAB2D6	KL123	North America	#33a02c
+ESC_OC2238AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_OC2986AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_OC3150AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#6A3D9A	KL20	North America	#33a02c
+ESC_OC3156AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_OC3238AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#afafaf	KL137	North America	#33a02c
+ESC_OC3510AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#7e9000	KL142	North America	#33a02c
+ESC_OC3511AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#7e9000	KL142	North America	#33a02c
+ESC_OC3543AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_OC3544AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_OC3545AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#3dfc7d	KL30	North America	#33a02c
+ESC_OC3546AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#3dfc7d	KL30	North America	#33a02c
+ESC_OC3758AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#afafaf	Unassigned	North America	#33a02c
+ESC_OC3825AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#d66384	KL101	North America	#33a02c
+ESC_OC4034AA_AS	2020-2024	#d73027	other	#afafaf	Animal	#7fc97f	#afafaf	Unassigned	North America	#33a02c
+ESC_OC4198AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_OC4199AA_AS	2020-2024	#d73027	blood	red	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_OC4246AA_AS	2020-2024	#d73027	other	#afafaf	Animal	#7fc97f	#35978f	KL48	Africa	#b2df8a
+ESC_OC4273AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_OC4349AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_OC4351AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#d66384	KL101	North America	#33a02c
+ESC_OC4372AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#afafaf	KL125	Oceania	#e31a1c
+ESC_OC4413AA_AS	2015-2019	#fdae61	other	#afafaf			#d66384	KL101	Oceania	#e31a1c
+ESC_OC4551AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#3dfc7d	KL30	Oceania	#e31a1c
+ESC_QC0114AA_AS	2015-2019	#fdae61	other	#afafaf			#afafaf	Unassigned	Oceania	#e31a1c
+ESC_OC4651AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#afafaf	Unassigned	Oceania	#e31a1c
+ESC_OC4704AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#29c722	KL127	Oceania	#e31a1c
+ESC_OC4776AA_AS	2015-2019	#fdae61	UTI/urine	#ffff33	Human	#fdc086	#afafaf	KL125	Asia	#1f78b4
+ESC_OC4788AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#aac201	KL121	North America	#33a02c
+ESC_OC5037AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_OC5254AA_AS	2020-2024	#d73027	other	#afafaf	Animal	#7fc97f	#35978f	KL48	Africa	#b2df8a
+ESC_PC5135AA_AS	2020-2024	#d73027	other	#afafaf	Animal	#7fc97f	#afafaf	KL137	Africa	#b2df8a
+ESC_OC5257AA_AS	2020-2024	#d73027	other	#afafaf	Animal	#7fc97f	#aac201	KL121	Africa	#b2df8a
+ESC_OC5264AA_AS	2020-2024	#d73027	other	#afafaf	Animal	#7fc97f	#abf186	KL14	Africa	#b2df8a
+ESC_OC5268AA_AS	2020-2024	#d73027	other	#afafaf	Animal	#7fc97f	#4695f0	KL103	Africa	#b2df8a
+ESC_OC5270AA_AS	2020-2024	#d73027	other	#afafaf	Animal	#7fc97f	#4695f0	KL103	Africa	#b2df8a
+ESC_OC5271AA_AS	2020-2024	#d73027	other	#afafaf	Animal	#7fc97f	#4695f0	KL103	Africa	#b2df8a
+ESC_PC5143AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#6A3D9A	KL20	North America	#33a02c
+ESC_OC5413AA_AS	2020-2024	#d73027	blood	red	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_OC5423AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#afafaf	KL31	Asia	#1f78b4
+ESC_OC5424AA_AS	2015-2019	#fdae61	rectal	#bf812d	Human	#fdc086	#afafaf	KL31	Asia	#1f78b4
+ESC_OC5425AA_AS	2015-2019	#fdae61	rectal	#bf812d	Human	#fdc086	#afafaf	KL31	Asia	#1f78b4
+ESC_OC5523AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_OC5586AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_OC5589AA_AS	2020-2024	#d73027	rectal	#bf812d	Human	#fdc086	#E31A1C	KL57	North America	#33a02c
+ESC_OC5590AA_AS	2020-2024	#d73027	rectal	#bf812d	Human	#fdc086	#E31A1C	KL57	North America	#33a02c
+ESC_OC6416AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_OC6698AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#3dfc7d	KL30	North America	#33a02c
+ESC_OC6888AA_AS	2020-2024	#d73027	blood	red	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_OC6954AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_OC6958AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#7e9000	KL142	North America	#33a02c
+ESC_OC7024AA_AS	2020-2024	#d73027	rectal	#bf812d	Human	#fdc086	#afafaf	Unassigned	North America	#33a02c
+ESC_OC7179AA_AS	2020-2024	#d73027	rectal	#bf812d	Human	#fdc086	#3dfc7d	KL30	North America	#33a02c
+ESC_OC7181AA_AS	2020-2024	#d73027	blood	red	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_OC7336AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_OC7866AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#6A3D9A	KL20	Asia	#1f78b4
+ESC_OC8677AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#E31A1C	KL57	Asia	#1f78b4
+ESC_OC8682AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#E31A1C	KL57	Asia	#1f78b4
+ESC_OC8755AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#3dfc7d	KL30	North America	#33a02c
+ESC_OC8756AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_OC8820AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#d66384	KL101	Asia	#1f78b4
+ESC_OC8855AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#E31A1C	KL57	Asia	#1f78b4
+ESC_OC8857AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#E31A1C	KL57	Asia	#1f78b4
+ESC_OC8879AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#3dfc7d	KL30	Asia	#1f78b4
+ESC_OC8924AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#6A3D9A	KL20	Asia	#1f78b4
+ESC_PC0285AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_PC0383AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#afafaf	Unassigned	Oceania	#e31a1c
+ESC_PC0402AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#afafaf	Unassigned	North America	#33a02c
+ESC_PC0404AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#afafaf	Unassigned	North America	#33a02c
+ESC_PC1942AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_PC1978AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_PC2011AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#afafaf	KL137	North America	#33a02c
+ESC_PC2040AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#3dfc7d	KL30	North America	#33a02c
+ESC_PC2413AA_AS	2020-2024	#d73027	blood	red	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_PC2414AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#3dfc7d	KL30	North America	#33a02c
+ESC_PC4409AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#3dfc7d	KL30	North America	#33a02c
+ESC_PC4792AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#afafaf	Unassigned	North America	#33a02c
+ESC_PC4912AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#afafaf	KL16	Asia	#1f78b4
+ESC_PC4927AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_PC5780AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#3dfc7d	KL30	North America	#33a02c
+ESC_PC5785AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_PC5786AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_PC5899AA_AS	2020-2024	#d73027	other	#afafaf			#4695f0	KL103	Africa	#b2df8a
+ESC_PC5901AA_AS	2020-2024	#d73027	other	#afafaf			#4695f0	KL103	Africa	#b2df8a
+ESC_PC5902AA_AS	2020-2024	#d73027	other	#afafaf			#4695f0	KL103	Africa	#b2df8a
+ESC_PC5907AA_AS	2020-2024	#d73027	other	#afafaf			#4695f0	KL103	Africa	#b2df8a
+ESC_PC5908AA_AS	2020-2024	#d73027	other	#afafaf			#4695f0	KL103	Africa	#b2df8a
+ESC_PC5909AA_AS	2020-2024	#d73027	other	#afafaf			#4695f0	KL103	Africa	#b2df8a
+ESC_PC5913AA_AS	2020-2024	#d73027	other	#afafaf			#4695f0	KL103	Africa	#b2df8a
+ESC_PC5931AA_AS	2020-2024	#d73027	other	#afafaf			#afafaf	KL125	Africa	#b2df8a
+ESC_PC5933AA_AS	2020-2024	#d73027	other	#afafaf			#4695f0	KL103	Africa	#b2df8a
+ESC_PC5935AA_AS	2020-2024	#d73027	other	#afafaf			#4695f0	KL103	Africa	#b2df8a
+ESC_PC5938AA_AS	2020-2024	#d73027	other	#afafaf			#904f02	KL158	Africa	#b2df8a
+ESC_PC5939AA_AS	2020-2024	#d73027	other	#afafaf			#4695f0	KL103	Africa	#b2df8a
+ESC_PC5941AA_AS	2020-2024	#d73027	other	#afafaf			#abf186	KL14	Africa	#b2df8a
+ESC_PC5952AA_AS	2020-2024	#d73027	other	#afafaf			#005A9C	KL115	Africa	#b2df8a
+ESC_PC6056AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_PC6060AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_PC6226AA_AS	NA	white	rectal	#bf812d	Human	#fdc086	#abf186	KL14	North America	#33a02c
+ESC_PC6244AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#4695f0	KL103	North America	#33a02c
+ESC_PC6424AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#afafaf	Unassigned	North America	#33a02c
+ESC_PC6425AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_PC6505AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_PC6618AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_PC7159AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#7e9000	KL142	North America	#33a02c
+ESC_RC0371AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#afafaf	Unassigned	North America	#33a02c
+ESC_PC7179AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#6A3D9A	KL20	North America	#33a02c
+ESC_PC7575AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#6A3D9A	KL20	North America	#33a02c
+ESC_PC7576AA_AS	2020-2024	#d73027	blood	red	Human	#fdc086	#6A3D9A	KL20	North America	#33a02c
+ESC_PC7684AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#6A3D9A	KL20	North America	#33a02c
+ESC_PC7754AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_PC8410AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_PC8423AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_PC8451AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#E31A1C	KL57	Asia	#1f78b4
+ESC_PC8935AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_PC8934AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_PC9333AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	black	KL124	Asia	#1f78b4
+ESC_PC9284AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#E31A1C	KL57	Asia	#1f78b4
+ESC_PC9283AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#E31A1C	KL57	Asia	#1f78b4
+ESC_PC9229AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#FF7F00	KL35	Asia	#1f78b4
+ESC_PC9646AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#FDBF6F	KL47	North America	#33a02c
+ESC_PC9696AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#E31A1C	KL57	North America	#33a02c
+ESC_PC9794AA_AS	2020-2024	#d73027	other	#afafaf			#4695f0	KL103	Africa	#b2df8a
+ESC_PC9793AA_AS	2020-2024	#d73027	other	#afafaf			#904f02	KL158	Africa	#b2df8a
+ESC_PC9786AA_AS	2020-2024	#d73027	other	#afafaf			#4695f0	KL103	Africa	#b2df8a
+ESC_PC9784AA_AS	2020-2024	#d73027	other	#afafaf			#4695f0	KL103	Africa	#b2df8a
+ESC_PC9781AA_AS	2020-2024	#d73027	other	#afafaf			#4695f0	KL103	Africa	#b2df8a
+ESC_PC9775AA_AS	2020-2024	#d73027	other	#afafaf			#afafaf	KL125	Africa	#b2df8a
+ESC_PC9825AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#3dfc7d	KL30	North America	#33a02c
+ESC_PC9839AA_AS	2020-2024	#d73027	other	#afafaf			#35978f	KL48	NA	NA
+ESC_QC0251AA_AS	2020-2024	#d73027	rectal	#bf812d	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_QC0212AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#3dfc7d	KL30	North America	#33a02c
+ESC_QC0206AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_QC0205AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_RC8191AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#35978f	KL48	Europe	#a6cee3
+ESC_RC8224AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#afafaf	Unassigned	Europe	#a6cee3
+ESC_RC8266AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#afafaf	KL125	Europe	#a6cee3
+ESC_RC8278AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#afafaf	KL137	Europe	#a6cee3
+ESC_RC8315AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#d5d36e	KL9	Europe	#a6cee3
+ESC_RC8319AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#35978f	KL48	Europe	#a6cee3
+ESC_QC0648AA_AS	2020-2024	#d73027	blood	red	Human	#fdc086	#d66384	KL101	North America	#33a02c
+ESC_RC6276AA_AS	2020-2024	#d73027	blood	red	Human	#fdc086	#d66384	KL101	North America	#33a02c
+ESC_QC0560AA_AS	NA	white	rectal	#bf812d	Human	#fdc086	#35978f	KL48	North America	#33a02c
+ESC_RC8784AA_AS	2015-2019	#fdae61	blood	red	Human	#fdc086	black	KL124	Europe	#a6cee3
+ESC_RC7528AA_AS	2015-2019	#fdae61	rectal	#bf812d	Human	#fdc086	#afafaf	Unassigned	Europe	#a6cee3
+ESC_RC7883AA_AS	2015-2019	#fdae61	rectal	#bf812d	Human	#fdc086	#d66384	KL101	Europe	#a6cee3
+ESC_RC7974AA_AS	2015-2019	#fdae61	rectal	#bf812d	Human	#fdc086	#afafaf	Unassigned	Europe	#a6cee3
+ESC_QC2819AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#afafaf	Unassigned	North America	#33a02c
+ESC_QC3845AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#7e9000	KL142	North America	#33a02c
+ESC_QC3952AA_AS	2020-2024	#d73027	blood	red	Human	#fdc086	#d66384	KL101	North America	#33a02c
+ESC_RC9291AA_AS	2020-2024	#d73027	other	#afafaf			#afafaf	Unassigned	Africa	#b2df8a
+ESC_QC4069AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#afafaf	Unassigned	North America	#33a02c
+ESC_RC9688AA_AS	2020-2024	#d73027	other	#afafaf			#afafaf	Unassigned	Africa	#b2df8a
+ESC_RC9689AA_AS	2020-2024	#d73027	other	#afafaf			#afafaf	Unassigned	Africa	#b2df8a
+ESC_RC9693AA_AS	2020-2024	#d73027	other	#afafaf			#afafaf	Unassigned	Africa	#b2df8a
+ESC_RC9694AA_AS	2020-2024	#d73027	other	#afafaf			#afafaf	Unassigned	Africa	#b2df8a
+ESC_RC9697AA_AS	2020-2024	#d73027	other	#afafaf			#afafaf	Unassigned	Africa	#b2df8a
+ESC_RC9698AA_AS	2020-2024	#d73027	other	#afafaf			#afafaf	Unassigned	Africa	#b2df8a
+ESC_RC9700AA_AS	2020-2024	#d73027	other	#afafaf			#afafaf	Unassigned	Africa	#b2df8a
+ESC_RC9701AA_AS	2020-2024	#d73027	other	#afafaf			#afafaf	Unassigned	Africa	#b2df8a
+ESC_RC9703AA_AS	2020-2024	#d73027	other	#afafaf			#afafaf	Unassigned	Africa	#b2df8a
+ESC_RC9704AA_AS	2020-2024	#d73027	other	#afafaf			#afafaf	Unassigned	Africa	#b2df8a
+ESC_RC9706AA_AS	2020-2024	#d73027	other	#afafaf			#afafaf	Unassigned	Africa	#b2df8a
+ESC_RC9708AA_AS	2020-2024	#d73027	other	#afafaf			#afafaf	Unassigned	Africa	#b2df8a
+ESC_QC4147AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_QC4857AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#3dfc7d	KL30	North America	#33a02c
+ESC_QC6289AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_QC6288AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_SC2138AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	black	KL124	Africa	#b2df8a
+ESC_SC2148AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#FF7F00	KL35	Africa	#b2df8a
+ESC_SC2168AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#afafaf	KL31	Africa	#b2df8a
+ESC_SC2284AA_AS	NA	white	other	#afafaf	Animal	#7fc97f	#afafaf	Unassigned	Europe	#a6cee3
+ESC_QC7545AA_AS	NA	white	other	#afafaf	Animal	#7fc97f	#afafaf	Unassigned	Europe	#a6cee3
+ESC_QC7332AA_AS	NA	white	other	#afafaf	Animal	#7fc97f	#afafaf	Unassigned	Europe	#a6cee3
+ESC_QC7095AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#7e9000	KL142	North America	#33a02c
+ESC_QC7070AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_QC7069AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#afafaf	KL16	North America	#33a02c
+ESC_QC9482AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#6A3D9A	KL20	North America	#33a02c
+ESC_QC9415AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_SC3758AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#afafaf	KL31	Africa	#b2df8a
+ESC_SC3760AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#FF7F00	KL35	Africa	#b2df8a
+ESC_QC9617AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_SC4445AA_AS	2020-2024	#d73027	other	#afafaf			#35978f	KL48	Africa	#b2df8a
+ESC_RC0056AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_SC4509AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#afafaf	Unassigned	Europe	#a6cee3
+ESC_SC4542AA_AS	2010-2014	#1f78b4	other	#afafaf	Human	#fdc086	#afafaf	Unassigned	Europe	#a6cee3
+ESC_SC4981AA_AS	NA	white	other	#afafaf	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_RC0498AA_AS	NA	white	other	#afafaf	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_RC1358AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_RC1442AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#3dfc7d	KL30	North America	#33a02c
+ESC_SC5093AA_AS	2015-2019	#fdae61	UTI/urine	#ffff33	Human	#fdc086	#4695f0	KL103	Asia	#1f78b4
+ESC_SC5103AA_AS	2015-2019	#fdae61	UTI/urine	#ffff33	Human	#fdc086	#afafaf	KL125	Asia	#1f78b4
+ESC_SC5106AA_AS	2015-2019	#fdae61	UTI/urine	#ffff33	Human	#fdc086	#afafaf	KL125	Asia	#1f78b4
+ESC_SC5108AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#3dfc7d	KL30	Asia	#1f78b4
+ESC_SC5109AA_AS	2015-2019	#fdae61	UTI/urine	#ffff33	Human	#fdc086	#35978f	KL48	Asia	#1f78b4
+ESC_SC5113AA_AS	2015-2019	#fdae61	UTI/urine	#ffff33	Human	#fdc086	#4695f0	KL103	Asia	#1f78b4
+ESC_SC5114AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#afafaf	KL16	Asia	#1f78b4
+ESC_SC5115AA_AS	2015-2019	#fdae61	UTI/urine	#ffff33	Human	#fdc086	#4695f0	KL103	Asia	#1f78b4
+ESC_SC5118AA_AS	2015-2019	#fdae61	UTI/urine	#ffff33	Human	#fdc086	#3dfc7d	KL30	Asia	#1f78b4
+ESC_SC5123AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#afafaf	KL16	Asia	#1f78b4
+ESC_SC5125AA_AS	2015-2019	#fdae61	UTI/urine	#ffff33	Human	#fdc086	#abf186	KL14	Asia	#1f78b4
+ESC_SC5126AA_AS	2015-2019	#fdae61	UTI/urine	#ffff33	Human	#fdc086	#904f02	KL158	Asia	#1f78b4
+ESC_SC5127AA_AS	2015-2019	#fdae61	UTI/urine	#ffff33	Human	#fdc086	#afafaf	KL16	Asia	#1f78b4
+ESC_SC5132AA_AS	2015-2019	#fdae61	UTI/urine	#ffff33	Human	#fdc086	#904f02	KL158	Asia	#1f78b4
+ESC_SC5133AA_AS	2015-2019	#fdae61	UTI/urine	#ffff33	Human	#fdc086	#3dfc7d	KL30	Asia	#1f78b4
+ESC_SC5134AA_AS	2015-2019	#fdae61	UTI/urine	#ffff33	Human	#fdc086	#afafaf	KL16	Asia	#1f78b4
+ESC_SC5142AA_AS	2015-2019	#fdae61	UTI/urine	#ffff33	Human	#fdc086	#904f02	KL158	Asia	#1f78b4
+ESC_SC5143AA_AS	2015-2019	#fdae61	UTI/urine	#ffff33	Human	#fdc086	#35978f	KL48	Asia	#1f78b4
+ESC_SC5145AA_AS	2015-2019	#fdae61	UTI/urine	#ffff33	Human	#fdc086	#d5d36e	KL9	Asia	#1f78b4
+ESC_SC5146AA_AS	2015-2019	#fdae61	UTI/urine	#ffff33	Human	#fdc086	#0835fd	KL53	Asia	#1f78b4
+ESC_SC5151AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#afafaf	KL16	Asia	#1f78b4
+ESC_SC5152AA_AS	2015-2019	#fdae61	UTI/urine	#ffff33	Human	#fdc086	#d5d36e	KL9	Asia	#1f78b4
+ESC_SC5154AA_AS	2015-2019	#fdae61	UTI/urine	#ffff33	Human	#fdc086	#0835fd	KL53	Asia	#1f78b4
+ESC_SC5160AA_AS	2015-2019	#fdae61	UTI/urine	#ffff33	Human	#fdc086	#3dfc7d	KL30	Asia	#1f78b4
+ESC_SC5161AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#afafaf	KL16	Asia	#1f78b4
+ESC_RC1883AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_RC1885AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_RC1927AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_RC1932AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_RC2298AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#afafaf	Unassigned	North America	#33a02c
+ESC_RC2342AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_RC2510AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#6A3D9A	KL20	North America	#33a02c
+ESC_RC2511AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#6A3D9A	KL20	North America	#33a02c
+ESC_RC2512AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#6A3D9A	KL20	North America	#33a02c
+ESC_RC2696AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_RC3405AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_RC3441AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_RC3446AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_RC3447AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#3dfc7d	KL30	North America	#33a02c
+ESC_RC3449AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_RC3457AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#4695f0	KL103	North America	#33a02c
+ESC_RC3714AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_RC3719AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_RC3747AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#afafaf	Unassigned	North America	#33a02c
+ESC_RC3810AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#afafaf	Unassigned	North America	#33a02c
+ESC_RC4432AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#fd088e	KL54	North America	#33a02c
+ESC_RC4433AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#005A9C	KL115	North America	#33a02c
+ESC_RC4437AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#7e9000	KL142	North America	#33a02c
+ESC_RC9757AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#6A3D9A	KL20	North America	#33a02c
+ESC_SC0691AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#afafaf	KL16	North America	#33a02c
+ESC_SC0692AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_SC0840AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_SC0844AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_SC3817AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#aac201	KL121	North America	#33a02c
+ESC_SC3822AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#afafaf	Unassigned	North America	#33a02c
+ESC_SC4162AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_SC4354AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#afafaf	Unassigned	North America	#33a02c
+ESC_SC4377AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#005A9C	KL115	North America	#33a02c
+ESC_SC4378AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_SC4420AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_SC4421AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#afafaf	KL31	North America	#33a02c
+ESC_SC4422AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#005A9C	KL115	North America	#33a02c
+ESC_SC4424AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#3dfc7d	KL30	North America	#33a02c
+ESC_SC4428AA_AS	2020-2024	#d73027	blood	red	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_SC4429AA_AS	2020-2024	#d73027	rectal	#bf812d	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_SC4430AA_AS	2020-2024	#d73027	rectal	#bf812d	Human	#fdc086	#afafaf	Unassigned	North America	#33a02c
+ESC_SC4793AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_SC4950AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#aac201	KL121	North America	#33a02c
+ESC_SC5174AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_SC5714AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_SC5716AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	#3dfc7d	KL30	North America	#33a02c
+ESC_SC5722AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_SC5724AA_AS	2020-2024	#d73027	rectal	#bf812d	Human	#fdc086	#3dfc7d	KL30	North America	#33a02c
+ESC_SC5940AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#35978f	KL48	North America	#33a02c
+ESC_SC5967AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_SC6061AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#35978f	KL48	Europe	#a6cee3
+ESC_SC6070AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#35978f	KL48	Europe	#a6cee3
+ESC_SC6074AA_AS	2015-2019	#fdae61	other	#afafaf	Human	#fdc086	#35978f	KL48	Europe	#a6cee3
+ESC_SC6236AA_AS	2020-2024	#d73027	blood	red	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_SC6528AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_SC6570AA_AS	2020-2024	#d73027	other	#afafaf			#6A3D9A	KL20	North America	#33a02c
+ESC_SC6591AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_SC6611AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	#3dfc7d	KL30	North America	#33a02c
+ESC_SC6621AA_AS	2020-2024	#d73027	UTI/urine	#ffff33	Human	#fdc086	black	KL124	North America	#33a02c
+ESC_SC6624AA_AS	2020-2024	#d73027	other	#afafaf	Human	#fdc086	black	KL124	North America	#33a02c

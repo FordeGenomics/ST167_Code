@@ -1,0 +1,1452 @@
+---
+title: "code_availability"
+author: "Lachlan Walker"
+date: "2025-07-29"
+output: html_document
+---
+
+```{r}
+setwd("/Users/uqlwalk8/Documents/PHD/phd_project/Bioinformatics_v2/20240930_ST167_investigation/20250729_code_availability")
+```
+
+
+```{r}
+library(tidyverse)
+library(ggplot2)
+library(ggtree)
+library(stringr)
+```
+
+
+## Supp figure 1
+```{r}
+enterobase_metadata_filtered <- read_tsv("required_files/supp_figure_1_metadata.tsv") 
+
+ST_percentages_2024 <- enterobase_metadata_filtered %>%
+  filter(collection_year == 2024) %>%
+  group_by(ST) %>%
+  summarise(count = n()) %>%
+  mutate(total = sum(count),
+         percentage = (count / total) * 100) %>%
+  arrange(desc(percentage)) %>%
+  mutate(percentage = round(percentage, 2))
+
+enterobase_2024_human <- enterobase_metadata_filtered %>%
+  filter(collection_year == 2024) %>%
+  filter_all(any_vars(str_detect(., regex("Human|human|Homo sapiens", ignore_case = TRUE))))
+
+enterobase_2024_human_UTI <- enterobase_2024_human %>% 
+  filter_all(any_vars(str_detect(., regex("urine|UTI", ignore_case = TRUE))))
+
+enterobase_2024_human_blood <- enterobase_2024_human %>% 
+  filter_all(any_vars(str_detect(., regex("Blood|Bacteraemia|blood|bacteraemia", ignore_case = TRUE))))
+
+UTI_percentages <- enterobase_2024_human_UTI %>%
+  group_by(ST) %>%
+  summarise(uti_count = n()) %>%
+  right_join(ST_percentages_2024, by = "ST") %>%
+  mutate(uti_percentage = (uti_count / count) * 100,
+         uti_percentage = round(uti_percentage, 2))
+
+blood_percentages <- enterobase_2024_human_blood %>%
+  group_by(ST) %>%
+  summarise(blood_count = n()) %>%
+  right_join(ST_percentages_2024, by = "ST") %>%
+  mutate(blood_percentage = (blood_count / count) * 100,
+         blood_percentage = round(blood_percentage, 2)) 
+
+ST_percentages_2024_with_UTI_and_blood <- ST_percentages_2024 %>%
+  left_join(UTI_percentages %>% select(ST, uti_count, uti_percentage), by = "ST") %>%
+  left_join(blood_percentages %>% select(ST, blood_count, blood_percentage), by = "ST") %>%
+  replace_na(list(uti_count = 0, uti_percentage = 0, blood_count = 0, blood_percentage = 0))
+
+
+### Plotting
+uti_sts <- c(95, 131, 1193, 69, 73)
+
+top_uti_sts_2024 <- ST_percentages_2024_with_UTI_and_blood %>%
+  filter(uti_count > 0, !ST %in% uti_sts) %>%
+  arrange(desc(percentage)) %>%
+  head(15) %>%
+  pull(ST) 
+
+sts_of_interest <- unique(c(uti_sts, top_uti_sts_2024))
+if(length(sts_of_interest) < 20) {
+  additional_sts <- ST_percentages_2024_with_UTI_and_blood %>%
+    filter(uti_count > 0, !ST %in% sts_of_interest) %>%
+    arrange(desc(percentage)) %>%
+    head(20 - length(sts_of_interest)) %>%
+    pull(ST)
+  sts_of_interest <- c(sts_of_interest, additional_sts)
+}
+
+data_of_interest <- ST_percentages_2024_with_UTI_and_blood %>%
+  filter(ST %in% sts_of_interest)
+
+st_order <- data_of_interest %>%
+  arrange(desc(uti_count)) %>%  
+  pull(ST)
+
+data_long <- data_of_interest %>%
+  mutate(non_uti_count = count - uti_count) %>%
+  select(ST, non_uti_count, uti_count) %>%
+  pivot_longer(cols = c(non_uti_count, uti_count), 
+               names_to = "category", values_to = "value") %>%
+  mutate(
+    category = case_when(
+      category == "non_uti_count" ~ "Other isolates",
+      category == "uti_count" ~ "UTI/urine isolates"
+    ),
+    category = factor(category, levels = c("Other isolates", "UTI/urine isolates")),
+    ST = factor(ST, levels = st_order) 
+  )
+
+p1 <- ggplot(data_long, aes(x = ST, y = value, fill = category)) +
+  geom_col(color = "black", linewidth = 0.5) +
+  scale_fill_manual(values = c("grey70", "#E31A1C")) +
+  labs(
+    title = "2024 most prevalent STs with UTI/urine isolates",
+    x = "Sequence Type (ST)", 
+    y = "Number of Genomes", 
+    fill = "Category"
+  ) +
+  theme_classic() +
+  theme(text = element_text(color = "black"),
+        axis.text.x = element_text(angle = 45, hjust = 1))
+
+plot(p1)
+```
+
+## Fig 1a
+```{r}
+UTI_dataset <- enterobase_metadata_filtered %>% 
+  filter_all(any_vars(str_detect(., regex("urine|UTI", ignore_case = TRUE))))
+
+UTI_human <- UTI_dataset %>%
+  filter_all(any_vars(str_detect(., regex("Human|human|Homo sapiens", ignore_case = TRUE))))
+
+UTI_human_STs <- UTI_human %>% 
+  group_by(ST) %>% 
+   summarise(num_genomes = n_distinct(Assembly_barcode), .groups = "drop")
+
+enterobase_metadata_filtered <- UTI_human %>%
+  filter(collection_year >= 2010 & collection_year <= 2024)
+
+yearly_prevalence_UTI <- enterobase_metadata_filtered %>%
+  group_by(collection_year, ST) %>%
+  summarise(count = n()) %>%
+  group_by(collection_year) %>%
+  mutate(total = sum(count),
+         prevalence = count / total * 100) %>%
+  ungroup()
+
+sts_of_interest <- c("10", "167", "131", "410", "69")
+
+c5 <- c(
+  "69" = "#9970ab",   # ST69 - bottom
+  "410" = "#fdae61",  # ST410
+  "131" = "#4393c3",  # ST131  
+  "167" = "#e31a1c",  # ST167
+  "10" = "#d9d9d9"    # ST10 - top
+)
+
+all_years <- unique(yearly_prevalence_UTI$collection_year)
+all_sts <- c("10", "167", "131", "410", "69")
+
+complete_grid <- expand.grid(
+  collection_year = all_years,
+  ST = all_sts,
+  stringsAsFactors = FALSE  
+)
+
+prevalence_of_interest <- yearly_prevalence_UTI %>%
+  filter(ST %in% sts_of_interest) %>%
+  mutate(ST = as.character(ST))  
+
+complete_prevalence <- complete_grid %>%
+  left_join(prevalence_of_interest, by = c("collection_year", "ST")) %>%
+  mutate(
+    count = coalesce(count, 0),
+    total = coalesce(total, 0),
+    prevalence = coalesce(prevalence, 0)
+  ) %>%
+  arrange(collection_year, ST)
+
+complete_prevalence <- complete_prevalence %>%
+  mutate(ST = factor(ST, levels = c("10", "167", "131", "410", "69")))
+
+p <- complete_prevalence %>%
+  ggplot(aes(x = factor(collection_year), y = prevalence, 
+             fill = ST)) +
+  geom_col(width = 0.8) + 
+  theme_bw() +
+  labs(
+    title = "Distribution of Top 5 Sequence Types (2010-2024)",
+    x = "Year",
+    y = "Prevalence (%)",
+    fill = "Sequence Type"
+  ) +
+  theme(
+    axis.text.x = element_text(angle = 45, hjust = 1),
+    panel.grid.minor = element_blank(),
+    plot.title = element_text(size = 12, face = "bold"),
+    legend.position = "bottom",
+    legend.box = "horizontal"
+  ) +
+  scale_fill_manual(values = c5) +  
+  scale_y_continuous(breaks = seq(0, 100, by = 20))
+
+# Display plot
+plot(p)
+```
+
+## Fig 1c
+
+```{r}
+metadata <- read_tsv("required_files/ST167_metadata_for_budi.tsv")
+
+metadata <- metadata %>% 
+  select(-`Isolate source`, -isolate_source_colour) %>%
+  rename(`Isolate source` = Disease,
+         isolate_source_colour = Disease_color,
+        `Year range` = year_range)
+
+clusters <- read_tsv("/Users/uqlwalk8/Documents/PHD/phd_project/Bioinformatics_v2/20240930_ST167_investigation/20241008_filtered_ST167_database/20241020_heirbaps_on_snippy_core/000_clades_of_ST167.tsv") 
+
+cluster_counts <- clusters %>%
+  count(`clade`, name = "number_of_genomes")
+
+metadata_with_clusters <- clusters %>%
+  rename(Assembly_barcode = genome_id) %>% 
+  rename(cluster = clade) %>% 
+  left_join(metadata, by = "Assembly_barcode")
+
+metadata_with_clusters <- metadata_with_clusters %>%
+  mutate(across(where(is.character), ~na_if(., "NA"))) %>%
+  mutate(across(where(is.character), ~na_if(., "white")))
+
+year_cluster_plot <- ggplot(metadata_with_clusters, 
+       aes(x = factor(cluster), 
+           fill = `Year range`)) +
+  geom_bar(position = "stack") +
+  scale_fill_manual(values = c("#b2df8a", "#abd9e9", "#1f78b4", "#fdae61", "#d73027"), 
+                    na.value = "#afafaf") +
+  scale_y_continuous(breaks = seq(0, 350, by = 50), limits = c(0, 350)) +
+  labs(x = "Clades",
+       y = "Number of Genomes",
+       title = "Year range of Isolates") +
+  theme_classic() +
+  theme(aspect.ratio = 1.5/1,
+        legend.position = "none",
+        axis.title = element_text(face = "bold"))
+
+year_cluster_plot
+
+year_range_summary <- metadata_with_clusters %>%
+  group_by(cluster) %>%
+  mutate(cluster_total = n()) %>%
+  group_by(cluster, `Year range`) %>%
+  summarise(
+    count = n(),
+    percentage = (count/first(cluster_total))*100,
+    .groups = 'drop'
+  ) %>%
+  mutate(percentage = round(percentage, 2))
+```
+
+
+## Fig 1d
+```{r}
+# Reorder the factor levels so "other" appears first (bottom)
+metadata_with_clusters <- metadata_with_clusters %>%
+  mutate(`Isolate source` = factor(`Isolate source`, 
+                                  levels = c("rectal", "UTI/urine", "blood", "other")))
+
+source_cluster_plot <- ggplot(metadata_with_clusters, 
+       aes(x = factor(cluster), 
+           fill = `Isolate source`)) +
+  geom_bar(position = "stack") +
+  scale_fill_manual(values = c("blood" = "#e31a1c",
+                              "UTI/urine" = "#ffff33",
+                              "rectal" = "#1f78b4",
+                              "other" = "#afafaf")) +
+  scale_y_continuous(breaks = seq(0, 350, by = 50), limits = c(0, 350)) +
+  labs(x = "Clades",
+       y = "Number of Genomes",
+       title = "Isolate Source Distribution") +
+  theme_classic() +
+  theme(aspect.ratio = 1.5/1,
+        legend.position = "none",
+        axis.text = element_text(color = "black"),
+        title = element_text(color = "black"),
+        text = element_text(color = "black"))
+
+source_cluster_plot
+```
+
+## Fig 1e
+```{r}
+amr_metadata <- read_tsv("required_files/20241022_ceph_carb_metadata.tsv")
+
+amr_metadata_filtered <- amr_metadata %>%
+  rename(Assembly_barcode = `Contig id`) %>%
+  inner_join(metadata_with_clusters %>% 
+              select(Assembly_barcode, cluster), 
+            by = "Assembly_barcode") %>%
+  select(Assembly_barcode, cluster, carbapenem_flag, cephalosporin_flag)
+
+amr_metadata_filtered <- amr_metadata_filtered %>%
+  mutate(amr_profile = case_when(
+    carbapenem_flag == "YES" & cephalosporin_flag == "YES" ~ "Both",
+    TRUE ~ "Susceptible"
+  ))
+
+# Set factor levels for stacking order
+amr_metadata_filtered <- amr_metadata_filtered %>%
+  mutate(amr_profile = factor(amr_profile, 
+                             levels = c("Susceptible", 
+                                      "Cephalosporin only", 
+                                      "Carbapenem only", 
+                                      "Both")))
+
+# Create the plot
+resistance_plot <- ggplot(amr_metadata_filtered, 
+       aes(x = factor(cluster), 
+           fill = amr_profile)) +
+  geom_bar(position = "stack") +
+  scale_fill_manual(values = c("Both" = "#e31a1c",
+                              "Carbapenem only" = "#afafaf",
+                              "Cephalosporin only" = "#afafaf",
+                              "Susceptible" = "#afafaf")) +
+  scale_y_continuous(breaks = seq(0, 350, by = 50), limits = c(0, 350)) +
+  labs(x = "Clades",
+       y = "Number of Genomes",
+       title = "AMR Profile Distribution") +
+  theme_classic() +
+  theme(aspect.ratio = 1.5/1,
+        legend.position = "none",
+        axis.text = element_text(color = "black"),
+        title = element_text(color = "black"),
+        text = element_text(color = "black"))
+
+resistance_plot
+```
+
+
+
+## Fig 1f
+```{r}
+metadata_with_clusters_C <- metadata_with_clusters %>% filter(cluster == "C2")
+
+metadata_with_clusters <- metadata_with_clusters %>%
+  mutate(`Best match locus grouped` = case_when(
+    `Best match locus` %in% c("KL124", "KL30", "KL103", "KL48", "KL20") ~ `Best match locus`,
+    TRUE ~ "Other"  
+  ))
+
+capsule_cluster_plot <- ggplot(metadata_with_clusters, 
+       aes(x = factor(cluster), 
+           fill = `Best match locus grouped`)) +
+  geom_bar(position = "stack") +
+  scale_fill_manual(values = c("KL124" = "black",
+                              "KL30" = "#3dfc7d",
+                              "KL103" = "#4695f0",
+                              "KL48" = "#35978f",
+                              "KL20" = "#6A3D9A",
+                              "Other" = "grey60")) +  # Single color for "Other"
+  scale_y_continuous(breaks = seq(0, 350, by = 50), limits = c(0, 350)) +
+  labs(x = "",
+       y = "Number of Genomes",
+       title = "Capsule type") +
+  theme_classic() +
+  theme(aspect.ratio = 1.5/1,
+        legend.position = "none",
+        axis.text = element_text(color = "black"),
+        title = element_text(color = "black"),
+        text = element_text(color = "black"))
+
+capsule_cluster_plot
+```
+
+
+## Supp figure 3
+```{r}
+library(fastbaps)
+library(ggtree)
+library(phytools)
+library(ggplot2)
+
+
+fasta.file.name <- system.file("extdata", "seqs.fa", package = "fastbaps")
+
+sparse.data <- import_fasta_sparse_nt("required_files/clean.core.aln", prior = "baps")
+
+
+iqtree.rooted <- phytools::read.newick("required_files/ST167_800_ED1a_figtree_formatted.newick")
+
+best.partition <- best_baps_partition(sparse.data, iqtree.rooted)
+
+plot.df <- data.frame(id = iqtree.rooted$tip.label, fastbaps = best.partition, stringsAsFactors = FALSE)
+
+gg <- ggtree(iqtree.rooted)
+f2 <- facet_plot(gg, panel = "fastbaps", data = plot.df, geom = geom_tile, aes(x = fastbaps), 
+    color = "blue")
+f2
+
+plot_df_level1_grouped <- plot.df %>% 
+  group_by(fastbaps) %>% 
+  summarise(count = n())
+
+group3_tips <- plot.df$id[plot.df$fastbaps == 3]
+write.table(group3_tips, "group3_names.txt", quote=FALSE, row.names=FALSE, col.names=FALSE)
+
+## On command line - keeps only genomes listed in the file with their nucleotide seq
+# seqkit grep -f group3_names.txt clean.core.aln > clean.core.group3.aln
+
+# Import the filtered alignment
+sparse_data_group3 <- import_fasta_sparse_nt("required_files/clean.core.group3.aln", prior = "baps")
+
+pruned_tree <- ape::keep.tip(iqtree.rooted, group3_tips)
+
+best_partition_level2 <- best_baps_partition(sparse_data_group3, pruned_tree)
+
+plot_df_level2 <- data.frame(
+    id = pruned_tree$tip.label,
+    fastbaps = best_partition_level2,
+    stringsAsFactors = FALSE
+)
+
+gg_filtered <- ggtree(pruned_tree)
+f2_filtered <- facet_plot(gg_filtered, 
+                         panel = "fastbaps_level2", 
+                         data = plot_df_level2, 
+                         geom = geom_tile, 
+                         aes(x = fastbaps), 
+                         color = "red")
+
+plot(f2_filtered)
+
+plot_df_level2_grouped <- plot_df_level2 %>% 
+  group_by(fastbaps) %>% 
+  summarise(count = n())
+
+group5_tips <- plot_df_level2$id[plot_df_level2$fastbaps == 5]
+write.table(group5_tips, "group5_names.txt", quote=FALSE, row.names=FALSE, col.names=FALSE)
+
+## On command line - keeps only genomes listed in the file with their nucleotide seq
+# seqkit grep -f group5_names.txt clean.core.aln > clean.core.group5.aln
+
+# Import the filtered alignment
+sparse_data_group5 <- import_fasta_sparse_nt("required_files/clean.core.group5.aln", prior = "baps")
+
+# Get the pruned tree if you haven't already
+pruned_tree_v2 <- ape::keep.tip(pruned_tree, group5_tips)
+
+# Run second level clustering
+best_partition_level3 <- best_baps_partition(sparse_data_group5, pruned_tree_v2)
+
+# Create and save the plot
+plot_df_level3 <- data.frame(
+    id = pruned_tree_v2$tip.label,
+    fastbaps = best_partition_level3,
+    stringsAsFactors = FALSE
+)
+
+gg_filtered_v2 <- ggtree(pruned_tree_v2)
+f3_filtered <- facet_plot(gg_filtered_v2, 
+                         panel = "fastbaps_level3", 
+                         data = plot_df_level3, 
+                         geom = geom_tile, 
+                         aes(x = fastbaps), 
+                         color = "red")
+
+plot(f3_filtered)
+
+plot_df_level3_grouped <- plot_df_level3 %>% 
+  group_by(fastbaps) %>% 
+  summarise(count = n())
+```
+
+## Supp figure 4
+```{r}
+all_ST_abricate_file <- read_tsv("required_files/LW_VF_100ST_abricate.tsv") %>%
+  mutate('#FILE' = str_replace(`#FILE`, "_abricate\\.tsv$", ""))
+
+all_ST_abricate_file <- all_ST_abricate_file[-1, ]
+
+
+barcodes <- read_tsv("required_files/Ecoli_100ST_barcode_ST.txt")
+
+enterobase_phylogroups <- read_tsv("required_files/Ecoli_allST_clermonTypes.txt", col_names = c("ST", "n_strain", "n_phylo", "phylogroup", "phylogroup_all", "phylogroup_all_n"),
+                         skip = 1)
+
+
+abricate_100ST <- left_join(barcodes, all_ST_abricate_file, by = c("barcode" = "#FILE"))
+
+abricate_curated <- abricate_100ST
+
+abricate_curated <- as.data.frame(abricate_curated)
+rownames(abricate_curated) <- abricate_100ST$'#FILE'  
+
+abricate_curated <- abricate_curated %>%
+  mutate(across(-c(barcode, ST), ~ if_else(. == ".", 0, 1)))
+
+VF_curated_sum <- rowSums(abricate_curated[, -c(1, 2)]) 
+VF_curated_sum <- data.frame(abricate_curated[, c("barcode", "ST")], Sum = VF_curated_sum)
+
+average_VF_curated_per_ST <- VF_curated_sum %>%
+  group_by(ST) %>%
+  summarise(Average_Sum_VFs = mean(Sum))
+
+median_VF_curated_per_ST <- VF_curated_sum %>%
+  group_by(ST) %>%
+  summarise(Median_Sum_VFs = median(Sum))
+
+abricate_100ST_v2 <- as.data.frame(abricate_100ST)
+rownames(abricate_100ST_v2) <- abricate_100ST_v2$'barcode' 
+abricate_100ST_v2 <- select(abricate_100ST_v2, -NUM_FOUND, -barcode)
+
+abricate_matrix <- abricate_100ST_v2 %>%
+  mutate(across(-c(ST), ~ if_else(. == ".", 0, 1)))
+
+VF_uncurated_sum <- rowSums(abricate_matrix[, -1])  
+VF_uncurated_sum <- data.frame(ST = abricate_matrix[, "ST"], Sum = VF_uncurated_sum, check.names = FALSE)
+
+average_VF_uncurated_per_ST <- VF_uncurated_sum %>%
+  group_by(ST) %>%
+  summarise(Average_Sum_VFs = mean(Sum))
+
+median_VF_uncurated_per_ST <- VF_uncurated_sum %>%
+  group_by(ST) %>%
+  summarise(Median_Sum_VFs = median(Sum))
+
+enterobase_phylogroups$ST <- as.character(enterobase_phylogroups$ST)
+VF_curated_sum$ST <- as.character(VF_curated_sum$ST)
+
+VF_curated_sum_phylogroups <- left_join(VF_curated_sum, enterobase_phylogroups[, c("ST", "phylogroup")], by = "ST")
+
+VF_curated_sum$ST <- factor(VF_curated_sum$ST, levels = levels(factor(median_VF_curated_per_ST$ST)))
+
+all_STs_VF_curated <- ggplot() +
+  geom_col(data = median_VF_curated_per_ST, aes(x = reorder(ST, -Median_Sum_VFs), y = Median_Sum_VFs), color = "black", fill = "grey") +
+  geom_point(data = VF_curated_sum, aes(x = ST, y = Sum), position = position_jitter(width = 0.2), color = "black") +
+  xlab("ST") +  
+  ylab("Number of VF Genes per Genome") +
+  theme_classic() +
+  theme(axis.text = element_text(size = 18, color = "black"),
+        axis.text.x = element_text(size = 18, angle = 90, vjust = 0.5, hjust = 1)) +
+  theme(axis.title = element_text(size = 18))
+
+phylo_data_combined <- VF_curated_sum_phylogroups %>%
+  filter(ST != "583" & ST != "32") %>% 
+  filter(phylogroup %in% c("B2", "D") | ST == "167")
+
+st167_phylogroup <- VF_curated_sum_phylogroups %>%
+  filter(ST == "167") %>%
+  pull(phylogroup) %>%
+  unique()
+
+median_phylo_data_combined <- median_VF_curated_per_ST %>%
+  filter(ST %in% phylo_data_combined$ST)
+
+median_phylo_data_combined <- median_phylo_data_combined %>%
+  mutate(ST = as.character(ST)) %>%
+  left_join(phylo_data_combined %>% 
+            select(ST, phylogroup) %>% 
+            distinct() %>%
+            mutate(ST = as.character(ST)), 
+            by = "ST")
+
+color_values <- c("B2" = "#1f78b4", "D" = "#33a02c")
+if (!st167_phylogroup %in% c("B2", "D")) {
+  color_values[st167_phylogroup] <- "#ff7f00"  
+}
+combined_plot <- ggplot() +
+  geom_col(data = median_phylo_data_combined, 
+           aes(x = reorder(ST, -Median_Sum_VFs), y = Median_Sum_VFs, fill = phylogroup), 
+           color = "black") +
+  geom_point(data = phylo_data_combined, 
+             aes(x = ST, y = Sum), 
+             position = position_jitter(width = 0.2), 
+             color = "black") +
+  scale_fill_manual(values = color_values) +
+  xlab("ST") +  
+  ylab("Number of VF Genes per Genome") +
+  scale_y_continuous(limits = c(0, 50), breaks = seq(0, 50, 10)) +
+  theme_classic() +
+  theme(axis.text = element_text(size = 18, color = "black"),
+        axis.text.x = element_text(size = 18, angle = 90, vjust = 0.5, hjust = 1),
+        axis.title = element_text(size = 18),
+        legend.text = element_text(size = 14),
+        legend.title = element_text(size = 16))
+
+print(combined_plot)
+
+```
+
+
+
+## Supp figure 5
+```{r}
+ST167_data <- read_tsv("required_files//ST167_LW_VF_abricate.tsv")
+
+ST131_data <- read_tsv("required_files//ST131_LW_VF_abricate.tsv")
+
+VF_genes <- read_tsv("required_files/20240716_VF_GI_LIST.txt", col_names = FALSE)
+
+vf_list <- VF_genes$X1
+
+st131_present_vfs <- intersect(vf_list, colnames(ST131_data))
+st167_present_vfs <- intersect(vf_list, colnames(ST167_data))
+
+st131_missing_vfs <- setdiff(vf_list, colnames(ST131_data))
+st167_missing_vfs <- setdiff(vf_list, colnames(ST167_data))
+
+ST131_complete <- ST131_data
+for(vf in vf_list) {
+  if(!(vf %in% colnames(ST131_complete))) {
+    ST131_complete[[vf]] <- 0
+  }
+}
+
+ST167_complete <- ST167_data
+for(vf in vf_list) {
+  if(!(vf %in% colnames(ST167_complete))) {
+    ST167_complete[[vf]] <- 0
+  }
+}
+
+ST131_filtered <- ST131_complete %>%
+  select(all_of(vf_list))
+
+ST167_filtered <- ST167_complete %>%
+  select(all_of(vf_list))
+
+ST131_percentages <- ST131_filtered %>%
+  summarise(across(everything(), function(x) {
+    x_clean <- x[!is.na(x)]
+    present <- sum(x_clean > 0)
+    total <- length(x_clean)
+    return((present/total) * 100)
+  })) %>%
+  pivot_longer(cols = everything(),
+               names_to = "VF",
+               values_to = "percentage_131")
+
+ST167_percentages <- ST167_filtered %>%
+  summarise(across(everything(), function(x) {
+    x_clean <- x[!is.na(x)]
+    present <- sum(x_clean > 0)
+    total <- length(x_clean)
+    return((present/total) * 100)
+  })) %>%
+  pivot_longer(cols = everything(),
+               names_to = "VF",
+               values_to = "percentage_167")
+
+combined_percentages <- ST131_percentages %>%
+  left_join(ST167_percentages, by = "VF") %>%
+  mutate(percentage_131 = -percentage_131)
+
+
+# First create the ordered_vfs from VF_genes
+ordered_vfs <- VF_genes$X1 %>%
+  sapply(function(x) {
+    if (x == "agn43_gi_386622094") {
+      return("agn43 (Short)")
+    } else if (x == "afaC/draC/daaC_VFG045796") {
+      return("afaC")
+    } else if (x == "agn43_MS7163") {
+      return("agn43_MS7163")
+    } else {
+      return(sub("_.*", "", x))
+    }
+  })
+
+combined_percentages <- combined_percentages %>%
+  mutate(
+    VF_cleaned = case_when(
+      VF == "afaC/draC/daaC_VFG045796" ~ "afaC",
+      VF == "agn43_MS7163" ~ "agn43_MS7163",
+      TRUE ~ sub("_.*", "", VF)
+    )
+  ) %>%
+  mutate(VF = factor(VF_cleaned, levels = rev(ordered_vfs))) %>%
+  select(-VF_cleaned)
+
+p <- ggplot(combined_percentages) +
+  # ST131 bars (left side)
+  geom_col(aes(x = percentage_131, y = VF), 
+          fill = "#377eb8", 
+          alpha = 0.7,
+          color = "black",    
+          size = 0.5,         
+          width = 0.8) +      
+  # ST167 bars (right side)
+  geom_col(aes(x = percentage_167, y = VF), 
+          fill = "#e41a1c", 
+          alpha = 0.7,
+          color = "black",    
+          size = 0.5,         
+          width = 0.8) +      
+  # Add a center gap using white rectangle
+  geom_rect(aes(xmin = -2, xmax = 2, 
+                ymin = -Inf, ymax = Inf), 
+           fill = "white") +
+  # Add thin black lines at the edges of the gap
+  geom_vline(xintercept = -2, color = "black", linetype = "solid") +
+  geom_vline(xintercept = 2, color = "black", linetype = "solid") +
+  # Labels
+  labs(x = "Percentage (%)",
+       y = NULL,
+       title = "Distribution of Virulence Factors in ST131 and ST167") +
+  # Custom theme
+  theme_minimal() +
+  # Modified x-axis to show 0 on both sides
+  scale_x_continuous(
+    breaks = c(seq(-100, -20, 20), -2, 2, seq(20, 100, 20)),
+    labels = c(seq(100, 20, -20), "0", "0", seq(20, 100, 20)),
+    limits = c(-100, 100)
+  ) +
+  theme(
+    axis.text.y = element_text(color = "black", size = 8),
+    panel.grid.major.y = element_blank(),
+    panel.grid.minor.y = element_blank(),
+    axis.text.y.right = element_blank(),
+    axis.ticks.y = element_blank(),
+    panel.spacing = unit(2, "lines")
+  )
+p
+```
+
+## Figure 2a
+```{r}
+V1_ecvgdb <- read_tsv("required_files/ST167_LW_VF_abricate.tsv") 
+
+
+V1_ecvgdb <- V1_ecvgdb %>%
+  mutate(`#FILE` = str_replace(`#FILE`, "_abricate.tsv", "")) %>% 
+  select(-NUM_FOUND)
+
+VF_genes <- read_tsv("required_files/20240716_VF_GI_LIST.txt", col_names = FALSE)
+
+V1_ecvgdb <- V1_ecvgdb %>%
+  select(`#FILE`, any_of(VF_genes$X1))
+
+V1_ecvgdb_ST_phylogroups_filtered <- V1_ecvgdb %>%
+  mutate(across(!c(`#FILE`), as.numeric))
+
+V1_ecvgdb_ST_phylogroups_filtered_2 <- V1_ecvgdb_ST_phylogroups_filtered %>%
+  mutate(across(!c(`#FILE`), ~ ifelse(. >= 90, 1, 0)))
+
+V1_ecvgdb_ST_phylogroups_filtered_2 <- V1_ecvgdb_ST_phylogroups_filtered_2 %>%
+  mutate(across(!c(`#FILE`), ~ replace_na(., 0)))
+
+library(ape)
+
+tree <- ape::read.tree("required_files/ST167_800_ED1a_figtree_formatted.newick")
+
+#ape::plot.phylo(tree, show.tip.label = FALSE)
+
+p <- ggtree(tree, layout='rectangular') + 
+     theme_tree2() + 
+     xlim_tree(0.001) +
+     geom_treescale(x = 0, width = 0.0005, offset = -1, fontsize = 3) +
+     theme(plot.margin = unit(c(1,1,1,1), "cm"))
+
+vf_matrix <- V1_ecvgdb_ST_phylogroups_filtered_2 %>%
+  column_to_rownames("#FILE") %>%  
+  as.matrix()
+
+vf_matrix <- matrix(as.factor(vf_matrix), ncol = ncol(vf_matrix))
+colnames(vf_matrix) <- colnames(V1_ecvgdb_ST_phylogroups_filtered_2 %>% select(-c("#FILE")))
+rownames(vf_matrix) <- rownames(V1_ecvgdb_ST_phylogroups_filtered_2 %>% column_to_rownames("#FILE"))
+
+# Modify column names
+colnames(vf_matrix) <- colnames(vf_matrix) %>%
+  sapply(function(x) {
+    if (x == "agn43_gi_386622094") {
+      return("agn43 (Short)")
+    } else if (x == "afaC/draC/daaC_VFG045796") {
+      return("afaC/draC")
+    } else if (x == "agn43_MS7163") {
+      return("agn43_MS7163")
+    } else {
+      return(sub("_.*", "", x))
+    }
+  })
+
+vf_matrix <- vf_matrix[, !colnames(vf_matrix) %in% c("hlyA"), drop = FALSE]
+
+
+heatmap_plot <- gheatmap(p, vf_matrix, 
+                        offset = 0.0015,    
+                        width = 5,          
+                        colnames_angle = 90, 
+                        colnames_offset_y = 0.25,
+                        font.size = 2,
+                        colnames_position = "top",
+                        hjust = 0,
+                        color = FALSE) +     
+        scale_fill_manual(values = c("#FFFFFF00", "black"),
+                         name = "Gene Presence",
+                         labels = c("Absent", "Present")) +
+        ggtree::vexpand(.4, 1) +
+        theme(legend.position = "none")
+
+```
+
+## Figure 3
+```{r}
+amr_data <- read_tsv("required_files/20241015_amrfinder_ST167_2066.tsv")
+
+amr_data$`Contig id` <- sub("\\.fasta$", "", amr_data$`Contig id`)
+
+amr_data$`Contig id` <- str_remove(amr_data$`Contig id`, "\\.fasta$")
+
+amr_data_filtered <- amr_data %>% 
+  filter(`Alignment length` >= 0.9*`Reference sequence length`) %>% 
+  filter(`% Identity to reference sequence` > 90)
+
+amr_data_filtered <- amr_data_filtered %>% 
+  filter(if_any(everything(), ~grepl("AMR", .)))
+
+amr_data_filtered
+rn <- amr_data_filtered$`Contig id`
+
+amr_gene_list <- amr_data_filtered %>%
+ distinct(`Gene symbol`, Class, Subclass) %>%
+ arrange(Class, Subclass, `Gene symbol`)
+
+enterobase_metadata <- read_tsv("required_files/supp_figure_1_metadata.tsv") 
+
+HC20_barcodes <- enterobase_metadata  %>% 
+  filter(HC20 %in% c("64736", "109409")) %>% 
+  select(Assembly_barcode, HC20, source_details)
+
+enterobase_metadata_64736 <- enterobase_metadata %>% 
+  filter(HC20 == 64736)
+
+enterobase_metadata_64736_grouped <- enterobase_metadata_64736 %>% 
+  group_by(source_details) %>% 
+  summarise(count = n())
+
+amr_HC20_filtered <- HC20_barcodes %>%
+ left_join(amr_data_filtered, 
+           by = c("Assembly_barcode" = "Contig id"))
+
+hc20_count <- HC20_barcodes %>%
+ distinct(Assembly_barcode) %>%
+ as.data.frame()
+
+amr_gene_counts <- amr_HC20_filtered %>%
+ group_by(`Gene symbol`) %>%
+ summarise(count = n()) %>%
+ arrange(desc(count)) %>% 
+ as.data.frame()
+
+selected_genes <- c("acrF", "gyrA_D87N", "gyrA_S83L", "mdtM", "parC_S80I", "parE_S458A",
+                  "blaEC", "blaNDM-5", "ble", "sul1", "dfrA12", "aadA2", "ftsI_N337NYRIN",
+                  "mph(A)", "tet(A)", "aac(6')-Ib-cr5", "blaCTX-M-15", "blaOXA-1", 
+                  "blaTEM-1", "aph(6)-Id", "aph(3'')-Ib", "sul2", "aadA5", "dfrA17",
+                  "aac(3)-IId", "floR", "aadA22", "aph(3')-Ia", "erm(B)", "qnrS1")
+
+amr_HC20_selected_genes <- amr_HC20_filtered %>%
+ filter(`Gene symbol` %in% selected_genes)
+
+gene_classifications <- amr_HC20_selected_genes %>%
+ select(`Gene symbol`, Class, Subclass) %>%
+ distinct() %>%
+ arrange(`Gene symbol`)
+
+gene_order <- c("gyrA_D87N", "gyrA_S83L", "parC_S80I", "parE_S458A", 
+               selected_genes[!selected_genes %in% c("gyrA_D87N", "gyrA_S83L", "parC_S80I", "parE_S458A")])
+
+complete_combinations <- expand.grid(
+ `Gene symbol` = unique(amr_HC20_selected_genes$`Gene symbol`),
+ HC20 = unique(amr_HC20_selected_genes$HC20)
+) %>% as_tibble()
+
+gene_percentages <- amr_HC20_selected_genes %>%
+ group_by(HC20, `Gene symbol`) %>%
+ summarise(count = n(), .groups = 'drop') %>%
+ group_by(HC20) %>%
+ mutate(
+   total_genomes = n_distinct(amr_HC20_selected_genes$Assembly_barcode[amr_HC20_selected_genes$HC20 == first(HC20)]),
+   percentage = (count/total_genomes) * 100
+ ) %>%
+ right_join(complete_combinations, by = c("Gene symbol", "HC20")) %>%
+ mutate(
+   percentage = replace_na(percentage, 0),
+   HC20 = as.factor(HC20),
+   `Gene symbol` = factor(`Gene symbol`, levels = gene_order)
+ )
+
+gene_percentages <- gene_percentages %>%
+ mutate(
+   gene_group = case_when(
+     `Gene symbol` %in% c("gyrA_D87N", "gyrA_S83L", "parC_S80I", "parE_S458A", "qnrS1", "aac(6')-Ib-cr5") ~ "Quinolones",
+     `Gene symbol` %in% c("aadA2", "aadA22", "aadA5", "aph(3'')-Ib", "aph(6)-Id", "aph(3')-Ia", "aac(3)-IId") ~ "Aminoglycosides",
+     `Gene symbol` %in% c("dfrA12", "dfrA17", "sul1", "sul2") ~ "Trimethoprim and Sulfonamide",
+     `Gene symbol` %in% c("blaNDM-5", "blaCTX-M-15", "blaOXA-1", "blaEC", "blaTEM-1", "ftsI_N337NYRIN") ~ "Beta-lactams",
+     `Gene symbol` %in% c("erm(B)", "mph(A)") ~ "Macrolide",
+     `Gene symbol` %in% c("acrF", "mdtM", "ble", "tet(A)", "floR") ~ "Other"
+   )
+ )
+group_order <- c("Quinolones", 
+                "Beta-lactams",
+                "Aminoglycosides",
+                "Trimethoprim and Sulfonamide",
+                "Macrolide",
+                "Other")
+
+gene_percentages_collapsed <- gene_percentages %>%
+  mutate(
+    `Gene symbol` = case_when(
+      `Gene symbol` %in% c("gyrA_D87N", "gyrA_S83L", "parC_S80I", "parE_S458A") ~ "gyrA/parC mutations",
+      TRUE ~ `Gene symbol`
+    )
+  ) %>%
+  group_by(`Gene symbol`, HC20, gene_group) %>%
+  summarise(
+    percentage = max(percentage),
+    .groups = 'drop'
+  )
+
+group_order <- c("Quinolones", 
+                "Beta-lactams",
+                "Aminoglycosides",
+                "Trimethoprim and Sulfonamide",
+                "Macrolide",
+                "Other")
+
+gene_percentages_collapsed <- gene_percentages_collapsed %>%
+  mutate(
+    gene_group = factor(gene_group, levels = group_order)
+  )
+
+
+hc20_colors <- c(
+  "109409" = "#e31a1c", 
+  "64736" = "#005a9c"  
+)
+
+gene_percentages_collapsed <- gene_percentages_collapsed %>%
+  mutate(HC20 = factor(HC20, levels = c("109409", "64736")))
+
+ggplot(gene_percentages_collapsed, aes(x = `Gene symbol`, y = percentage, fill = HC20)) +
+  geom_col(position = "dodge", 
+          color = "black",
+          linewidth = 0.25) +   
+  scale_fill_manual(values = hc20_colors) +  
+  facet_grid(~ gene_group, scales = "free_x", space = "free") +
+  theme_bw() +
+  theme(
+    axis.text.x = element_text(angle = 45, hjust = 1),
+    panel.grid.minor = element_blank(),
+    strip.background = element_rect(fill = "white"),
+    strip.text = element_text(size = 12)
+  ) +
+  labs(
+    x = "Gene",
+    y = "Percentage (%)",
+    title = "AMR Gene Prevalence by HC20 Group"
+  )
+
+HC20_counts <- HC20_barcodes %>%
+  group_by(HC20) %>%
+  summarise(count = n()) %>%
+  mutate(HC20 = factor(HC20))
+
+ggplot(HC20_counts, aes(x = count, y = HC20, fill = HC20)) +
+  geom_col() +
+  scale_fill_manual(values = c(
+    "109409" = "#e31a1c",
+    "64736" = "#005a9c" 
+    )) +
+  theme_bw() +
+  theme(
+    panel.grid.minor = element_blank(),
+    legend.position = "none",
+      aspect.ratio = 1.5/1
+  ) +
+  labs(
+    x = "Number of Genomes",
+    y = "HC20 Group",
+    title = "Number of Genomes per HC20 Group"
+  )
+
+HC20_percentages <- HC20_barcodes %>%
+  mutate(
+    is_human = case_when(
+      grepl("homo sapiens|human", source_details, ignore.case = TRUE) ~ "Human",
+      TRUE ~ "Other"
+    )
+  ) %>%
+  group_by(HC20) %>%
+  mutate(total = n()) %>%
+  group_by(HC20, is_human) %>%
+  summarise(
+    count = n(),
+    total = first(total),
+    percentage = (count/total) * 100,
+    .groups = "drop"
+  ) %>%
+  filter(is_human == "Human") %>%
+  mutate(HC20 = factor(HC20))
+
+ggplot(HC20_percentages, aes(y = HC20, x = percentage)) +
+  geom_col(fill = "#bebada") +
+  theme_bw() +
+  theme(
+    panel.grid.minor = element_blank(),
+    legend.position = "none"
+  ) +
+  labs(
+    y = "HC20 Group",
+    x = "Percentage of Human Sources (%)",
+    title = "Percentage of Human Sources in HC20 Groups"
+  )
+
+```
+
+## Figure 4a
+```{r}
+library(treeio)
+
+beast_tree <- read.beast("required_files/ST167_C2_MCC_low_mem_05.tree")
+
+print(beast_tree)
+
+node_df <- as_tibble(beast_tree)
+
+node_df <- node_df %>%
+  relocate(node)
+
+node_df <- node_df[, c("node", setdiff(names(node_df), "node"))]
+
+ggtree(beast_tree) +
+  geom_nodelab(aes(label=round(height,2))) +
+  geom_tiplab()
+
+# For HPD intervals
+ggtree(beast_tree) +
+  geom_nodepoint() +
+  geom_range("height_0.95_HPD", color="blue", alpha=0.3)
+
+p1 <- ggtree(beast_tree)
+tree_data <- p1$data
+
+# Use HEIGHT not X for the time conversion
+current_year <- 2024
+tree_data$year <- current_year - tree_data$height  
+
+max_x <- max(tree_data$x, na.rm = TRUE)
+min_x <- min(tree_data$x, na.rm = TRUE)
+max_year <- max(tree_data$year, na.rm = TRUE)
+min_year <- min(tree_data$year, na.rm = TRUE)
+
+# Map x coordinates to year coordinates for plotting
+tree_data$year_x <- min_year + (tree_data$x - min_x) * (max_year - min_year) / (max_x - min_x)
+
+new_tree_data <- data.frame(
+    parent = tree_data$parent,
+    node = tree_data$node,
+    branch.length = tree_data$branch.length,
+    label = tree_data$label,
+    isTip = tree_data$isTip,
+    year = tree_data$year_x,  
+    actual_year = tree_data$year,  
+    y = tree_data$y
+) %>% 
+  rename(x = year)
+
+p <- ggtree(new_tree_data) +
+     theme_tree2() +
+     scale_x_continuous(
+         breaks = seq(2000, 2024, by = 2),
+         labels = seq(2000, 2024, by = 2)
+     ) +
+     scale_y_reverse() 
+
+p_node <- p + geom_point(data = subset(new_tree_data, node == 550),
+                    aes(x = x, y = y),
+                    color = "#f781bf",
+                    size = 2,
+                    shape = 17) 
+
+p_node
+
+ST167_genomes <-read_tsv("required_files/supp_figure_1_metadata.tsv") 
+
+ST167_C2_genomes <- ST167_genomes %>% 
+  filter(ST == 167) %>% 
+  filter(Assembly_barcode %in% new_tree_data$label)
+
+ST167_c2_continent <- ST167_C2_genomes %>% 
+  select(Assembly_barcode, Continent)
+
+ST167_c2_continent_clean <- ST167_c2_continent %>%
+  mutate(Continent = ifelse(is.na(Continent), "Other", Continent))
+
+ST167_c2_continent_clean_count <- ST167_c2_continent_clean %>% 
+  group_by(Continent) %>% 
+  summarise(count = n())
+
+ST167_HC_info <- read_tsv("required_files/20250425_ST167_HC10_info.tsv")
+
+ST167_109409_KL124 <- ST167_HC_info %>% 
+  filter(HC10 == "109409") %>% 
+  select(c(Assembly_barcode, HC10)) %>% 
+  rename(label = Assembly_barcode)
+
+ST167_197458_KL30 <- ST167_HC_info %>% 
+  filter(HC10 == "197458") %>% 
+  select(c(Assembly_barcode, HC10)) %>% 
+  rename(label = Assembly_barcode)
+
+all_tips <- new_tree_data$label[new_tree_data$isTip]
+
+ST167_combined_HC10 <- rbind(ST167_109409_KL124, ST167_197458_KL30)
+
+complete_HC10_data <- data.frame(
+    label = all_tips
+) %>%
+    left_join(ST167_combined_HC10, by = "label") %>%
+    mutate(HC10 = ifelse(is.na(HC10), "Other", HC10))
+
+ST167_HC20_109409 <- ST167_HC_info %>% 
+  filter(HC20 == "109409") %>% 
+  select(c(Assembly_barcode, HC20)) %>% 
+  rename(label = Assembly_barcode)
+
+complete_HC20_data <- data.frame(
+    label = all_tips
+) %>%
+    left_join(ST167_HC20_109409, by = "label") %>%
+    mutate(HC20 = ifelse(is.na(HC20), "Other", HC20)) %>%
+    mutate(HC20 = ifelse(HC20 == "109409", "109409_v2", HC20))
+
+complete_HC20_data_count <- complete_HC20_data %>% 
+  group_by(HC20) %>% 
+  summarise(count = n())
+
+kaptive <- read_tsv("required_files/kaptive_results_table_new.txt") %>% 
+  filter(`Match confidence` != "Low") %>% 
+  filter(`Match confidence` != "None") 
+
+c25 <- c(
+  "#3dfc7d",
+  "black",
+  "#4695f0",
+  "#d37505",
+  "#5d7499",
+  "#FB9A99"
+)
+
+k_types <- kaptive %>%
+  distinct(`Best match locus`) %>%
+  arrange(`Best match locus`)
+
+pre_assigned_colors <- c(
+  KL124 = "black",
+  KL101 = "#FB9A99",
+  KL30 = "#3dfc7d",
+  KL103 = "#4695f0",
+  KL114 = "#d37505",
+  KL115 = "#5d7499"
+)
+
+distinct_loci <- setdiff(unique(kaptive$`Best match locus`), c(names(pre_assigned_colors), NA))
+
+remaining_colors <- setdiff(c25, pre_assigned_colors)
+
+color_assignment <- c(
+  pre_assigned_colors,
+  setNames(remaining_colors[seq_along(distinct_loci)], distinct_loci)
+)
+
+kaptive <- kaptive %>%
+  mutate(Capsule_color = case_when(
+    is.na(`Best match locus`) ~ "#afafaf",
+    `Best match locus` %in% names(color_assignment) ~ color_assignment[`Best match locus`],
+    TRUE ~ "#afafaf"
+  ))
+
+kaptive_colours <- kaptive %>% 
+  select(c(Assembly, `Best match locus`, Capsule_color))
+
+kaptive_colours_select <- kaptive_colours %>% 
+  select(c(Assembly, `Best match locus`))
+
+kaptive_colours_select <- kaptive_colours_select %>% 
+  right_join(complete_HC10_data, by = c("Assembly" = "label")) %>% 
+  select(c(Assembly, `Best match locus`)) %>% 
+  mutate(`Best match locus` = case_when(
+    Assembly == "Reference" ~ "KL124",
+    is.na(`Best match locus`) ~ "Other",
+    TRUE ~ `Best match locus`
+  )) 
+
+##### PLOTTING THE TREE
+
+
+p2 <- p + 
+     geom_facet(panel = "HC20", 
+                data = complete_HC20_data, 
+                geom = geom_tile, 
+                mapping = aes(x = 1, fill = HC20),
+                width = 0.8) +
+     theme(legend.position = "bottom",
+           strip.background = element_rect(fill = "grey95"),
+           strip.text = element_text(size = 10),
+           panel.grid = element_blank()) 
+
+
+p3 <- p2+
+  geom_facet(panel = "Capsule",
+             data = kaptive_colours_select,
+             geom = geom_tile,
+             mapping = aes(x=1, fill = `Best match locus`),
+             width = 0.8) +
+                        theme(
+    legend.position = "bottom",
+    strip.background = element_rect(fill = "grey95"),
+    strip.text = element_text(size = 10),
+    panel.grid = element_blank(),
+    axis.text.x = element_text(color = "black") 
+  ) 
+
+p4 <- p3 +
+  geom_facet(panel = "Continent",
+             data = ST167_c2_continent_clean,
+             geom = geom_tile,
+             mapping = aes(x = 1, fill = Continent),
+             width = 0.8) +
+  scale_fill_manual(values = c("Other" = "grey80",
+                               "109409_v2" = "#e31a1c",
+                                "KL124" = "black",
+                                "KL101" = "#FB9A99",
+                                "KL30" = "#3dfc7d",
+                                "KL103" = "#4695f0",
+                                "KL114" = "#d37505",
+                                "KL115" = "#5d7499",
+                               "Europe" = "#a6cee3",
+                                "Asia" = "#1f78b4",
+                                "Africa" = "#b2df8a",
+                                "North America" = "#33a02c",
+                                "South America" = "#fb9a99",
+                                 "Oceania" = "#984ea3")) +
+  theme(
+    legend.position = "bottom",
+    strip.background = element_rect(fill = "grey95"),
+    strip.text = element_text(size = 10),
+    panel.grid = element_blank()
+  )
+
+
+# Adjust the relative widths of the tree and the HC10 column
+p5 <- facet_widths(p4, widths = c(1, 0.1, 0.1, 0.1))
+
+p5
+p4
+p3
+p2
+p
+```
+
+## Figure 4b
+```{r}
+data <- read_tsv("required_files/20250416_CBS_analysis_table.tsv", 
+                 skip = 1) 
+
+# Remove NaN rows
+data <- data[!is.na(data$median), ]
+
+# Start SVG with high resolution
+svg("required_files/bayesian_skyline_plot_tracer_log10.svg",
+    width = 8, 
+    height = 6)
+
+par(mar=c(5,5,4,2))
+
+# Main plot with log y-axis, forcing ylim to include 1000
+plot(data$time, data$median,
+     type="l",
+     ylim=c(1, 1000),  # Force y-axis to go up to 1000
+     xlab="Time (years)",
+     ylab="Effective Population Size",
+     main="Bayesian Skyline Plot",
+     lwd=2,                            
+     cex.lab=1.2,                      
+     cex.axis=1.1,                     
+     cex.main=1.3,                     
+     bty="l",                          
+     xaxt="n",
+     log="y",
+     yaxt="n")
+
+# X-axis
+axis(1, 
+     at=seq(2010, 2024, by=2),
+     cex.axis=1.1)
+
+# Custom y-axis with powers of 10 up to 1000
+axis(2, 
+     at=c(1, 10, 100, 1000),
+     labels=c(1, 10, 100, 1000),
+     cex.axis=1.1)
+
+# Add confidence intervals
+polygon(c(data$time, rev(data$time)), 
+        c(data$upper, rev(data$lower)), 
+        col=rgb(0.8,0.8,0.8,0.3),      
+        border=NA)
+
+# Add median line on top
+lines(data$time, data$median,
+      lwd=2.5,                         
+      col="black")
+
+# Add grid
+grid(nx=NA, ny=NULL, lty=2, col="grey80")
+
+dev.off()
+```
+
+## Supp figure 8
+```{r}
+supp_data <- read_tsv("required_files/20241105_ST167_metadata_supplementary_v5.tsv") 
+
+supp_data_v1 <- supp_data %>% 
+  select(c(Assembly_barcode, `Sample ID`, HC10, cluster, Random_800))
+
+ncbi_data <- read_tsv("required_files/PDS000063179.375_20241129.tsv") %>% 
+  rename(`Sample ID` = BioSample)
+
+ncbi_data_source <- ncbi_data %>% 
+  group_by(`Isolation source`) %>% 
+  summarise(count = n())
+
+ncbi_data_urine <- ncbi_data %>% 
+  filter(`Isolation source` %in% c("urine","Urine specimen","Urine specimen obtained by clean catch procedure", "URINE_CLEAN CATCH/VOIDED", "Urine, Clean Catch", "urine (clean catch)", "urine clean catch isolate")) %>% 
+  group_by(Location) %>% 
+  summarise(count = n())
+
+ncbi_combined_matched <- supp_data_v1 %>% 
+  left_join(ncbi_data, by = "Sample ID") 
+
+ncbi_combined_matched_only <- supp_data_v1 %>% 
+  inner_join(ncbi_data, by = "Sample ID")
+
+
+ncbi_data_countries <- ncbi_data %>% 
+  select(c(`Sample ID`, `Isolation source`, Location, `Collection date`))
+
+country_list <- ncbi_data_countries %>% 
+  select(Location) %>% 
+  distinct()
+
+# Process the country counts
+country_counts <- ncbi_data_countries %>%
+  mutate(
+    Country = case_when(
+      str_detect(Location, "USA:?|United States") ~ "USA",
+      str_detect(Location, "Viet Nam") ~ "Vietnam",
+      str_detect(Location, "China:?") ~ "China",
+      str_detect(Location, "Mexico:?") ~ "Mexico",
+      str_detect(Location, "Peru:?") ~ "Peru",
+      str_detect(Location, "Lebanon:?") ~ "Lebanon",
+      str_detect(Location, "Japan:?") ~ "Japan",
+      is.na(Location) ~ NA_character_,
+      TRUE ~ str_remove(Location, ":.*")
+    )
+  ) %>%
+  filter(!is.na(Country)) %>%
+  count(Country, name = "Count") %>%
+  # Sort by count in descending order
+  arrange(desc(Count))
+
+# Create horizontal bar plot
+p <- ggplot(country_counts, aes(x = reorder(Country, Count), y = Count)) +
+  geom_col() +
+  coord_flip() +  # Make bars horizontal
+  scale_y_continuous(
+    breaks = c(seq(0, 21, by = 20),  # Breaks from 10-50 by 10
+              seq(50, max(country_counts$Count), by = 50)),  # Then by 50s
+    limits = c(0, max(country_counts$Count))
+  ) +
+  theme_minimal() +
+  labs(
+    title = "Number of Isolates for NCBI SNP cluster PDS000063179.375 by Country",
+    x = "Country",
+    y = "Number of Isolates"
+  ) +
+  theme(
+    plot.title = element_text(size = 14, face = "bold"),
+    axis.text = element_text(size = 10)
+  )
+
+plot(p)
+```
+
+
+
+## Supp figure 9
+```{r}
+response_v2 <- metadata_with_clusters %>% 
+  rename(isolate_source = `Isolate source`) %>% 
+  select(Assembly_barcode, cluster, isolate_source, Continent) %>% 
+  filter(cluster %in% c("A", "B", "C1", "C2"))
+
+response_v2_grouped <- response_v2 %>% 
+  group_by(cluster, isolate_source, Continent) %>% 
+  summarise(count = n())
+
+continent_totals <- response_v2_grouped %>%
+  group_by(cluster, Continent) %>%
+  summarise(total_n = sum(count)) %>%
+  ungroup()
+
+# Add these totals to your percentage data
+response_v2_percentages <- response_v2_grouped %>%
+  group_by(cluster, Continent) %>%
+  mutate(total_per_cluster_continent = sum(count),
+         percentage = (count / total_per_cluster_continent) * 100) %>%
+  ungroup() %>%
+  left_join(continent_totals, by = c("cluster", "Continent")) %>%
+  # Create custom labels with N in brackets
+  mutate(continent_label = paste0(Continent, "\n(n=", total_n, ")"))
+
+# Now plot with the custom labels
+p <- ggplot(response_v2_percentages %>% filter(!is.na(Continent)), 
+       aes(x = continent_label, y = percentage, fill = isolate_source)) +
+  geom_bar(stat = "identity", position = "stack", color = "black", size = 0.2) +
+  facet_wrap(~ cluster, scales = "free_x") +
+  labs(title = "Distribution of Isolate Sources by Cluster and Continent",
+       x = "Continent",
+       y = "Percentage (%)",
+       fill = "Isolate Source") +
+  theme_minimal() +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1),
+        axis.text = element_text(color = "black"),
+        title = element_text(color = "black"),
+        text = element_text(color = "black")) +
+  scale_fill_manual(values = c("blood" = "#e31a1c",
+                              "UTI/urine" = "#ffff33",
+                              "rectal" = "#377eb8",
+                              "other" = "#afafaf"))
+
+p
+```
+
+```{r}
+
+```
+
+
+
+
+
+
+
