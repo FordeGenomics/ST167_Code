@@ -6,7 +6,7 @@ output: html_document
 ---
 
 ```{r}
-setwd("/Users/uqlwalk8/Documents/PHD/phd_project/Bioinformatics_v2/20240930_ST167_investigation/20250729_code_availability")
+setwd(".")
 ```
 
 
@@ -211,7 +211,7 @@ metadata <- metadata %>%
          isolate_source_colour = Disease_color,
         `Year range` = year_range)
 
-clusters <- read_tsv("/Users/uqlwalk8/Documents/PHD/phd_project/Bioinformatics_v2/20240930_ST167_investigation/20241008_filtered_ST167_database/20241020_heirbaps_on_snippy_core/000_clades_of_ST167.tsv") 
+clusters <- read_tsv("required_files/000_clades_of_ST167.tsv") 
 
 cluster_counts <- clusters %>%
   count(`clade`, name = "number_of_genomes")
@@ -486,7 +486,6 @@ abricate_100ST <- left_join(barcodes, all_ST_abricate_file, by = c("barcode" = "
 abricate_curated <- abricate_100ST
 
 abricate_curated <- as.data.frame(abricate_curated)
-rownames(abricate_curated) <- abricate_100ST$'#FILE'  
 
 abricate_curated <- abricate_curated %>%
   mutate(across(-c(barcode, ST), ~ if_else(. == ".", 0, 1)))
@@ -588,9 +587,9 @@ print(combined_plot)
 
 ## Supp figure 5
 ```{r}
-ST167_data <- read_tsv("required_files//ST167_LW_VF_abricate.tsv")
+ST167_data <- read_tsv("required_files/ST167_LW_VF_abricate.tsv")
 
-ST131_data <- read_tsv("required_files//ST131_LW_VF_abricate.tsv")
+ST131_data <- read_tsv("required_files/ST131_LW_VF_abricate.tsv")
 
 VF_genes <- read_tsv("required_files/20240716_VF_GI_LIST.txt", col_names = FALSE)
 
