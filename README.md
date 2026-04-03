@@ -1,6 +1,6 @@
 # ST167 code availability
 
-The R markdown file allows for the reproduction of figures generated in R from raw files for the manuscript Emergence of a carbapenem-resistant atypical uropathogenic Escherichia coli clone as an increasing cause of urinary tract infection.
+The R markdown file allows for the reproduction of figures generated in R from raw files for the manuscript Emergence of a carbapenem-resistant atypical uropathogenic Escherichia coli clone as an increasing cause of urinary tract infection - https://www.nature.com/articles/s41467-025-63477-0
 
 Analysis was performed in R version 4.3.1 (2023-06-16)
 
